@@ -76,4 +76,4 @@ The following are intentionally excluded:
 
 ## Citation
 
-Before public release, replace the placeholder creator metadata in `CITATION.cff` and `.zenodo.json` with the final author names and affiliations.
+Please cite the archived Zenodo release once the DOI has been minted.
