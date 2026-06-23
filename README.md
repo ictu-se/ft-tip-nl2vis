@@ -4,7 +4,7 @@ This repository contains the code, benchmark splits, and experimental artifacts 
 
 **Temporal-Statistical Intent Planning for Natural Language to Visualization under Support Metadata**
 
-The manuscript source and manuscript PDF are intentionally excluded. This repository is meant for reproducibility review, GitHub archival, and Zenodo DOI minting.
+The manuscript source and manuscript PDF are intentionally excluded. This repository is meant for reproducibility review, GitHub archival, and Zenodo DOI citation.
 
 ## Contents
 
@@ -56,13 +56,11 @@ Chart-level audit artifacts are under:
 runs/chart_level_audit_20260621/
 ```
 
-## GitHub and Zenodo Workflow
+## GitHub and Zenodo Archive
 
-1. Push this repository to GitHub.
-2. Create a GitHub release, for example `v1.0.0`.
-3. Connect the GitHub repository to Zenodo and archive the release.
-4. Update `CITATION.cff`, `.zenodo.json`, and this README with the final DOI.
-5. Cite the Zenodo DOI in the manuscript Data and Code Availability section.
+The archived release is available at Zenodo:
+
+https://doi.org/10.5281/zenodo.20819042
 
 ## Exclusions
 
@@ -76,4 +74,6 @@ The following are intentionally excluded:
 
 ## Citation
 
-Please cite the archived Zenodo release once the DOI has been minted.
+Please cite the archived Zenodo release:
+
+Nguyen, T. V. (2026). FT-TIP NL2Vis Reproducibility Package (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20819042

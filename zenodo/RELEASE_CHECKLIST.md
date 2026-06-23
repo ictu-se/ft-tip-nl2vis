@@ -12,7 +12,7 @@ Suggested manuscript wording:
 
 ```text
 The code, benchmark splits, and experimental artifacts supporting this study
-are archived at Zenodo: DOI TO_BE_FILLED_AFTER_RELEASE. The repository excludes
+are archived at Zenodo: https://doi.org/10.5281/zenodo.20819042. The repository excludes
 the manuscript source and contains the frozen evaluation commands, expanded
 benchmark splits, final-test outputs, statistical summaries, and chart-level
 audit artifacts.

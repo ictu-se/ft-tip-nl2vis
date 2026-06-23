@@ -15,5 +15,6 @@ keywords:
   - visualization planning
 license: "MIT"
 repository-code: "https://github.com/ictu-se/ft-tip-nl2vis"
+doi: "10.5281/zenodo.20819042"
 version: "1.0.1"
 date-released: "2026-06-24"
