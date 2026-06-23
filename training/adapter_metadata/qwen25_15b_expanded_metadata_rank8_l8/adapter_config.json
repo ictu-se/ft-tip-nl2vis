@@ -1,0 +1,41 @@
+{
+    "adapter_path": "/Users/nguyenthevinh/Library/CloudStorage/GoogleDrive-vinhnt@tnu.edu.vn/My Drive/NL2Vis_GenAI_Research_2025_2026/manuscripts/09_finetuned_temporal_intent_planner_nl2vis/training/adapters/qwen25_15b_expanded_metadata_rank8_l8",
+    "batch_size": 1,
+    "clear_cache_threshold": 0,
+    "config": "/Users/nguyenthevinh/Library/CloudStorage/GoogleDrive-vinhnt@tnu.edu.vn/My Drive/NL2Vis_GenAI_Research_2025_2026/manuscripts/09_finetuned_temporal_intent_planner_nl2vis/runs/dissertation_strength_20260621/configs/qwen25_15b_expanded_metadata_rank8_l8.yaml",
+    "data": "/Users/nguyenthevinh/Library/CloudStorage/GoogleDrive-vinhnt@tnu.edu.vn/My Drive/NL2Vis_GenAI_Research_2025_2026/manuscripts/09_finetuned_temporal_intent_planner_nl2vis/training/mlx_expanded_metadata_smoke",
+    "fine_tune_type": "lora",
+    "grad_accumulation_steps": 1,
+    "grad_checkpoint": false,
+    "iters": 300,
+    "learning_rate": 1e-05,
+    "lora_parameters": {
+        "rank": 8,
+        "dropout": 0.0,
+        "scale": 20.0
+    },
+    "lr_schedule": null,
+    "mask_prompt": true,
+    "max_seq_length": 2048,
+    "model": "mlx-community/Qwen2.5-1.5B-Instruct-4bit",
+    "num_layers": 8,
+    "optimizer": "adam",
+    "optimizer_config": {
+        "adam": {},
+        "adamw": {},
+        "muon": {},
+        "sgd": {},
+        "adafactor": {}
+    },
+    "project_name": null,
+    "report_to": null,
+    "resume_adapter_file": null,
+    "save_every": 100,
+    "seed": 20260624,
+    "steps_per_eval": 100,
+    "steps_per_report": 50,
+    "test": false,
+    "test_batches": 500,
+    "train": true,
+    "val_batches": 128
+}

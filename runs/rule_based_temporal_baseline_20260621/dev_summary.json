@@ -1,0 +1,18 @@
+{
+  "answerability_ok_pct": 99.29642092382991,
+  "core_intent_ok_pct": 99.29642092382991,
+  "false_plot_rate_pct": 0.0,
+  "full_intent_ok_pct": 99.29642092382991,
+  "json_ok_pct": 100.0,
+  "measure_ok_pct": 99.29642092382991,
+  "n": 3269,
+  "over_refusal_rate_pct": 0.7035790761700826,
+  "policy_action": {
+    "rule_based": 3269
+  },
+  "required_field_f1": 0.9929642092382992,
+  "statistic_ok_pct": 99.29642092382991,
+  "task_type_ok_pct": 99.29642092382991,
+  "temporal_filter_ok_pct": 99.29642092382991,
+  "time_field_ok_pct": 99.29642092382991
+}

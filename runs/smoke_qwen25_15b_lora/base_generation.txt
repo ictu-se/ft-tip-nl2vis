@@ -1,0 +1,6 @@
+{
+  "intent": "Show the trend of GDP current USD in Indonesia over time",
+  "type": "time series",
+  "dimension": "year",
+  "measure": "gdp_current_usd"
+}

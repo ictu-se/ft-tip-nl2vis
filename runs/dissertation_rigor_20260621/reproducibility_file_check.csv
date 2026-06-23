@@ -1,0 +1,16 @@
+path,exists,size_bytes
+draft\main.tex,True,95862
+training\checkpoint_selection_protocol.md,True,3868
+FINAL_TEST_COMMANDS.md,True,2484
+scripts\run_final_test_once.sh,True,3755
+scripts\run_mlx_intent_inference.py,True,7093
+scripts\run_mlx_gate_inference.py,True,6165
+scripts\run_mlx_ranker_inference.py,True,5317
+runs\final_test_20260620\FINAL_TEST_RESULT.md,True,2438
+runs\final_test_20260620\composed_planner_gate_temporal_constrained_test_summary.json,True,746
+runs\final_test_20260620\ranker_test_summary.json,True,201
+runs\final_test_20260620\ranker_test_swapped_summary.json,True,202
+runs\final_test_20260620\symmetric_ranker_policy\symmetric_ranker_policy_summary.json,True,1587
+runs\optional_external_multilingual_20260621\planner_vi_diacritic_dev\summary.json,True,423
+runs\optional_external_multilingual_20260621\planner_non_worldbank_dev\summary.json,True,422
+runs\optional_external_multilingual_20260621\prompt_mistral_7b_dev64\dev64_summary.json,True,297

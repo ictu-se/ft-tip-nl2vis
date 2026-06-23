@@ -1,0 +1,3 @@
+n,json_ok_pct,answerability_ok_pct,task_type_ok_pct,time_field_ok_pct,measure_ok_pct,temporal_filter_ok_pct,statistic_ok_pct,core_intent_ok_pct,full_intent_ok_pct,false_plot_rate_pct,over_refusal_rate_pct,slice,value
+1843,100.0,99.7287,92.3494,99.7287,99.6202,99.6744,99.6202,92.0781,91.8068,0.2713,0.0,language,en
+1268,100.0,98.1861,83.3596,98.1861,98.1073,85.0946,97.5552,83.2808,83.2019,1.8139,0.0,language,vi

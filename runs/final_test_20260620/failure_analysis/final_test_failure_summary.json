@@ -1,0 +1,104 @@
+{
+  "policy_summary": {
+    "answerability_ok_pct": 99.1,
+    "core_intent_ok_pct": 88.4924,
+    "false_plot_rate_pct": 0.9,
+    "full_intent_ok_pct": 88.2996,
+    "json_ok_pct": 100.0,
+    "measure_ok_pct": 99.0035,
+    "n": 3111,
+    "over_refusal_rate_pct": 0.0,
+    "statistic_ok_pct": 98.7785,
+    "task_type_ok_pct": 88.6853,
+    "temporal_filter_ok_pct": 93.7319,
+    "time_field_ok_pct": 99.1
+  },
+  "policy_taxonomy": [
+    {
+      "count": 352,
+      "failure_type": "wrong_task_type",
+      "rate_pct": 11.3147
+    },
+    {
+      "count": 195,
+      "failure_type": "wrong_temporal_filter",
+      "rate_pct": 6.2681
+    },
+    {
+      "count": 38,
+      "failure_type": "wrong_statistic",
+      "rate_pct": 1.2215
+    },
+    {
+      "count": 31,
+      "failure_type": "wrong_measure",
+      "rate_pct": 0.9965
+    },
+    {
+      "count": 28,
+      "failure_type": "false_plot",
+      "rate_pct": 0.9
+    },
+    {
+      "count": 28,
+      "failure_type": "wrong_time_field",
+      "rate_pct": 0.9
+    },
+    {
+      "count": 6,
+      "failure_type": "core_ok_but_full_wrong",
+      "rate_pct": 0.1929
+    }
+  ],
+  "ranker_task_sensitivity": [
+    {
+      "consistent_pct": 80.1449,
+      "fallback_pct": 19.8551,
+      "n": 690,
+      "symmetric_ok_pct": 80.1449,
+      "task_type": "mixed_change_ranking"
+    },
+    {
+      "consistent_pct": 94.3478,
+      "fallback_pct": 5.6522,
+      "n": 1380,
+      "symmetric_ok_pct": 94.3478,
+      "task_type": "temporal_recent_window"
+    },
+    {
+      "consistent_pct": 95.7971,
+      "fallback_pct": 4.2029,
+      "n": 1380,
+      "symmetric_ok_pct": 95.7971,
+      "task_type": "stat_change"
+    },
+    {
+      "consistent_pct": 97.8986,
+      "fallback_pct": 2.1014,
+      "n": 1380,
+      "symmetric_ok_pct": 97.8986,
+      "task_type": "temporal_previous_window"
+    },
+    {
+      "consistent_pct": 100.0,
+      "fallback_pct": 0.0,
+      "n": 1322,
+      "symmetric_ok_pct": 100.0,
+      "task_type": "stat_average_period"
+    },
+    {
+      "consistent_pct": 100.0,
+      "fallback_pct": 0.0,
+      "n": 1376,
+      "symmetric_ok_pct": 100.0,
+      "task_type": "temporal_boundary_check"
+    },
+    {
+      "consistent_pct": 100.0,
+      "fallback_pct": 0.0,
+      "n": 1322,
+      "symmetric_ok_pct": 100.0,
+      "task_type": "temporal_period_filter"
+    }
+  ]
+}

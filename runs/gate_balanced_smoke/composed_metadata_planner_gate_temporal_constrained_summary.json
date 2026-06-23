@@ -1,0 +1,25 @@
+{
+  "answerability_ok_pct": 99.17405934536555,
+  "core_intent_ok_pct": 88.16151728357296,
+  "false_plot_rate_pct": 0.8259406546344448,
+  "full_intent_ok_pct": 88.0085653104925,
+  "json_ok_pct": 100.0,
+  "measure_ok_pct": 99.11287855613337,
+  "n": 3269,
+  "over_refusal_rate_pct": 0.0,
+  "policy_action": {
+    "gate_refusal": 457,
+    "planner_allowed": 2812
+  },
+  "required_field_f1": 0.991653192326181,
+  "statistic_ok_pct": 99.0211073722851,
+  "task_type_ok_pct": 88.49801162434996,
+  "temporal_constraint_action": {
+    "not_answerable": 457,
+    "temporal_constraint_repair": 2,
+    "unchanged_no_candidate": 376,
+    "unchanged_valid": 2434
+  },
+  "temporal_filter_ok_pct": 93.14775160599572,
+  "time_field_ok_pct": 99.17405934536555
+}

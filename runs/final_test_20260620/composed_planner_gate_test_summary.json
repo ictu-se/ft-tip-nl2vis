@@ -1,0 +1,19 @@
+{
+  "answerability_ok_pct": 99.09996785599486,
+  "core_intent_ok_pct": 88.4281581485053,
+  "false_plot_rate_pct": 0.9000321440051431,
+  "full_intent_ok_pct": 88.23529411764706,
+  "json_ok_pct": 100.0,
+  "measure_ok_pct": 99.00353584056573,
+  "n": 3111,
+  "over_refusal_rate_pct": 0.0,
+  "policy_action": {
+    "gate_refusal": 432,
+    "planner_allowed": 2679
+  },
+  "required_field_f1": 0.9904180251335507,
+  "statistic_ok_pct": 98.77852780456445,
+  "task_type_ok_pct": 88.68531018964963,
+  "temporal_filter_ok_pct": 93.66763098682095,
+  "time_field_ok_pct": 99.09996785599486
+}

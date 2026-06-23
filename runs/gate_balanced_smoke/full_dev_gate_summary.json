@@ -1,0 +1,11 @@
+{
+  "answerability_ok_pct": 99.17405934536555,
+  "answerable_n": 2785,
+  "answerable_over_refusal_pct": 0.0,
+  "false_plot_rate_pct": 0.8259406546344448,
+  "json_ok_pct": 100.0,
+  "n": 3269,
+  "over_refusal_rate_pct": 0.0,
+  "unanswerable_false_plot_pct": 5.578512396694215,
+  "unanswerable_n": 484
+}

@@ -1,0 +1,8 @@
+{
+  "ci_rows": 28,
+  "paired_tests": 20,
+  "final_slice_rows": 37,
+  "optional_audit_slice_rows": 30,
+  "task_confusion_rows": 19,
+  "missing_reproducibility_files": []
+}

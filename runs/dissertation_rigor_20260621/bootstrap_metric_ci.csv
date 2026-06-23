@@ -1,0 +1,29 @@
+run,metric,n,estimate_pct,ci95_low_pct,ci95_high_pct
+Dev schema-only,Core,3269,72.6522,71.0615,74.2429
+Dev schema-only,Full,3269,72.6216,71.0003,74.0899
+Dev schema-only,Answer.,3269,85.1942,84.0012,86.4485
+Dev schema-only,Temp. filter,3269,82.1046,80.7281,83.42
+Dev metadata,Core,3269,84.3683,83.1141,85.5613
+Dev metadata,Full,3269,84.2154,83.0529,85.5002
+Dev metadata,Answer.,3269,85.1942,83.9706,86.4179
+Dev metadata,Temp. filter,3269,93.0866,92.23,93.9125
+Dev final policy,Core,3269,88.1615,87.0297,89.2628
+Dev final policy,Full,3269,88.0086,86.8767,89.171
+Dev final policy,Answer.,3269,99.1741,98.8682,99.48
+Dev final policy,Temp. filter,3269,93.1478,92.2912,94.0349
+Test planner,Core,3111,84.0244,82.7065,85.278
+Test planner,Full,3111,83.8316,82.5779,85.1816
+Test planner,Answer.,3111,85.2138,83.928,86.4352
+Test planner,Temp. filter,3111,93.6676,92.7676,94.4712
+Test final policy,Core,3111,88.4924,87.3674,89.6496
+Test final policy,Full,3111,88.2996,87.1745,89.4568
+Test final policy,Answer.,3111,99.1,98.7464,99.4214
+Test final policy,Temp. filter,3111,93.7319,92.8319,94.5998
+VI diacritic audit,Core,1332,81.6817,79.5796,83.7838
+VI diacritic audit,Full,1332,72.5976,70.1201,74.9249
+VI diacritic audit,Answer.,1332,81.8318,79.7297,83.9339
+VI diacritic audit,Temp. filter,1332,99.4745,99.024,99.8498
+Non-WB audit,Core,56,82.1429,71.4286,91.0714
+Non-WB audit,Full,56,76.7857,66.0714,87.5
+Non-WB audit,Answer.,56,85.7143,76.7857,94.6429
+Non-WB audit,Temp. filter,56,94.6429,89.2857,100.0

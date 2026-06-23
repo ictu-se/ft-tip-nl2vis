@@ -1,0 +1,9 @@
+{
+  "gold_A_accuracy_pct": 87.14285714285714,
+  "gold_A_n": 70,
+  "gold_B_accuracy_pct": 100.0,
+  "gold_B_n": 58,
+  "json_ok_pct": 100.0,
+  "n": 128,
+  "pairwise_accuracy_pct": 92.96875
+}

@@ -1,0 +1,21 @@
+n,both_correct,a_only,b_only,neither,a_pct,b_pct,delta_b_minus_a,mcnemar_p_approx,a,b,metric
+3269,2372,3,386,508,72.6522,84.3683,11.7161,0.0,Dev schema-only,Dev metadata,Core
+3269,2369,5,384,511,72.6216,84.2154,11.5938,0.0,Dev schema-only,Dev metadata,Full
+3269,2785,0,0,484,85.1942,85.1942,0.0,1.0,Dev schema-only,Dev metadata,Answer.
+3269,2625,59,418,167,82.1046,93.0866,10.982,0.0,Dev schema-only,Dev metadata,Temp. filter
+3269,2125,633,478,33,84.3683,79.6268,-4.7415,3.83e-06,Dev metadata,Dev unsupported-x4,Core
+3269,2110,643,480,36,84.2154,79.2291,-4.9862,1.34e-06,Dev metadata,Dev unsupported-x4,Full
+3269,2363,422,476,8,85.1942,86.8461,1.6519,0.07695516,Dev metadata,Dev unsupported-x4,Answer.
+3269,2581,462,224,2,93.0866,85.8061,-7.2805,0.0,Dev metadata,Dev unsupported-x4,Temp. filter
+3269,2758,0,124,387,84.3683,88.1615,3.7932,0.0,Dev metadata,Dev final policy,Core
+3269,2753,0,124,392,84.2154,88.0086,3.7932,0.0,Dev metadata,Dev final policy,Full
+3269,2785,0,457,27,85.1942,99.1741,13.9798,0.0,Dev metadata,Dev final policy,Answer.
+3269,3043,0,2,224,93.0866,93.1478,0.0612,0.47950012,Dev metadata,Dev final policy,Temp. filter
+3269,3034,145,88,2,97.2469,95.5032,-1.7437,0.0002438,Dev rank16 last16,Dev rank8 all-layer,Core
+3269,2983,143,139,4,95.6256,95.5032,-0.1224,0.85821457,Dev rank16 last16,Dev rank8 all-layer,Full
+3269,3182,12,75,0,97.7057,99.6329,1.9272,0.0,Dev rank16 last16,Dev rank8 all-layer,Answer.
+3269,3196,4,69,0,97.8893,99.8776,1.9884,0.0,Dev rank16 last16,Dev rank8 all-layer,Temp. filter
+3111,2614,0,139,358,84.0244,88.4924,4.468,0.0,Test planner,Test final policy,Core
+3111,2608,0,139,364,83.8316,88.2996,4.468,0.0,Test planner,Test final policy,Full
+3111,2651,0,432,28,85.2138,99.1,13.8862,0.0,Test planner,Test final policy,Answer.
+3111,2914,0,2,195,93.6676,93.7319,0.0643,0.47950012,Test planner,Test final policy,Temp. filter

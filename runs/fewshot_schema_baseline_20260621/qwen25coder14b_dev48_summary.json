@@ -1,0 +1,25 @@
+{
+  "answerability_ok_pct": 95.83333333333333,
+  "core_intent_ok_pct": 29.166666666666668,
+  "exemplar_sample_ids": [
+    "paper09x_000003",
+    "paper09x_000004",
+    "paper09x_000015",
+    "paper09x_000016",
+    "paper09x_000013"
+  ],
+  "false_plot_rate_pct": 0.0,
+  "full_intent_ok_pct": 29.166666666666668,
+  "json_ok_pct": 100.0,
+  "limit": 48,
+  "measure_ok_pct": 95.83333333333333,
+  "model": "qwen2.5-coder:14b",
+  "n": 48,
+  "over_refusal_rate_pct": 4.166666666666667,
+  "required_field_f1": 0.9583333333333334,
+  "shots": 5,
+  "statistic_ok_pct": 58.333333333333336,
+  "task_type_ok_pct": 31.25,
+  "temporal_filter_ok_pct": 37.5,
+  "time_field_ok_pct": 95.83333333333333
+}

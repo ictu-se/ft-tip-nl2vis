@@ -1,0 +1,23 @@
+{
+  "failures_matching_constructed_negative": 0,
+  "failures_repairable_by_existing_ranker_pair": 0,
+  "planner_failures_repairable_by_existing_ranker_pair": 0,
+  "ranker_errors_by_task_type": {
+    "mixed_change_ranking": 46,
+    "stat_change": 24,
+    "temporal_boundary_check": 2,
+    "temporal_previous_window": 11,
+    "temporal_recent_window": 37
+  },
+  "ranker_pair_n": 9338,
+  "ranker_pairwise_accuracy_pct": 98.49004069393874,
+  "ranker_sample_all_correct_pct": 92.37126509853782,
+  "ranker_sample_any_error_pct": 7.628734901462174,
+  "ranker_sample_majority_correct_pct": 99.68213604577241,
+  "ranker_sample_n": 1573,
+  "temporal_policy_core_ok_pct": 98.91926255562619,
+  "temporal_policy_full_ok_pct": 98.79211697393515,
+  "temporal_policy_sample_n": 1573,
+  "temporal_policy_temporal_filter_failures": 0,
+  "temporal_policy_temporal_filter_ok_pct": 100.0
+}

@@ -1,0 +1,33 @@
+%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "18px", "primaryColor": "#E8F1F8", "primaryBorderColor": "#1F3A5F", "primaryTextColor": "#111827", "lineColor": "#243B53", "tertiaryColor": "#F8FAFC", "clusterBkg": "#FFFFFF", "clusterBorder": "#CBD5E1"}}}%%
+flowchart TB
+  I["User request<br/>schema<br/>temporal support"]
+  P["LoRA intent<br/>planner"]
+  C["Candidate<br/>intent"]
+  G["Answerability gate<br/>(refusal boundary)"]
+  V["Support<br/>validation"]
+  O["Final intent<br/>or supported refusal"]
+  H["Hard-negative<br/>ranker / verifier"]
+  E["Verifier evidence<br/>(reported separately)"]
+
+  I --> P
+  I --> G
+  P --> C
+  C --> V
+  G --> O
+  V --> O
+  C -.-> H
+  H -.-> E
+
+  classDef input fill:#E8F1F8,stroke:#1F3A5F,stroke-width:2px,color:#111827;
+  classDef learned fill:#DCECF7,stroke:#1F3A5F,stroke-width:2px,color:#111827;
+  classDef safety fill:#FFF2CC,stroke:#8A6D1D,stroke-width:2px,color:#111827;
+  classDef validation fill:#EEF2F5,stroke:#475569,stroke-width:2px,color:#111827;
+  classDef output fill:#E7F5EC,stroke:#2F6F4E,stroke-width:2px,color:#111827;
+  classDef evidence fill:#FFF7DF,stroke:#8A6D1D,stroke-width:2px,color:#111827;
+
+  class I input;
+  class P,C learned;
+  class G safety;
+  class V validation;
+  class O output;
+  class H,E evidence;

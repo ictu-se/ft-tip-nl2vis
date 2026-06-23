@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+env/
+
+# Manuscript and submission sources are intentionally excluded from this repo.
+manuscripts/
+draft/
+submission_eaai/
+templates/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.spl
+
+# Large model checkpoints should be attached as release assets or archived separately.
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+
+# Local-only temporary output.
+tmp/
+*.pid
+nohup.out
+test_nohup.out
+debug_nohup.out

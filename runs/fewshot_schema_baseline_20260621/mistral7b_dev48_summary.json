@@ -1,0 +1,25 @@
+{
+  "answerability_ok_pct": 93.75,
+  "core_intent_ok_pct": 18.75,
+  "exemplar_sample_ids": [
+    "paper09x_000003",
+    "paper09x_000004",
+    "paper09x_000015",
+    "paper09x_000016",
+    "paper09x_000013"
+  ],
+  "false_plot_rate_pct": 6.25,
+  "full_intent_ok_pct": 18.75,
+  "json_ok_pct": 100.0,
+  "limit": 48,
+  "measure_ok_pct": 85.41666666666667,
+  "model": "mistral:7b",
+  "n": 48,
+  "over_refusal_rate_pct": 0.0,
+  "required_field_f1": 0.8472222222222222,
+  "shots": 5,
+  "statistic_ok_pct": 52.083333333333336,
+  "task_type_ok_pct": 20.833333333333332,
+  "temporal_filter_ok_pct": 29.166666666666668,
+  "time_field_ok_pct": 89.58333333333333
+}

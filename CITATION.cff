@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or artifact package, please cite the archived Zenodo release."
+title: "FT-TIP NL2Vis Reproducibility Package"
+type: software
+authors:
+  - family-names: "TO_BE_CONFIRMED"
+    given-names: "Author"
+    affiliation: "TO_BE_CONFIRMED"
+abstract: "Code, benchmark splits, and experimental artifacts for temporal-statistical intent planning in natural language to visualization under support metadata."
+keywords:
+  - natural language to visualization
+  - temporal intent
+  - trustworthy artificial intelligence
+  - LoRA
+  - visualization planning
+license: "MIT"
+repository-code: "https://github.com/TO_BE_CONFIRMED/ft-tip-nl2vis"
+version: "1.0.0"
+date-released: "2026-06-24"

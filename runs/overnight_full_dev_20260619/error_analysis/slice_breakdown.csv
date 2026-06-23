@@ -1,0 +1,173 @@
+run,slice,value,n,json_ok_pct,answerability_ok_pct,task_type_ok_pct,time_field_ok_pct,measure_ok_pct,temporal_filter_ok_pct,statistic_ok_pct,core_intent_ok_pct,full_intent_ok_pct,required_field_f1,false_plot_rate_pct,over_refusal_rate_pct
+metadata_lora,domain,worldbank_expansion,2943,100.0,85.1852,88.6171,85.1852,85.1852,93.0003,99.3204,84.5056,84.4716,0.851852,14.8148,0.0
+metadata_lora,domain,economy,56,100.0,85.7143,85.7143,85.7143,82.1429,94.6429,94.6429,82.1429,75.0,0.852041,14.2857,0.0
+metadata_lora,domain,environment,54,100.0,85.1852,88.8889,85.1852,85.1852,92.5926,96.2963,85.1852,85.1852,0.851852,14.8148,0.0
+metadata_lora,domain,health,54,100.0,85.1852,88.8889,85.1852,85.1852,96.2963,96.2963,85.1852,85.1852,0.851852,14.8148,0.0
+metadata_lora,domain,education,27,100.0,85.1852,88.8889,85.1852,85.1852,96.2963,100.0,81.4815,81.4815,0.851852,14.8148,0.0
+metadata_lora,domain,energy,27,100.0,85.1852,88.8889,85.1852,85.1852,92.5926,96.2963,85.1852,85.1852,0.851852,14.8148,0.0
+metadata_lora,domain,finance,27,100.0,85.1852,85.1852,85.1852,85.1852,92.5926,96.2963,81.4815,81.4815,0.851852,14.8148,0.0
+metadata_lora,domain,labor,27,100.0,85.1852,85.1852,85.1852,85.1852,88.8889,96.2963,77.7778,77.7778,0.851852,14.8148,0.0
+metadata_lora,domain,population,27,100.0,85.1852,88.8889,85.1852,85.1852,96.2963,96.2963,85.1852,85.1852,0.851852,14.8148,0.0
+metadata_lora,domain,technology,27,100.0,85.1852,85.1852,85.1852,85.1852,92.5926,96.2963,81.4815,81.4815,0.851852,14.8148,0.0
+metadata_lora,gold_answerability,answerable,2785,100.0,100.0,99.1382,100.0,99.9282,99.8923,99.7127,99.0305,98.851,0.999897,0.0,0.0
+metadata_lora,gold_answerability,unanswerable,484,100.0,0.0,27.2727,0.0,0.0,53.9256,95.0413,0.0,0.0,0.0,100.0,0.0
+metadata_lora,gold_temporal_filter_type,year_range,1210,100.0,100.0,100.0,100.0,100.0,99.8347,100.0,99.8347,99.8347,1.0,0.0,0.0
+metadata_lora,gold_temporal_filter_type,other,1091,100.0,55.637,65.6279,55.637,55.4537,79.4684,97.1586,53.4372,53.1622,0.556108,44.363,0.0
+metadata_lora,gold_temporal_filter_type,all_years,484,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.7934,1.0,0.0,0.0
+metadata_lora,gold_temporal_filter_type,latest_year,484,100.0,100.0,99.7934,100.0,100.0,100.0,99.7934,99.7934,99.5868,1.0,0.0,0.0
+metadata_lora,gold_temporal_granularity,year,3269,100.0,85.1942,88.498,85.1942,85.1331,93.0866,99.0211,84.3683,84.2154,0.851855,14.8058,0.0
+metadata_lora,language,en,1937,100.0,87.5065,92.6691,87.5065,87.4548,99.4321,99.7419,86.3707,86.2158,0.874991,12.4935,0.0
+metadata_lora,language,vi,1332,100.0,81.8318,82.4324,81.8318,81.7568,83.8589,97.973,81.4565,81.3063,0.818211,18.1682,0.0
+metadata_lora,source,World Bank Indicators API expansion,2943,100.0,85.1852,88.6171,85.1852,85.1852,93.0003,99.3204,84.5056,84.4716,0.851852,14.8148,0.0
+metadata_lora,source,World Bank Indicators API,270,100.0,85.1852,87.7778,85.1852,85.1852,93.7037,97.037,83.3333,82.963,0.851852,14.8148,0.0
+metadata_lora,source,Derived from World Bank/OWID normalized tables,29,100.0,86.2069,82.7586,86.2069,79.3103,93.1034,89.6552,79.3103,68.9655,0.852217,13.7931,0.0
+metadata_lora,source,Our World in Data Grapher API,27,100.0,85.1852,88.8889,85.1852,85.1852,96.2963,96.2963,85.1852,85.1852,0.851852,14.8148,0.0
+metadata_lora,task_type,mixed_temporal_ranking,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,stat_average_period,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,stat_change,242,100.0,100.0,99.5868,100.0,100.0,100.0,99.5868,99.5868,98.7603,1.0,0.0,0.0
+metadata_lora,task_type,stat_ranking_topk,242,100.0,100.0,99.5868,100.0,100.0,100.0,99.5868,99.5868,99.1736,1.0,0.0,0.0
+metadata_lora,task_type,stat_unanswerable,242,100.0,0.0,54.5455,0.0,0.0,61.9835,90.0826,0.0,0.0,0.0,100.0,0.0
+metadata_lora,task_type,temporal_boundary_check,242,100.0,100.0,100.0,100.0,100.0,99.1736,100.0,99.1736,99.1736,1.0,0.0,0.0
+metadata_lora,task_type,temporal_granularity_unanswerable,242,100.0,0.0,0.0,0.0,0.0,45.8678,100.0,0.0,0.0,0.0,100.0,0.0
+metadata_lora,task_type,temporal_period_filter,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,temporal_previous_window,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,temporal_recent_window,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,temporal_trend,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,mixed_change_ranking,121,100.0,100.0,86.7769,100.0,100.0,100.0,96.6942,86.7769,86.7769,1.0,0.0,0.0
+metadata_lora,task_type,mixed_temporal_distribution,121,100.0,100.0,96.6942,100.0,100.0,100.0,100.0,96.6942,95.8678,1.0,0.0,0.0
+metadata_lora,task_type,stat_distribution,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.1736,1.0,0.0,0.0
+metadata_lora,task_type,stat_outlier,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+metadata_lora,task_type,temporal_before_after,121,100.0,100.0,100.0,100.0,100.0,99.1736,100.0,99.1736,99.1736,1.0,0.0,0.0
+metadata_lora,temporal_coverage,medium_11_25,2052,100.0,85.1852,88.7427,85.1852,85.1852,92.6413,99.6101,84.7466,84.6979,0.851852,14.8148,0.0
+metadata_lora,temporal_coverage,very_long_>50,758,100.0,85.2243,88.1266,85.2243,84.9604,94.3272,98.153,83.6412,83.1135,0.851866,14.7757,0.0
+metadata_lora,temporal_coverage,long_26_50,405,100.0,85.1852,88.1481,85.1852,85.1852,92.8395,98.2716,83.9506,83.9506,0.851852,14.8148,0.0
+metadata_lora,temporal_coverage,short_<=10,54,100.0,85.1852,87.037,85.1852,85.1852,94.4444,94.4444,83.3333,83.3333,0.851852,14.8148,0.0
+qwen_prompt_only,domain,worldbank_expansion,2943,99.2525,0.0,0.0,6.422,2.4125,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,economy,56,100.0,0.0,0.0,8.9286,1.7857,0.0,0.0,0.0,0.0,0.142857,0.0,0.0
+qwen_prompt_only,domain,environment,54,98.1481,0.0,0.0,20.3704,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,health,54,100.0,0.0,0.0,27.7778,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,education,27,100.0,0.0,0.0,59.2593,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,energy,27,100.0,0.0,0.0,3.7037,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,finance,27,100.0,0.0,0.0,55.5556,3.7037,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,labor,27,100.0,0.0,0.0,18.5185,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,population,27,100.0,0.0,0.0,7.4074,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,domain,technology,27,100.0,0.0,0.0,11.1111,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,gold_answerability,answerable,2785,99.1741,0.0,0.0,9.4075,2.6212,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,gold_answerability,unanswerable,484,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+qwen_prompt_only,gold_temporal_filter_type,year_range,1210,98.3471,0.0,0.0,13.6364,2.8926,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,gold_temporal_filter_type,other,1091,99.9083,0.0,0.0,7.6994,3.2997,0.0,0.0,0.0,0.0,0.44363,0.0,0.0
+qwen_prompt_only,gold_temporal_filter_type,all_years,484,100.0,0.0,0.0,1.4463,0.2066,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,gold_temporal_filter_type,latest_year,484,99.5868,0.0,0.0,1.2397,0.2066,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,gold_temporal_granularity,year,3269,99.2964,0.0,0.0,8.0147,2.2331,0.0,0.0,0.0,0.0,0.148058,0.0,0.0
+qwen_prompt_only,language,en,1937,98.8126,0.0,0.0,10.2736,3.5106,0.0,0.0,0.0,0.0,0.124935,0.0,0.0
+qwen_prompt_only,language,vi,1332,100.0,0.0,0.0,4.7297,0.3754,0.0,0.0,0.0,0.0,0.181682,0.0,0.0
+qwen_prompt_only,source,World Bank Indicators API expansion,2943,99.2525,0.0,0.0,6.422,2.4125,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,source,World Bank Indicators API,270,99.6296,0.0,0.0,25.1852,0.3704,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,source,Derived from World Bank/OWID normalized tables,29,100.0,0.0,0.0,17.2414,3.4483,0.0,0.0,0.0,0.0,0.137931,0.0,0.0
+qwen_prompt_only,source,Our World in Data Grapher API,27,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,task_type,mixed_temporal_ranking,242,99.1736,0.0,0.0,0.4132,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,stat_average_period,242,100.0,0.0,0.0,11.157,7.8512,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,stat_change,242,100.0,0.0,0.0,8.6777,4.5455,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,stat_ranking_topk,242,100.0,0.0,0.0,2.0661,0.4132,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,stat_unanswerable,242,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_boundary_check,242,99.5868,0.0,0.0,21.4876,4.5455,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_granularity_unanswerable,242,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_period_filter,242,92.1488,0.0,0.0,22.314,0.4132,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_previous_window,242,100.0,0.0,0.0,10.7438,1.6529,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_recent_window,242,100.0,0.0,0.0,2.4793,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_trend,242,100.0,0.0,0.0,0.8264,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,mixed_change_ranking,121,99.1736,0.0,0.0,1.6529,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,mixed_temporal_distribution,121,100.0,0.0,0.0,11.5702,1.6529,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,stat_distribution,121,100.0,0.0,0.0,0.8264,0.8264,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,stat_outlier,121,100.0,0.0,0.0,3.3058,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,task_type,temporal_before_after,121,100.0,0.0,0.0,38.0165,19.0083,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+qwen_prompt_only,temporal_coverage,medium_11_25,2052,99.1228,0.0,0.0,8.9181,3.46,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,temporal_coverage,very_long_>50,758,99.4723,0.0,0.0,5.5409,0.2639,0.0,0.0,0.0,0.0,0.147757,0.0,0.0
+qwen_prompt_only,temporal_coverage,long_26_50,405,99.7531,0.0,0.0,9.1358,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+qwen_prompt_only,temporal_coverage,short_<=10,54,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.148148,0.0,0.0
+schema_only_lora,domain,worldbank_expansion,2943,100.0,85.1852,88.8889,85.1852,85.1852,83.7581,99.4903,74.4139,74.4139,0.851852,14.8148,0.0
+schema_only_lora,domain,economy,56,100.0,85.7143,82.1429,85.7143,83.9286,67.8571,92.8571,55.3571,53.5714,0.854592,14.2857,0.0
+schema_only_lora,domain,environment,54,100.0,85.1852,88.8889,85.1852,85.1852,66.6667,96.2963,59.2593,59.2593,0.851852,14.8148,0.0
+schema_only_lora,domain,health,54,100.0,85.1852,85.1852,85.1852,85.1852,68.5185,96.2963,57.4074,57.4074,0.851852,14.8148,0.0
+schema_only_lora,domain,education,27,100.0,85.1852,81.4815,85.1852,85.1852,66.6667,96.2963,51.8519,51.8519,0.851852,14.8148,0.0
+schema_only_lora,domain,energy,27,100.0,85.1852,88.8889,85.1852,85.1852,66.6667,92.5926,59.2593,59.2593,0.851852,14.8148,0.0
+schema_only_lora,domain,finance,27,100.0,85.1852,85.1852,85.1852,85.1852,66.6667,96.2963,55.5556,55.5556,0.851852,14.8148,0.0
+schema_only_lora,domain,labor,27,100.0,85.1852,85.1852,85.1852,85.1852,66.6667,96.2963,55.5556,55.5556,0.851852,14.8148,0.0
+schema_only_lora,domain,population,27,100.0,85.1852,88.8889,85.1852,85.1852,66.6667,96.2963,59.2593,59.2593,0.851852,14.8148,0.0
+schema_only_lora,domain,technology,27,100.0,85.1852,85.1852,85.1852,85.1852,66.6667,96.2963,55.5556,55.5556,0.851852,14.8148,0.0
+schema_only_lora,gold_answerability,answerable,2785,100.0,100.0,99.4255,100.0,99.9641,85.7092,99.8923,85.2783,85.2424,0.999949,0.0,0.0
+schema_only_lora,gold_answerability,unanswerable,484,100.0,0.0,26.0331,0.0,0.0,61.3636,94.4215,0.0,0.0,0.0,100.0,0.0
+schema_only_lora,gold_temporal_filter_type,year_range,1210,100.0,100.0,100.0,100.0,100.0,71.8182,100.0,71.8182,71.8182,1.0,0.0,0.0
+schema_only_lora,gold_temporal_filter_type,other,1091,100.0,55.637,66.0862,55.637,55.5454,77.6352,97.3419,49.6792,49.6792,0.556239,44.363,0.0
+schema_only_lora,gold_temporal_filter_type,all_years,484,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.7934,1.0,0.0,0.0
+schema_only_lora,gold_temporal_filter_type,latest_year,484,100.0,100.0,99.1736,100.0,100.0,100.0,99.7934,99.1736,99.1736,1.0,0.0,0.0
+schema_only_lora,gold_temporal_granularity,year,3269,100.0,85.1942,88.5592,85.1942,85.1637,82.1046,99.0823,72.6522,72.6216,0.851899,14.8058,0.0
+schema_only_lora,language,en,1937,100.0,87.5065,93.1853,87.5065,87.5065,88.2292,99.9484,75.3743,75.3227,0.875065,12.4935,0.0
+schema_only_lora,language,vi,1332,100.0,81.8318,81.8318,81.8318,81.7568,73.1982,97.8228,68.6937,68.6937,0.818211,18.1682,0.0
+schema_only_lora,source,World Bank Indicators API expansion,2943,100.0,85.1852,88.8889,85.1852,85.1852,83.7581,99.4903,74.4139,74.4139,0.851852,14.8148,0.0
+schema_only_lora,source,World Bank Indicators API,270,100.0,85.1852,87.037,85.1852,85.1852,66.6667,95.9259,57.4074,57.4074,0.851852,14.8148,0.0
+schema_only_lora,source,Derived from World Bank/OWID normalized tables,29,100.0,86.2069,75.8621,86.2069,82.7586,68.9655,89.6552,51.7241,48.2759,0.857143,13.7931,0.0
+schema_only_lora,source,Our World in Data Grapher API,27,100.0,85.1852,81.4815,85.1852,85.1852,70.3704,96.2963,55.5556,55.5556,0.851852,14.8148,0.0
+schema_only_lora,task_type,mixed_temporal_ranking,242,100.0,100.0,98.7603,100.0,100.0,100.0,100.0,98.7603,98.7603,1.0,0.0,0.0
+schema_only_lora,task_type,stat_average_period,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+schema_only_lora,task_type,stat_change,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+schema_only_lora,task_type,stat_ranking_topk,242,100.0,100.0,99.5868,100.0,100.0,100.0,99.5868,99.5868,99.5868,1.0,0.0,0.0
+schema_only_lora,task_type,stat_unanswerable,242,100.0,0.0,52.0661,0.0,0.0,71.4876,89.2562,0.0,0.0,0.0,100.0,0.0
+schema_only_lora,task_type,temporal_boundary_check,242,100.0,100.0,100.0,100.0,100.0,52.8926,100.0,52.8926,52.8926,1.0,0.0,0.0
+schema_only_lora,task_type,temporal_granularity_unanswerable,242,100.0,0.0,0.0,0.0,0.0,51.2397,99.5868,0.0,0.0,0.0,100.0,0.0
+schema_only_lora,task_type,temporal_period_filter,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+schema_only_lora,task_type,temporal_previous_window,242,100.0,100.0,100.0,100.0,100.0,52.8926,100.0,52.8926,52.8926,1.0,0.0,0.0
+schema_only_lora,task_type,temporal_recent_window,242,100.0,100.0,100.0,100.0,100.0,53.3058,100.0,53.3058,53.3058,1.0,0.0,0.0
+schema_only_lora,task_type,temporal_trend,242,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+schema_only_lora,task_type,mixed_change_ranking,121,100.0,100.0,96.6942,100.0,100.0,52.8926,100.0,52.8926,52.8926,1.0,0.0,0.0
+schema_only_lora,task_type,mixed_temporal_distribution,121,100.0,100.0,95.0413,100.0,100.0,100.0,100.0,95.0413,95.0413,1.0,0.0,0.0
+schema_only_lora,task_type,stat_distribution,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.1736,1.0,0.0,0.0
+schema_only_lora,task_type,stat_outlier,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+schema_only_lora,task_type,temporal_before_after,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+schema_only_lora,temporal_coverage,medium_11_25,2052,100.0,85.1852,88.8889,85.1852,85.1852,90.5458,99.7563,81.0429,81.0429,0.851852,14.8148,0.0
+schema_only_lora,temporal_coverage,very_long_>50,758,100.0,85.2243,87.5989,85.2243,85.0923,68.0739,98.0211,58.3113,58.1794,0.852054,14.7757,0.0
+schema_only_lora,temporal_coverage,long_26_50,405,100.0,85.1852,88.642,85.1852,85.1852,67.6543,98.0247,58.7654,58.7654,0.851852,14.8148,0.0
+schema_only_lora,temporal_coverage,short_<=10,54,100.0,85.1852,88.8889,85.1852,85.1852,66.6667,96.2963,59.2593,59.2593,0.851852,14.8148,0.0
+unsupported_x4_lora,domain,worldbank_expansion,2943,100.0,85.6949,83.5202,85.6949,85.6949,85.0153,96.2283,79.035,78.7292,0.856949,0.0,14.3051
+unsupported_x4_lora,domain,economy,56,100.0,100.0,87.5,100.0,96.4286,89.2857,92.8571,78.5714,73.2143,0.997449,0.0,0.0
+unsupported_x4_lora,domain,environment,54,100.0,98.1481,92.5926,98.1481,98.1481,94.4444,100.0,87.037,87.037,0.981481,1.8519,0.0
+unsupported_x4_lora,domain,health,54,100.0,94.4444,87.037,94.4444,94.4444,94.4444,98.1481,83.3333,83.3333,0.944444,3.7037,1.8519
+unsupported_x4_lora,domain,education,27,100.0,96.2963,96.2963,96.2963,96.2963,85.1852,100.0,81.4815,81.4815,0.962963,3.7037,0.0
+unsupported_x4_lora,domain,energy,27,100.0,96.2963,92.5926,96.2963,96.2963,96.2963,100.0,88.8889,88.8889,0.962963,3.7037,0.0
+unsupported_x4_lora,domain,finance,27,100.0,96.2963,92.5926,96.2963,96.2963,96.2963,100.0,88.8889,88.8889,0.962963,3.7037,0.0
+unsupported_x4_lora,domain,labor,27,100.0,96.2963,96.2963,96.2963,96.2963,96.2963,100.0,92.5926,88.8889,0.962963,3.7037,0.0
+unsupported_x4_lora,domain,population,27,100.0,100.0,92.5926,100.0,100.0,92.5926,100.0,85.1852,85.1852,1.0,0.0,0.0
+unsupported_x4_lora,domain,technology,27,100.0,96.2963,92.5926,96.2963,96.2963,92.5926,100.0,85.1852,85.1852,0.962963,3.7037,0.0
+unsupported_x4_lora,gold_answerability,answerable,2785,100.0,84.8474,81.8671,84.8474,84.7756,83.3393,95.8348,76.3734,75.9066,0.848423,0.0,15.1526
+unsupported_x4_lora,gold_answerability,unanswerable,484,100.0,98.3471,98.3471,98.3471,98.3471,100.0,100.0,98.3471,98.3471,0.983471,1.6529,0.0
+unsupported_x4_lora,gold_temporal_filter_type,year_range,1210,100.0,88.6777,89.5041,88.6777,88.6777,89.0909,99.8347,81.2397,81.2397,0.886777,0.0,11.3223
+unsupported_x4_lora,gold_temporal_filter_type,other,1091,100.0,92.5756,84.2346,92.5756,92.3923,88.451,92.484,79.7434,78.9184,0.925756,0.7333,6.6911
+unsupported_x4_lora,gold_temporal_filter_type,all_years,484,100.0,81.6116,81.1983,81.6116,81.6116,81.8182,99.5868,81.1983,80.9917,0.816116,0.0,18.3884
+unsupported_x4_lora,gold_temporal_filter_type,latest_year,484,100.0,74.5868,74.5868,74.5868,74.5868,75.6198,93.8017,73.7603,73.1405,0.745573,0.0,25.4132
+unsupported_x4_lora,gold_temporal_granularity,year,3269,100.0,86.8461,84.3071,86.8461,86.7849,85.8061,96.4515,79.6268,79.2291,0.868418,0.2447,12.9091
+unsupported_x4_lora,language,en,1937,100.0,95.7666,91.2235,95.7666,95.715,89.6231,95.9215,84.8219,84.7186,0.957593,0.413,3.8203
+unsupported_x4_lora,language,vi,1332,100.0,73.8739,74.2492,73.8739,73.7988,80.2553,97.2222,72.0721,71.2462,0.738739,0.0,26.1261
+unsupported_x4_lora,source,World Bank Indicators API expansion,2943,100.0,85.6949,83.5202,85.6949,85.6949,85.0153,96.2283,79.035,78.7292,0.856949,0.0,14.3051
+unsupported_x4_lora,source,World Bank Indicators API,270,100.0,97.4074,93.3333,97.4074,97.4074,93.7037,99.6296,87.037,86.6667,0.974074,2.5926,0.0
+unsupported_x4_lora,source,Derived from World Bank/OWID normalized tables,29,100.0,100.0,79.3103,100.0,93.1034,86.2069,86.2069,68.9655,58.6207,0.995074,0.0,0.0
+unsupported_x4_lora,source,Our World in Data Grapher API,27,100.0,92.5926,85.1852,92.5926,92.5926,92.5926,100.0,81.4815,81.4815,0.925926,3.7037,3.7037
+unsupported_x4_lora,task_type,mixed_temporal_ranking,242,100.0,93.8017,95.0413,93.8017,93.8017,93.8017,100.0,93.3884,93.3884,0.938017,0.0,6.1983
+unsupported_x4_lora,task_type,stat_average_period,242,100.0,100.0,100.0,100.0,100.0,99.5868,100.0,99.5868,99.5868,1.0,0.0,0.0
+unsupported_x4_lora,task_type,stat_change,242,100.0,100.0,99.1736,100.0,100.0,99.5868,99.1736,98.7603,95.0413,1.0,0.0,0.0
+unsupported_x4_lora,task_type,stat_ranking_topk,242,100.0,55.3719,54.1322,55.3719,55.3719,57.438,87.6033,54.1322,52.8926,0.553129,0.0,44.6281
+unsupported_x4_lora,task_type,stat_unanswerable,242,100.0,99.5868,99.5868,99.5868,99.5868,100.0,100.0,99.5868,99.5868,0.995868,0.4132,0.0
+unsupported_x4_lora,task_type,temporal_boundary_check,242,100.0,100.0,100.0,100.0,100.0,90.4959,100.0,90.4959,90.4959,1.0,0.0,0.0
+unsupported_x4_lora,task_type,temporal_granularity_unanswerable,242,100.0,97.1074,97.1074,97.1074,97.1074,100.0,100.0,97.1074,97.1074,0.971074,2.8926,0.0
+unsupported_x4_lora,task_type,temporal_period_filter,242,100.0,100.0,100.0,100.0,100.0,72.7273,100.0,72.7273,72.7273,1.0,0.0,0.0
+unsupported_x4_lora,task_type,temporal_previous_window,242,100.0,62.8099,66.5289,62.8099,62.8099,100.0,99.1736,62.8099,62.8099,0.628099,0.0,37.1901
+unsupported_x4_lora,task_type,temporal_recent_window,242,100.0,80.5785,80.9917,80.5785,80.5785,82.6446,100.0,80.5785,80.5785,0.805785,0.0,19.4215
+unsupported_x4_lora,task_type,temporal_trend,242,100.0,63.2231,62.3967,63.2231,63.2231,63.6364,99.1736,62.3967,62.3967,0.632231,0.0,36.7769
+unsupported_x4_lora,task_type,mixed_change_ranking,121,100.0,40.4959,37.1901,40.4959,40.4959,0.0,35.5372,0.0,0.0,0.404959,0.0,59.5041
+unsupported_x4_lora,task_type,mixed_temporal_distribution,121,100.0,99.1736,30.5785,99.1736,99.1736,96.6942,100.0,28.0992,28.0992,0.991736,0.0,0.8264
+unsupported_x4_lora,task_type,stat_distribution,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.1736,1.0,0.0,0.0
+unsupported_x4_lora,task_type,stat_outlier,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+unsupported_x4_lora,task_type,temporal_before_after,121,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,0.0,0.0
+unsupported_x4_lora,temporal_coverage,medium_11_25,2052,100.0,84.4055,81.6277,84.4055,84.4055,83.6745,95.1267,77.4854,77.3392,0.844055,0.0,15.5945
+unsupported_x4_lora,temporal_coverage,very_long_>50,758,100.0,90.7652,88.5224,90.7652,90.5013,88.6544,98.8127,82.5858,81.6623,0.907463,0.3958,8.8391
+unsupported_x4_lora,temporal_coverage,long_26_50,405,100.0,92.0988,90.3704,92.0988,92.0988,91.6049,98.7654,85.679,85.1852,0.920988,1.2346,6.6667
+unsupported_x4_lora,temporal_coverage,short_<=10,54,100.0,85.1852,81.4815,85.1852,85.1852,83.3333,96.2963,74.0741,72.2222,0.851852,0.0,14.8148

@@ -1,0 +1,13 @@
+{
+  "non_worldbank": {
+    "records": 56,
+    "source_counts": {
+      "Derived from World Bank/OWID normalized tables": 29,
+      "Our World in Data Grapher API": 27
+    }
+  },
+  "vi_diacritic": {
+    "changed_query_records": 1332,
+    "records": 1332
+  }
+}

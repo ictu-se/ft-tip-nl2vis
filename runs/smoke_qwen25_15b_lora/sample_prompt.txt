@@ -1,0 +1,12 @@
+Dataset title: ASEAN GDP current USD
+Domain: economy
+Language: en
+Query: Show the trend of gdp current usd in Indonesia over time.
+
+Schema fields:
+name=country_code | type=nominal | role=id | unit=
+name=country | type=nominal | role=dimension | unit=
+name=year | type=temporal | role=time | unit=
+name=gdp_current_usd | type=quantitative | role=measure | unit=current US$
+
+Infer the temporal-statistical visualization intent.

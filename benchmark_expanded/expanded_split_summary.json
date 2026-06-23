@@ -1,0 +1,177 @@
+{
+  "data_root": "/Users/nguyenthevinh/Library/CloudStorage/GoogleDrive-vinhnt@tnu.edu.vn/My Drive/NL2Vis_GenAI_Research_2025_2026/data_benchmarks/benchmark",
+  "ranking_pairs": {
+    "dev": 9338,
+    "test": 8850,
+    "train": 42152
+  },
+  "seed": 20260619,
+  "source_metadata": "/Users/nguyenthevinh/Library/CloudStorage/GoogleDrive-vinhnt@tnu.edu.vn/My Drive/NL2Vis_GenAI_Research_2025_2026/data_benchmarks/benchmark/metadata/datasets.json",
+  "split_policy": "grouped_by_dataset_id_stratified_by_domain_and_year_max_bucket",
+  "splits": {
+    "dev": {
+      "answerability": {
+        "answerable": 2785,
+        "unanswerable": 484
+      },
+      "datasets": 121,
+      "domain": {
+        "economy": 56,
+        "education": 27,
+        "energy": 27,
+        "environment": 54,
+        "finance": 27,
+        "health": 54,
+        "labor": 27,
+        "population": 27,
+        "technology": 27,
+        "worldbank_expansion": 2943
+      },
+      "language": {
+        "en": 1937,
+        "vi": 1332
+      },
+      "n": 3269,
+      "task_type": {
+        "mixed_change_ranking": 121,
+        "mixed_temporal_distribution": 121,
+        "mixed_temporal_ranking": 242,
+        "stat_average_period": 242,
+        "stat_change": 242,
+        "stat_correlation_proxy": 2,
+        "stat_distribution": 121,
+        "stat_outlier": 121,
+        "stat_ranking_topk": 242,
+        "stat_unanswerable": 242,
+        "temporal_before_after": 121,
+        "temporal_boundary_check": 242,
+        "temporal_granularity_unanswerable": 242,
+        "temporal_period_filter": 242,
+        "temporal_previous_window": 242,
+        "temporal_recent_window": 242,
+        "temporal_trend": 242
+      },
+      "year_max": {
+        "2010": 1728,
+        "2014": 27,
+        "2019": 108,
+        "2021": 27,
+        "2022": 81,
+        "2023": 594,
+        "2024": 596,
+        "2025": 108
+      }
+    },
+    "test": {
+      "answerability": {
+        "answerable": 2651,
+        "unanswerable": 460
+      },
+      "datasets": 115,
+      "domain": {
+        "economy": 56,
+        "education": 29,
+        "health": 54,
+        "labor": 27,
+        "population": 29,
+        "technology": 27,
+        "worldbank_expansion": 2889
+      },
+      "language": {
+        "en": 1843,
+        "vi": 1268
+      },
+      "n": 3111,
+      "task_type": {
+        "mixed_change_ranking": 115,
+        "mixed_temporal_distribution": 115,
+        "mixed_temporal_ranking": 230,
+        "stat_average_period": 230,
+        "stat_change": 230,
+        "stat_correlation_proxy": 6,
+        "stat_distribution": 115,
+        "stat_outlier": 115,
+        "stat_ranking_topk": 230,
+        "stat_unanswerable": 230,
+        "temporal_before_after": 115,
+        "temporal_boundary_check": 230,
+        "temporal_granularity_unanswerable": 230,
+        "temporal_period_filter": 230,
+        "temporal_previous_window": 230,
+        "temporal_recent_window": 230,
+        "temporal_trend": 230
+      },
+      "year_max": {
+        "2010": 1593,
+        "2017": 27,
+        "2019": 81,
+        "2020": 27,
+        "2021": 27,
+        "2022": 162,
+        "2023": 407,
+        "2024": 733,
+        "2025": 54
+      }
+    },
+    "train": {
+      "answerability": {
+        "answerable": 12585,
+        "unanswerable": 2188
+      },
+      "datasets": 547,
+      "domain": {
+        "economy": 243,
+        "education": 108,
+        "energy": 54,
+        "environment": 54,
+        "finance": 27,
+        "health": 218,
+        "labor": 27,
+        "labor_technology": 29,
+        "population": 135,
+        "technology": 108,
+        "tourism": 27,
+        "transport": 54,
+        "worldbank_expansion": 13689
+      },
+      "language": {
+        "en": 8754,
+        "vi": 6019
+      },
+      "n": 14773,
+      "task_type": {
+        "mixed_change_ranking": 547,
+        "mixed_temporal_distribution": 547,
+        "mixed_temporal_ranking": 1094,
+        "stat_average_period": 1094,
+        "stat_change": 1094,
+        "stat_correlation_proxy": 4,
+        "stat_distribution": 547,
+        "stat_outlier": 547,
+        "stat_ranking_topk": 1094,
+        "stat_unanswerable": 1094,
+        "temporal_before_after": 547,
+        "temporal_boundary_check": 1094,
+        "temporal_granularity_unanswerable": 1094,
+        "temporal_period_filter": 1094,
+        "temporal_previous_window": 1094,
+        "temporal_recent_window": 1094,
+        "temporal_trend": 1094
+      },
+      "year_max": {
+        "2008": 27,
+        "2010": 8181,
+        "2014": 54,
+        "2015": 54,
+        "2017": 81,
+        "2019": 81,
+        "2020": 162,
+        "2021": 135,
+        "2022": 378,
+        "2023": 1973,
+        "2024": 3350,
+        "2025": 297
+      }
+    }
+  }
+}

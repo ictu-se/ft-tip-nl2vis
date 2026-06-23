@@ -1,0 +1,28 @@
+{
+  "title": "FT-TIP NL2Vis Reproducibility Package",
+  "upload_type": "software",
+  "description": "Code, benchmark splits, and experimental artifacts for temporal-statistical intent planning in natural language to visualization under support metadata. The manuscript source and PDF are intentionally excluded.",
+  "creators": [
+    {
+      "name": "Author, TO_BE_CONFIRMED",
+      "affiliation": "TO_BE_CONFIRMED"
+    }
+  ],
+  "keywords": [
+    "natural language to visualization",
+    "temporal intent",
+    "trustworthy artificial intelligence",
+    "LoRA",
+    "visualization planning"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/TO_BE_CONFIRMED/ft-tip-nl2vis",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

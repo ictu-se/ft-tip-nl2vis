@@ -1,0 +1,18 @@
+{
+  "answerability_ok_pct": 100.0,
+  "core_intent_ok_pct": 99.93571198971392,
+  "false_plot_rate_pct": 0.0,
+  "full_intent_ok_pct": 99.93571198971392,
+  "json_ok_pct": 100.0,
+  "measure_ok_pct": 99.93571198971392,
+  "n": 3111,
+  "over_refusal_rate_pct": 0.0,
+  "policy_action": {
+    "rule_based": 3111
+  },
+  "required_field_f1": 1.0,
+  "statistic_ok_pct": 100.0,
+  "task_type_ok_pct": 100.0,
+  "temporal_filter_ok_pct": 100.0,
+  "time_field_ok_pct": 100.0
+}

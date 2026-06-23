@@ -1,0 +1,13 @@
+{
+  "answerability_ok_pct": 85.71428571428571,
+  "core_intent_ok_pct": 82.14285714285714,
+  "full_intent_ok_pct": 76.78571428571429,
+  "json_ok_pct": 100.0,
+  "measure_ok_pct": 82.14285714285714,
+  "n": 56,
+  "required_field_f1": 0.8520408163265305,
+  "statistic_ok_pct": 92.85714285714286,
+  "task_type_ok_pct": 85.71428571428571,
+  "temporal_filter_ok_pct": 94.64285714285714,
+  "time_field_ok_pct": 85.71428571428571
+}

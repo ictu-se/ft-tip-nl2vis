@@ -1,0 +1,91 @@
+{
+  "seed": 20260619,
+  "source": "manuscripts/08_temporal_statistical_intent_nl2vis/benchmark/temporal_stat_tasks.jsonl",
+  "split_policy": "grouped_by_dataset_id",
+  "splits": {
+    "dev": {
+      "answerability": {
+        "answerable": 152,
+        "unanswerable": 32
+      },
+      "datasets": 8,
+      "language": {
+        "en": 112,
+        "vi": 72
+      },
+      "n": 184,
+      "task_type": {
+        "mixed_change_ranking": 8,
+        "mixed_temporal_distribution": 8,
+        "mixed_temporal_ranking": 16,
+        "stat_average_period": 16,
+        "stat_change": 16,
+        "stat_distribution": 8,
+        "stat_outlier": 8,
+        "stat_ranking_topk": 16,
+        "stat_unanswerable": 16,
+        "temporal_before_after": 8,
+        "temporal_granularity_unanswerable": 16,
+        "temporal_period_filter": 16,
+        "temporal_recent_window": 16,
+        "temporal_trend": 16
+      }
+    },
+    "test": {
+      "answerability": {
+        "answerable": 152,
+        "unanswerable": 32
+      },
+      "datasets": 8,
+      "language": {
+        "en": 112,
+        "vi": 72
+      },
+      "n": 184,
+      "task_type": {
+        "mixed_change_ranking": 8,
+        "mixed_temporal_distribution": 8,
+        "mixed_temporal_ranking": 16,
+        "stat_average_period": 16,
+        "stat_change": 16,
+        "stat_distribution": 8,
+        "stat_outlier": 8,
+        "stat_ranking_topk": 16,
+        "stat_unanswerable": 16,
+        "temporal_before_after": 8,
+        "temporal_granularity_unanswerable": 16,
+        "temporal_period_filter": 16,
+        "temporal_recent_window": 16,
+        "temporal_trend": 16
+      }
+    },
+    "train": {
+      "answerability": {
+        "answerable": 688,
+        "unanswerable": 144
+      },
+      "datasets": 37,
+      "language": {
+        "en": 508,
+        "vi": 324
+      },
+      "n": 832,
+      "task_type": {
+        "mixed_change_ranking": 36,
+        "mixed_temporal_distribution": 36,
+        "mixed_temporal_ranking": 72,
+        "stat_average_period": 72,
+        "stat_change": 72,
+        "stat_distribution": 36,
+        "stat_outlier": 36,
+        "stat_ranking_topk": 72,
+        "stat_unanswerable": 72,
+        "temporal_before_after": 37,
+        "temporal_granularity_unanswerable": 72,
+        "temporal_period_filter": 73,
+        "temporal_recent_window": 73,
+        "temporal_trend": 73
+      }
+    }
+  }
+}

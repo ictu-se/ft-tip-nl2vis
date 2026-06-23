@@ -1,0 +1,8 @@
+failure_type,count,rate_pct
+wrong_task_type,352,11.3147
+wrong_temporal_filter,195,6.2681
+wrong_statistic,38,1.2215
+wrong_measure,31,0.9965
+false_plot,28,0.9
+wrong_time_field,28,0.9
+core_ok_but_full_wrong,6,0.1929

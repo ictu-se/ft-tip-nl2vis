@@ -1,0 +1,8 @@
+task_type,n,consistent_pct,symmetric_ok_pct,fallback_pct
+mixed_change_ranking,690,80.1449,80.1449,19.8551
+temporal_recent_window,1380,94.3478,94.3478,5.6522
+stat_change,1380,95.7971,95.7971,4.2029
+temporal_previous_window,1380,97.8986,97.8986,2.1014
+stat_average_period,1322,100.0,100.0,0.0
+temporal_boundary_check,1376,100.0,100.0,0.0
+temporal_period_filter,1322,100.0,100.0,0.0

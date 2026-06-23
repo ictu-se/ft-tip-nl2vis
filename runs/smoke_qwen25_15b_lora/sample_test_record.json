@@ -1,0 +1,21 @@
+{
+  "answerability": "answerable",
+  "dataset_id": "wb_asean_gdp_current_usd",
+  "language": "en",
+  "messages": [
+    {
+      "content": "You are a temporal-statistical intent planner for NL2Vis. Given a user query and dataset schema, output only valid JSON matching the intent schema. Do not invent unsupported fields or plot unanswerable requests.",
+      "role": "system"
+    },
+    {
+      "content": "Dataset title: ASEAN GDP current USD\nDomain: economy\nLanguage: en\nQuery: Show the trend of gdp current usd in Indonesia over time.\n\nSchema fields:\nname=country_code | type=nominal | role=id | unit=\nname=country | type=nominal | role=dimension | unit=\nname=year | type=temporal | role=time | unit=\nname=gdp_current_usd | type=quantitative | role=measure | unit=current US$\n\nInfer the temporal-statistical visualization intent.",
+      "role": "user"
+    },
+    {
+      "content": "{\"aggregation\": \"none\", \"answerability\": \"answerable\", \"chart_type\": \"line\", \"group_by\": \"country\", \"measure\": \"gdp_current_usd\", \"required_fields\": [\"country\", \"gdp_current_usd\", \"year\"], \"secondary_measure\": \"\", \"sort\": \"none\", \"statistic\": \"trend\", \"task_type\": \"temporal_trend\", \"temporal_filter\": \"all_years\", \"temporal_granularity\": \"year\", \"time_field\": \"year\", \"top_k\": null, \"unsupported_reason\": \"\"}",
+      "role": "assistant"
+    }
+  ],
+  "sample_id": "timestat_00139",
+  "task_type": "temporal_trend"
+}

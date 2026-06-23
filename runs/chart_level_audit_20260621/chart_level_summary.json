@@ -1,0 +1,24 @@
+{
+  "chart_semantic_accuracy_pct_all": 84.5,
+  "chart_semantic_accuracy_pct_gold_answerable": 87.2727,
+  "error_type_counts": {
+    "false_plot": 10,
+    "missing_schema_fields": 4,
+    "safe_refusal": 25,
+    "semantic_ok": 144,
+    "wrong_mark": 14,
+    "wrong_x_field": 1,
+    "wrong_y_field": 2
+  },
+  "false_plot_rate_pct": 5.0,
+  "gold_answerable_n": 165,
+  "joined_population_n": 3111,
+  "over_refusal_rate_pct": 0.0,
+  "pred_spec_constructed_pct_all": 85.5,
+  "pred_spec_constructed_pct_pred_answerable": 97.7143,
+  "predicted_answerable_n": 175,
+  "render_valid_pct_all": 85.5,
+  "render_valid_pct_constructed": 100.0,
+  "renderer": "vl-convert",
+  "sample_n": 200
+}

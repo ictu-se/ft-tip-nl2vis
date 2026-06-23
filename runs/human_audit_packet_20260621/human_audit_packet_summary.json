@@ -1,0 +1,13 @@
+{
+  "instructions": "Two annotators should independently mark human_answerability_correct and human_intent_correct as yes/no, add corrected intent JSON when no, then adjudicate disagreements.",
+  "n": 280,
+  "slices": {
+    "future_city_unsupported": 40,
+    "mixed_change_ranking": 40,
+    "non_worldbank_schema": 40,
+    "previous_window": 40,
+    "recent_window": 40,
+    "unsupported_monthly_over_annual": 40,
+    "vietnamese_diacritic": 40
+  }
+}

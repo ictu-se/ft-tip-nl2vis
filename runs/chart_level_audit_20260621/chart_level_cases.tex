@@ -1,0 +1,12 @@
+\begin{tabular}{p{0.23\linewidth}p{0.20\linewidth}p{0.20\linewidth}p{0.23\linewidth}}
+\toprule
+Query & Gold chart intent & Predicted chart intent & Chart-level reading \\
+\midrule
+Rank countries by growth in services share gdp over the last decade. & bar/mixed\_change\_ranking/services\_share\_gdp/2015\_to\_2024/group=country & bar/mixed\_change\_ranking/services\_share\_gdp/2015\_to\_2024/group=country & Renderable and semantically aligned with the gold intent. \\
+Show the forecasted services share gdp for next year by city. & unanswerable/forecast and city fields are not available & unanswerable/forecast and city fields are not available & No chart is produced; the unsupported request is refused safely. \\
+Show the change in services share gdp from 2015 to 2024 by country. & bar/stat\_change/services\_share\_gdp/2015\_to\_2024/group=country & line/stat\_change/services\_share\_gdp/2015\_to\_2024/group=country & The chart renders, but the chosen mark encodes a different analytical operation. \\
+Show the forecasted population for next year by city. & unanswerable/forecast and city fields are not available & line/stat\_unanswerable/population/future/group=country & A renderable chart is produced for an unsupported request; this is the most serious residual safety error. \\
+Which countries have the highest population in the latest year? & bar/mixed\_temporal\_ranking/population/latest\_year/group=country & bar/mixed\_temporal\_ranking/population/latest\_year/group=country & Spec generation is blocked because the predicted required fields include a non-schema field. \\
+Rank countries by growth in gdp per capita over the last decade. & bar/mixed\_change\_ranking/gdp\_per\_capita/2015\_to\_2024/group=country & bar/stat\_ranking/gdp\_growth/2015\_to\_2024/group=country & The chart renders, but the predicted measure changes the analytical quantity. \\
+\bottomrule
+\end{tabular}
