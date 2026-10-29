@@ -1,0 +1,202 @@
+[
+  {
+    "family": "gemma4_26b",
+    "comparator": "nvAgent",
+    "endpoint": "Complete",
+    "difference_pp": 18.6046511627907,
+    "lower": 4.053712803712804,
+    "upper": 36.36363636363637,
+    "gain": 18,
+    "loss": 2
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "nvAgent",
+    "endpoint": "Numerical",
+    "difference_pp": 6.976744186046512,
+    "lower": -4.040745290745291,
+    "upper": 22.10818713450288,
+    "gain": 10,
+    "loss": 4
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "LIDA",
+    "endpoint": "Complete",
+    "difference_pp": 17.441860465116278,
+    "lower": 2.5974025974025974,
+    "upper": 33.85858521717043,
+    "gain": 19,
+    "loss": 4
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "LIDA",
+    "endpoint": "Numerical",
+    "difference_pp": 13.953488372093023,
+    "lower": 1.0752688172043012,
+    "upper": 28.947368421052634,
+    "gain": 15,
+    "loss": 3
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "Typed",
+    "endpoint": "Complete",
+    "difference_pp": 5.813953488372093,
+    "lower": -5.0,
+    "upper": 19.402985074626866,
+    "gain": 8,
+    "loss": 3
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "Typed",
+    "endpoint": "Numerical",
+    "difference_pp": 6.976744186046512,
+    "lower": -2.5,
+    "upper": 19.753086419753085,
+    "gain": 9,
+    "loss": 3
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "Structural",
+    "endpoint": "Complete",
+    "difference_pp": 1.1627906976744187,
+    "lower": -7.018161601186063,
+    "upper": 8.333333333333332,
+    "gain": 4,
+    "loss": 3
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "Structural",
+    "endpoint": "Numerical",
+    "difference_pp": 1.1627906976744187,
+    "lower": -7.018161601186063,
+    "upper": 8.333333333333332,
+    "gain": 4,
+    "loss": 3
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "Selector",
+    "endpoint": "Complete",
+    "difference_pp": 3.488372093023256,
+    "lower": 0.0,
+    "upper": 10.975609756097562,
+    "gain": 3,
+    "loss": 0
+  },
+  {
+    "family": "gemma4_26b",
+    "comparator": "Selector",
+    "endpoint": "Numerical",
+    "difference_pp": 0.0,
+    "lower": 0.0,
+    "upper": 0.0,
+    "gain": 0,
+    "loss": 0
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "nvAgent",
+    "endpoint": "Complete",
+    "difference_pp": 20.930232558139537,
+    "lower": 5.747126436781609,
+    "upper": 38.88888888888889,
+    "gain": 19,
+    "loss": 1
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "nvAgent",
+    "endpoint": "Numerical",
+    "difference_pp": 6.976744186046512,
+    "lower": 0.0,
+    "upper": 17.91140451588211,
+    "gain": 8,
+    "loss": 2
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "LIDA",
+    "endpoint": "Complete",
+    "difference_pp": 25.58139534883721,
+    "lower": 12.698412698412698,
+    "upper": 39.77272727272727,
+    "gain": 23,
+    "loss": 1
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "LIDA",
+    "endpoint": "Numerical",
+    "difference_pp": 10.465116279069768,
+    "lower": 2.1972049689441002,
+    "upper": 20.454545454545457,
+    "gain": 11,
+    "loss": 2
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "Typed",
+    "endpoint": "Complete",
+    "difference_pp": 11.627906976744185,
+    "lower": 0.0,
+    "upper": 27.397260273972602,
+    "gain": 11,
+    "loss": 1
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "Typed",
+    "endpoint": "Numerical",
+    "difference_pp": 11.627906976744185,
+    "lower": 0.0,
+    "upper": 27.397260273972602,
+    "gain": 11,
+    "loss": 1
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "Structural",
+    "endpoint": "Complete",
+    "difference_pp": 5.813953488372093,
+    "lower": 0.0,
+    "upper": 14.864864864864865,
+    "gain": 6,
+    "loss": 1
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "Structural",
+    "endpoint": "Numerical",
+    "difference_pp": 5.813953488372093,
+    "lower": 0.0,
+    "upper": 14.864864864864865,
+    "gain": 6,
+    "loss": 1
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "Selector",
+    "endpoint": "Complete",
+    "difference_pp": 5.813953488372093,
+    "lower": 0.0,
+    "upper": 15.841584158415841,
+    "gain": 5,
+    "loss": 0
+  },
+  {
+    "family": "qwen_local_27b",
+    "comparator": "Selector",
+    "endpoint": "Numerical",
+    "difference_pp": 0.0,
+    "lower": 0.0,
+    "upper": 0.0,
+    "gain": 0,
+    "loss": 0
+  }
+]

@@ -1,0 +1,1549 @@
+family,sample_id,db_id,configuration,state,complete,numerical
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Initial,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Typed,2,True,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Result type,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,nvAgent,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,LIDA,2,True,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Structural,2,True,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Selector,2,True,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Replacement,2,True,True
+gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,Permutation,2,True,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Initial,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Typed,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Result type,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,nvAgent,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,LIDA,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Structural,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Selector,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Replacement,1,False,True
+gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,Permutation,1,False,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Initial,0,False,False
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Typed,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Result type,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,nvAgent,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,LIDA,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Structural,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Selector,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Replacement,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,Permutation,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Initial,0,False,False
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Typed,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Result type,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,nvAgent,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,LIDA,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Structural,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Selector,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Replacement,2,True,True
+gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,Permutation,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,LIDA,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_233_0,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,LIDA,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_233_1,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,LIDA,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_233_2,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,Initial,0,False,False
+gemma4_26b,viseval_246_0,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,LIDA,0,False,False
+gemma4_26b,viseval_246_0,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_246_0,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,Initial,0,False,False
+gemma4_26b,viseval_246_1,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,LIDA,0,False,False
+gemma4_26b,viseval_246_1,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_246_1,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,LIDA,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_246_2,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,LIDA,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_246_3,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,LIDA,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_247_0,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,Initial,0,False,False
+gemma4_26b,viseval_247_1,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,LIDA,0,False,False
+gemma4_26b,viseval_247_1,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_247_1,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,Typed,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,LIDA,0,False,False
+gemma4_26b,viseval_247_2,behavior_monitoring,Structural,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_247_2,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_247_3,behavior_monitoring,Initial,2,True,True
+gemma4_26b,viseval_247_3,behavior_monitoring,Typed,0,False,False
+gemma4_26b,viseval_247_3,behavior_monitoring,Result type,2,True,True
+gemma4_26b,viseval_247_3,behavior_monitoring,nvAgent,2,True,True
+gemma4_26b,viseval_247_3,behavior_monitoring,LIDA,0,False,False
+gemma4_26b,viseval_247_3,behavior_monitoring,Structural,0,False,False
+gemma4_26b,viseval_247_3,behavior_monitoring,Selector,2,True,True
+gemma4_26b,viseval_247_3,behavior_monitoring,Replacement,2,True,True
+gemma4_26b,viseval_247_3,behavior_monitoring,Permutation,2,True,True
+gemma4_26b,viseval_297_0,bike_1,Initial,0,False,False
+gemma4_26b,viseval_297_0,bike_1,Typed,0,False,False
+gemma4_26b,viseval_297_0,bike_1,Result type,0,False,False
+gemma4_26b,viseval_297_0,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_297_0,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_297_0,bike_1,Structural,0,False,False
+gemma4_26b,viseval_297_0,bike_1,Selector,0,False,False
+gemma4_26b,viseval_297_0,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_297_0,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Initial,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Typed,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Result type,0,False,False
+gemma4_26b,viseval_297_1,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_297_1,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Structural,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Selector,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_297_1,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Initial,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Typed,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Result type,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,nvAgent,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,LIDA,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Structural,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Selector,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Replacement,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_0,bike_1,Permutation,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Initial,0,False,False
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Typed,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Result type,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,nvAgent,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,LIDA,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Structural,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Selector,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Replacement,2,True,True
+gemma4_26b,viseval_317@y_name@DESC_1,bike_1,Permutation,2,True,True
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Initial,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Typed,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Result type,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Structural,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Selector,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_0,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Initial,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Typed,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Result type,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Structural,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Selector,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_330@y_name@ASC_1,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Initial,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Typed,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Result type,0,False,False
+gemma4_26b,viseval_340_0,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_340_0,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Structural,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Selector,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_340_0,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Initial,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Typed,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Result type,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Structural,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Selector,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_0,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Initial,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Typed,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Result type,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,nvAgent,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,LIDA,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Structural,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Selector,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Replacement,0,False,False
+gemma4_26b,viseval_349@y_name@DESC_1,bike_1,Permutation,0,False,False
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Initial,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Typed,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Result type,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,nvAgent,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,LIDA,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Structural,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Selector,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Replacement,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_0,car_1,Permutation,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Initial,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Typed,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Result type,0,False,False
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,nvAgent,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,LIDA,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Structural,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Selector,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Replacement,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_1,car_1,Permutation,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Initial,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Typed,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Result type,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,nvAgent,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,LIDA,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Structural,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Selector,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Replacement,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_2,car_1,Permutation,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Initial,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Typed,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Result type,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,nvAgent,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,LIDA,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Structural,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Selector,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Replacement,2,True,True
+gemma4_26b,viseval_415@x_name@DESC_3,car_1,Permutation,2,True,True
+gemma4_26b,viseval_416_0,car_1,Initial,2,True,True
+gemma4_26b,viseval_416_0,car_1,Typed,2,True,True
+gemma4_26b,viseval_416_0,car_1,Result type,0,False,False
+gemma4_26b,viseval_416_0,car_1,nvAgent,2,True,True
+gemma4_26b,viseval_416_0,car_1,LIDA,2,True,True
+gemma4_26b,viseval_416_0,car_1,Structural,2,True,True
+gemma4_26b,viseval_416_0,car_1,Selector,2,True,True
+gemma4_26b,viseval_416_0,car_1,Replacement,2,True,True
+gemma4_26b,viseval_416_0,car_1,Permutation,2,True,True
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Initial,1,False,True
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Typed,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Result type,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,nvAgent,1,False,True
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,LIDA,2,True,True
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Structural,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Selector,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Replacement,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_0,cinema,Permutation,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Initial,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Typed,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Result type,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,nvAgent,1,False,True
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,LIDA,2,True,True
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Structural,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Selector,1,False,True
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Replacement,0,False,False
+gemma4_26b,viseval_465@y_name@ASC_1,cinema,Permutation,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Initial,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Typed,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Result type,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,nvAgent,1,False,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,LIDA,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Structural,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Selector,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Replacement,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_0,cinema,Permutation,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Initial,0,False,False
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Typed,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Result type,0,False,False
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,nvAgent,1,False,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,LIDA,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Structural,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Selector,1,False,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Replacement,2,True,True
+gemma4_26b,viseval_468@y_name@DESC_1,cinema,Permutation,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Initial,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Typed,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Result type,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,nvAgent,1,False,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,LIDA,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Structural,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Selector,1,False,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Replacement,2,True,True
+gemma4_26b,viseval_469@y_name@DESC_0,cinema,Permutation,2,True,True
+gemma4_26b,viseval_470_0,cinema,Initial,0,False,False
+gemma4_26b,viseval_470_0,cinema,Typed,2,True,True
+gemma4_26b,viseval_470_0,cinema,Result type,2,True,True
+gemma4_26b,viseval_470_0,cinema,nvAgent,2,True,True
+gemma4_26b,viseval_470_0,cinema,LIDA,2,True,True
+gemma4_26b,viseval_470_0,cinema,Structural,2,True,True
+gemma4_26b,viseval_470_0,cinema,Selector,2,True,True
+gemma4_26b,viseval_470_0,cinema,Replacement,2,True,True
+gemma4_26b,viseval_470_0,cinema,Permutation,2,True,True
+gemma4_26b,viseval_470_1,cinema,Initial,2,True,True
+gemma4_26b,viseval_470_1,cinema,Typed,2,True,True
+gemma4_26b,viseval_470_1,cinema,Result type,2,True,True
+gemma4_26b,viseval_470_1,cinema,nvAgent,2,True,True
+gemma4_26b,viseval_470_1,cinema,LIDA,2,True,True
+gemma4_26b,viseval_470_1,cinema,Structural,2,True,True
+gemma4_26b,viseval_470_1,cinema,Selector,2,True,True
+gemma4_26b,viseval_470_1,cinema,Replacement,2,True,True
+gemma4_26b,viseval_470_1,cinema,Permutation,2,True,True
+gemma4_26b,viseval_471_0,cinema,Initial,0,False,False
+gemma4_26b,viseval_471_0,cinema,Typed,2,True,True
+gemma4_26b,viseval_471_0,cinema,Result type,2,True,True
+gemma4_26b,viseval_471_0,cinema,nvAgent,2,True,True
+gemma4_26b,viseval_471_0,cinema,LIDA,2,True,True
+gemma4_26b,viseval_471_0,cinema,Structural,2,True,True
+gemma4_26b,viseval_471_0,cinema,Selector,2,True,True
+gemma4_26b,viseval_471_0,cinema,Replacement,2,True,True
+gemma4_26b,viseval_471_0,cinema,Permutation,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Initial,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Typed,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Result type,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,nvAgent,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,LIDA,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Structural,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Selector,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Replacement,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_0,college_2,Permutation,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Initial,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Typed,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Result type,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,nvAgent,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,LIDA,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Structural,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Selector,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Replacement,2,True,True
+gemma4_26b,viseval_640@x_name@ASC_1,college_2,Permutation,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Initial,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Typed,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Result type,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,nvAgent,1,False,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,LIDA,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Structural,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Selector,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Replacement,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_0,college_2,Permutation,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Initial,0,False,False
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Typed,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Result type,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,nvAgent,1,False,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,LIDA,1,False,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Structural,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Selector,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Replacement,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_1,college_2,Permutation,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Initial,0,False,False
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Typed,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Result type,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,nvAgent,1,False,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,LIDA,1,False,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Structural,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Selector,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Replacement,2,True,True
+gemma4_26b,viseval_642@x_name@DESC_2,college_2,Permutation,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Initial,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Typed,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Result type,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,nvAgent,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,LIDA,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Structural,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Selector,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Replacement,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,Permutation,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Initial,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Typed,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Result type,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,nvAgent,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,LIDA,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Structural,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Selector,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Replacement,2,True,True
+gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,Permutation,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Initial,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Typed,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Result type,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,nvAgent,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,LIDA,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Structural,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Selector,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Replacement,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Permutation,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Initial,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Typed,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Result type,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,nvAgent,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,LIDA,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Structural,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Selector,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Replacement,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Permutation,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Initial,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Typed,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Result type,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,nvAgent,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,LIDA,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Structural,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Selector,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Replacement,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Permutation,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Initial,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Typed,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Result type,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,nvAgent,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,LIDA,0,False,False
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Structural,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Selector,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Replacement,2,True,True
+gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Permutation,2,True,True
+gemma4_26b,viseval_1460_0,formula_1,Initial,0,False,False
+gemma4_26b,viseval_1460_0,formula_1,Typed,0,False,False
+gemma4_26b,viseval_1460_0,formula_1,Result type,2,True,True
+gemma4_26b,viseval_1460_0,formula_1,nvAgent,2,True,True
+gemma4_26b,viseval_1460_0,formula_1,LIDA,2,True,True
+gemma4_26b,viseval_1460_0,formula_1,Structural,0,False,False
+gemma4_26b,viseval_1460_0,formula_1,Selector,2,True,True
+gemma4_26b,viseval_1460_0,formula_1,Replacement,2,True,True
+gemma4_26b,viseval_1460_0,formula_1,Permutation,2,True,True
+gemma4_26b,viseval_1460_1,formula_1,Initial,0,False,False
+gemma4_26b,viseval_1460_1,formula_1,Typed,0,False,False
+gemma4_26b,viseval_1460_1,formula_1,Result type,2,True,True
+gemma4_26b,viseval_1460_1,formula_1,nvAgent,2,True,True
+gemma4_26b,viseval_1460_1,formula_1,LIDA,2,True,True
+gemma4_26b,viseval_1460_1,formula_1,Structural,0,False,False
+gemma4_26b,viseval_1460_1,formula_1,Selector,2,True,True
+gemma4_26b,viseval_1460_1,formula_1,Replacement,2,True,True
+gemma4_26b,viseval_1460_1,formula_1,Permutation,2,True,True
+gemma4_26b,viseval_1460_2,formula_1,Initial,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,Typed,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,Result type,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,nvAgent,2,True,True
+gemma4_26b,viseval_1460_2,formula_1,LIDA,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,Structural,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,Selector,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,Replacement,0,False,False
+gemma4_26b,viseval_1460_2,formula_1,Permutation,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,Initial,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,Typed,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,Result type,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,nvAgent,2,True,True
+gemma4_26b,viseval_1460_3,formula_1,LIDA,2,True,True
+gemma4_26b,viseval_1460_3,formula_1,Structural,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,Selector,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,Replacement,0,False,False
+gemma4_26b,viseval_1460_3,formula_1,Permutation,0,False,False
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Initial,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Typed,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Result type,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,nvAgent,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,LIDA,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Structural,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Selector,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Replacement,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,Permutation,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Initial,0,False,False
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Typed,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Result type,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,nvAgent,0,False,False
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,LIDA,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Structural,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Selector,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Replacement,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,Permutation,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Initial,0,False,False
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Typed,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Result type,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,nvAgent,0,False,False
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,LIDA,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Structural,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Selector,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Replacement,2,True,True
+gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,Permutation,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Initial,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Typed,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Result type,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,nvAgent,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,LIDA,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Structural,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Selector,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Replacement,2,True,True
+gemma4_26b,viseval_2019_0,insurance_policies,Permutation,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Initial,0,False,False
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Typed,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Result type,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,nvAgent,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,LIDA,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Structural,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Selector,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Replacement,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,Permutation,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Initial,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Typed,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Result type,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,nvAgent,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,LIDA,0,False,False
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Structural,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Selector,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Replacement,2,True,True
+gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,Permutation,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Initial,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Typed,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Result type,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,nvAgent,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,LIDA,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Structural,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Selector,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Replacement,2,True,True
+gemma4_26b,viseval_2027_0,insurance_policies,Permutation,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Initial,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Typed,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Result type,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,nvAgent,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,LIDA,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Structural,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Selector,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Replacement,2,True,True
+gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,Permutation,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Initial,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Typed,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Result type,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,nvAgent,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,LIDA,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Structural,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Selector,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Replacement,2,True,True
+gemma4_26b,viseval_2110_0,local_govt_and_lot,Permutation,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Initial,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Typed,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Result type,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,nvAgent,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,LIDA,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Structural,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Selector,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Replacement,2,True,True
+gemma4_26b,viseval_2110_1,local_govt_and_lot,Permutation,2,True,True
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Initial,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Typed,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Result type,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,nvAgent,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,LIDA,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Structural,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Selector,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Replacement,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_0,party_host,Permutation,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Initial,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Typed,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Result type,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,nvAgent,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,LIDA,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Structural,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Selector,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Replacement,0,False,False
+gemma4_26b,viseval_2497@y_name@DESC_1,party_host,Permutation,0,False,False
+gemma4_26b,viseval_2646_0,race_track,Initial,0,False,False
+gemma4_26b,viseval_2646_0,race_track,Typed,0,False,False
+gemma4_26b,viseval_2646_0,race_track,Result type,2,True,True
+gemma4_26b,viseval_2646_0,race_track,nvAgent,2,True,True
+gemma4_26b,viseval_2646_0,race_track,LIDA,1,False,True
+gemma4_26b,viseval_2646_0,race_track,Structural,2,True,True
+gemma4_26b,viseval_2646_0,race_track,Selector,2,True,True
+gemma4_26b,viseval_2646_0,race_track,Replacement,2,True,True
+gemma4_26b,viseval_2646_0,race_track,Permutation,2,True,True
+gemma4_26b,viseval_2646_1,race_track,Initial,0,False,False
+gemma4_26b,viseval_2646_1,race_track,Typed,0,False,False
+gemma4_26b,viseval_2646_1,race_track,Result type,2,True,True
+gemma4_26b,viseval_2646_1,race_track,nvAgent,2,True,True
+gemma4_26b,viseval_2646_1,race_track,LIDA,1,False,True
+gemma4_26b,viseval_2646_1,race_track,Structural,2,True,True
+gemma4_26b,viseval_2646_1,race_track,Selector,2,True,True
+gemma4_26b,viseval_2646_1,race_track,Replacement,2,True,True
+gemma4_26b,viseval_2646_1,race_track,Permutation,2,True,True
+gemma4_26b,viseval_2646_2,race_track,Initial,0,False,False
+gemma4_26b,viseval_2646_2,race_track,Typed,0,False,False
+gemma4_26b,viseval_2646_2,race_track,Result type,2,True,True
+gemma4_26b,viseval_2646_2,race_track,nvAgent,2,True,True
+gemma4_26b,viseval_2646_2,race_track,LIDA,2,True,True
+gemma4_26b,viseval_2646_2,race_track,Structural,2,True,True
+gemma4_26b,viseval_2646_2,race_track,Selector,2,True,True
+gemma4_26b,viseval_2646_2,race_track,Replacement,2,True,True
+gemma4_26b,viseval_2646_2,race_track,Permutation,2,True,True
+gemma4_26b,viseval_2646_3,race_track,Initial,0,False,False
+gemma4_26b,viseval_2646_3,race_track,Typed,0,False,False
+gemma4_26b,viseval_2646_3,race_track,Result type,2,True,True
+gemma4_26b,viseval_2646_3,race_track,nvAgent,2,True,True
+gemma4_26b,viseval_2646_3,race_track,LIDA,0,False,False
+gemma4_26b,viseval_2646_3,race_track,Structural,2,True,True
+gemma4_26b,viseval_2646_3,race_track,Selector,2,True,True
+gemma4_26b,viseval_2646_3,race_track,Replacement,2,True,True
+gemma4_26b,viseval_2646_3,race_track,Permutation,2,True,True
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Initial,0,False,False
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Typed,2,True,True
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Result type,2,True,True
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,nvAgent,0,False,False
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,LIDA,0,False,False
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Structural,2,True,True
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Selector,0,False,False
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Replacement,0,False,False
+gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,Permutation,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Initial,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Typed,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Result type,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,nvAgent,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,LIDA,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Structural,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Selector,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Replacement,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_0,wedding,Permutation,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Initial,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Typed,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Result type,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,nvAgent,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,LIDA,0,False,False
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Structural,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Selector,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Replacement,2,True,True
+gemma4_26b,viseval_3218@x_name@DESC_1,wedding,Permutation,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,Initial,0,False,False
+gemma4_26b,viseval_3229_0,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3229_0,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,Initial,0,False,False
+gemma4_26b,viseval_3229_1,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3229_1,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,Initial,0,False,False
+gemma4_26b,viseval_3229_2,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3229_2,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,Initial,0,False,False
+gemma4_26b,viseval_3230_0,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3230_0,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,Initial,0,False,False
+gemma4_26b,viseval_3230_1,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3230_1,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Initial,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3240_0,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Initial,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Initial,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Initial,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Typed,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Result type,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,nvAgent,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,LIDA,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Structural,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Selector,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Replacement,2,True,True
+gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,Permutation,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Initial,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Typed,0,False,False
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Result type,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,nvAgent,1,False,True
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,LIDA,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Structural,0,False,False
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Selector,0,False,False
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Replacement,0,False,False
+gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,Permutation,0,False,False
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Initial,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Typed,0,False,False
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Result type,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,nvAgent,1,False,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,LIDA,2,True,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Structural,1,False,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Selector,1,False,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Replacement,1,False,True
+gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,Permutation,1,False,True
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Initial,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Typed,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Result type,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,nvAgent,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,LIDA,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Structural,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Selector,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Replacement,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,Permutation,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Initial,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Typed,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Result type,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,nvAgent,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,LIDA,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Structural,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Selector,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Replacement,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,Permutation,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Initial,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Typed,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Result type,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,nvAgent,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,LIDA,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Structural,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Selector,0,False,False
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Replacement,2,True,True
+gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,Permutation,0,False,False
+gemma4_26b,viseval_3291_0,wta_1,Initial,0,False,False
+gemma4_26b,viseval_3291_0,wta_1,Typed,2,True,True
+gemma4_26b,viseval_3291_0,wta_1,Result type,2,True,True
+gemma4_26b,viseval_3291_0,wta_1,nvAgent,0,False,False
+gemma4_26b,viseval_3291_0,wta_1,LIDA,0,False,False
+gemma4_26b,viseval_3291_0,wta_1,Structural,2,True,True
+gemma4_26b,viseval_3291_0,wta_1,Selector,2,True,True
+gemma4_26b,viseval_3291_0,wta_1,Replacement,2,True,True
+gemma4_26b,viseval_3291_0,wta_1,Permutation,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Initial,1,False,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Typed,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Result type,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,nvAgent,1,False,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,LIDA,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Structural,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Selector,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Replacement,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,Permutation,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Initial,1,False,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Typed,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Result type,1,False,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,nvAgent,1,False,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,LIDA,1,False,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Structural,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Selector,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Replacement,2,True,True
+qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,Permutation,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Initial,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Typed,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Result type,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,nvAgent,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,LIDA,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Structural,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Selector,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Replacement,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,Permutation,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Initial,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Typed,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Result type,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,nvAgent,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,LIDA,2,True,True
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Structural,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Selector,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Replacement,0,False,False
+qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,Permutation,0,False,False
+qwen_local_27b,viseval_233_0,behavior_monitoring,Initial,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_233_0,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_233_1,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_233_1,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_233_2,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_233_2,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_246_0,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_246_0,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_246_1,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_246_1,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Initial,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_246_2,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_246_3,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_246_3,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_247_0,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_247_0,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_247_1,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,LIDA,0,False,False
+qwen_local_27b,viseval_247_1,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_247_1,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_247_2,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,Result type,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,LIDA,0,False,False
+qwen_local_27b,viseval_247_2,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_247_2,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,Initial,0,False,False
+qwen_local_27b,viseval_247_3,behavior_monitoring,Typed,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,Result type,0,False,False
+qwen_local_27b,viseval_247_3,behavior_monitoring,nvAgent,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,LIDA,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,Structural,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,Selector,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,Replacement,2,True,True
+qwen_local_27b,viseval_247_3,behavior_monitoring,Permutation,2,True,True
+qwen_local_27b,viseval_297_0,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_297_0,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_297_1,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Initial,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Typed,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Result type,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,nvAgent,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,LIDA,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Structural,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Selector,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Replacement,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,Permutation,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Initial,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Typed,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Result type,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,nvAgent,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Structural,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Selector,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Replacement,2,True,True
+qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,Permutation,2,True,True
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_340_0,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Initial,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Typed,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Result type,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,nvAgent,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,LIDA,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Structural,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Selector,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Replacement,0,False,False
+qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,Permutation,0,False,False
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Initial,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Typed,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Result type,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,nvAgent,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,LIDA,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Structural,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Selector,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Replacement,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_0,car_1,Permutation,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Initial,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Typed,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Result type,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,nvAgent,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,LIDA,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Structural,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Selector,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Replacement,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_1,car_1,Permutation,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Initial,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Typed,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Result type,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,nvAgent,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,LIDA,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Structural,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Selector,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Replacement,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_2,car_1,Permutation,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Initial,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Typed,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Result type,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,nvAgent,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,LIDA,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Structural,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Selector,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Replacement,2,True,True
+qwen_local_27b,viseval_415@x_name@DESC_3,car_1,Permutation,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Initial,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Typed,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Result type,2,True,True
+qwen_local_27b,viseval_416_0,car_1,nvAgent,2,True,True
+qwen_local_27b,viseval_416_0,car_1,LIDA,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Structural,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Selector,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Replacement,2,True,True
+qwen_local_27b,viseval_416_0,car_1,Permutation,2,True,True
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Initial,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Typed,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Result type,2,True,True
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,nvAgent,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,LIDA,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Structural,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Selector,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Replacement,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_0,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Initial,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Typed,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Result type,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,nvAgent,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,LIDA,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Structural,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Selector,1,False,True
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Replacement,0,False,False
+qwen_local_27b,viseval_465@y_name@ASC_1,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Initial,0,False,False
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Typed,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Result type,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,nvAgent,1,False,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,LIDA,1,False,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Structural,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Selector,1,False,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Replacement,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_0,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Initial,0,False,False
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Typed,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Result type,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,nvAgent,1,False,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,LIDA,1,False,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Structural,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Selector,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Replacement,2,True,True
+qwen_local_27b,viseval_468@y_name@DESC_1,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Initial,0,False,False
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Typed,2,True,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Result type,2,True,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,nvAgent,1,False,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,LIDA,1,False,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Structural,2,True,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Selector,1,False,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Replacement,2,True,True
+qwen_local_27b,viseval_469@y_name@DESC_0,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_470_0,cinema,Initial,0,False,False
+qwen_local_27b,viseval_470_0,cinema,Typed,2,True,True
+qwen_local_27b,viseval_470_0,cinema,Result type,2,True,True
+qwen_local_27b,viseval_470_0,cinema,nvAgent,2,True,True
+qwen_local_27b,viseval_470_0,cinema,LIDA,2,True,True
+qwen_local_27b,viseval_470_0,cinema,Structural,2,True,True
+qwen_local_27b,viseval_470_0,cinema,Selector,2,True,True
+qwen_local_27b,viseval_470_0,cinema,Replacement,2,True,True
+qwen_local_27b,viseval_470_0,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_470_1,cinema,Initial,0,False,False
+qwen_local_27b,viseval_470_1,cinema,Typed,2,True,True
+qwen_local_27b,viseval_470_1,cinema,Result type,2,True,True
+qwen_local_27b,viseval_470_1,cinema,nvAgent,2,True,True
+qwen_local_27b,viseval_470_1,cinema,LIDA,2,True,True
+qwen_local_27b,viseval_470_1,cinema,Structural,2,True,True
+qwen_local_27b,viseval_470_1,cinema,Selector,2,True,True
+qwen_local_27b,viseval_470_1,cinema,Replacement,2,True,True
+qwen_local_27b,viseval_470_1,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Initial,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Typed,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Result type,2,True,True
+qwen_local_27b,viseval_471_0,cinema,nvAgent,2,True,True
+qwen_local_27b,viseval_471_0,cinema,LIDA,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Structural,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Selector,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Replacement,2,True,True
+qwen_local_27b,viseval_471_0,cinema,Permutation,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Initial,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Typed,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Result type,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,nvAgent,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,LIDA,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Structural,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Selector,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Replacement,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_0,college_2,Permutation,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Initial,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Typed,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Result type,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,nvAgent,0,False,False
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,LIDA,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Structural,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Selector,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Replacement,2,True,True
+qwen_local_27b,viseval_640@x_name@ASC_1,college_2,Permutation,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Initial,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Typed,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Result type,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,nvAgent,1,False,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,LIDA,1,False,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Structural,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Selector,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Replacement,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_0,college_2,Permutation,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Initial,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Typed,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Result type,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,nvAgent,1,False,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,LIDA,1,False,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Structural,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Selector,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Replacement,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_1,college_2,Permutation,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Initial,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Typed,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Result type,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,nvAgent,1,False,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,LIDA,1,False,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Structural,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Selector,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Replacement,2,True,True
+qwen_local_27b,viseval_642@x_name@DESC_2,college_2,Permutation,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Initial,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Typed,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Result type,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,nvAgent,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,LIDA,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Structural,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Selector,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Replacement,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,Permutation,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Initial,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Typed,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Result type,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,nvAgent,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,LIDA,1,False,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Structural,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Selector,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Replacement,2,True,True
+qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,Permutation,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Initial,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Typed,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Result type,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,nvAgent,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,LIDA,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Structural,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Selector,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Replacement,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,Permutation,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Initial,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Typed,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Result type,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,nvAgent,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,LIDA,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Structural,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Selector,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Replacement,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,Permutation,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Initial,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Typed,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Result type,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,nvAgent,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,LIDA,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Structural,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Selector,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Replacement,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,Permutation,2,True,True
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Initial,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Typed,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Result type,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,nvAgent,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,LIDA,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Structural,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Selector,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Replacement,0,False,False
+qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,Permutation,0,False,False
+qwen_local_27b,viseval_1460_0,formula_1,Initial,0,False,False
+qwen_local_27b,viseval_1460_0,formula_1,Typed,0,False,False
+qwen_local_27b,viseval_1460_0,formula_1,Result type,2,True,True
+qwen_local_27b,viseval_1460_0,formula_1,nvAgent,2,True,True
+qwen_local_27b,viseval_1460_0,formula_1,LIDA,2,True,True
+qwen_local_27b,viseval_1460_0,formula_1,Structural,2,True,True
+qwen_local_27b,viseval_1460_0,formula_1,Selector,2,True,True
+qwen_local_27b,viseval_1460_0,formula_1,Replacement,2,True,True
+qwen_local_27b,viseval_1460_0,formula_1,Permutation,2,True,True
+qwen_local_27b,viseval_1460_1,formula_1,Initial,0,False,False
+qwen_local_27b,viseval_1460_1,formula_1,Typed,0,False,False
+qwen_local_27b,viseval_1460_1,formula_1,Result type,2,True,True
+qwen_local_27b,viseval_1460_1,formula_1,nvAgent,2,True,True
+qwen_local_27b,viseval_1460_1,formula_1,LIDA,2,True,True
+qwen_local_27b,viseval_1460_1,formula_1,Structural,0,False,False
+qwen_local_27b,viseval_1460_1,formula_1,Selector,2,True,True
+qwen_local_27b,viseval_1460_1,formula_1,Replacement,2,True,True
+qwen_local_27b,viseval_1460_1,formula_1,Permutation,2,True,True
+qwen_local_27b,viseval_1460_2,formula_1,Initial,0,False,False
+qwen_local_27b,viseval_1460_2,formula_1,Typed,0,False,False
+qwen_local_27b,viseval_1460_2,formula_1,Result type,2,True,True
+qwen_local_27b,viseval_1460_2,formula_1,nvAgent,2,True,True
+qwen_local_27b,viseval_1460_2,formula_1,LIDA,2,True,True
+qwen_local_27b,viseval_1460_2,formula_1,Structural,0,False,False
+qwen_local_27b,viseval_1460_2,formula_1,Selector,2,True,True
+qwen_local_27b,viseval_1460_2,formula_1,Replacement,2,True,True
+qwen_local_27b,viseval_1460_2,formula_1,Permutation,2,True,True
+qwen_local_27b,viseval_1460_3,formula_1,Initial,0,False,False
+qwen_local_27b,viseval_1460_3,formula_1,Typed,0,False,False
+qwen_local_27b,viseval_1460_3,formula_1,Result type,0,False,False
+qwen_local_27b,viseval_1460_3,formula_1,nvAgent,2,True,True
+qwen_local_27b,viseval_1460_3,formula_1,LIDA,0,False,False
+qwen_local_27b,viseval_1460_3,formula_1,Structural,0,False,False
+qwen_local_27b,viseval_1460_3,formula_1,Selector,2,True,True
+qwen_local_27b,viseval_1460_3,formula_1,Replacement,2,True,True
+qwen_local_27b,viseval_1460_3,formula_1,Permutation,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Initial,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Typed,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Result type,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,nvAgent,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,LIDA,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Structural,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Selector,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Replacement,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,Permutation,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Initial,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Typed,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Result type,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,nvAgent,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,LIDA,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Structural,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Selector,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Replacement,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,Permutation,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Initial,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Typed,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Result type,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,nvAgent,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,LIDA,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Structural,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Selector,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Replacement,2,True,True
+qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,Permutation,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Initial,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Typed,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Result type,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,nvAgent,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,LIDA,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Structural,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Selector,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Replacement,2,True,True
+qwen_local_27b,viseval_2019_0,insurance_policies,Permutation,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Initial,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Typed,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Result type,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,nvAgent,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,LIDA,1,False,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Structural,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Selector,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Replacement,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,Permutation,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Initial,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Typed,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Result type,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,nvAgent,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,LIDA,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Structural,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Selector,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Replacement,2,True,True
+qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,Permutation,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,Initial,0,False,False
+qwen_local_27b,viseval_2027_0,insurance_policies,Typed,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,Result type,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,nvAgent,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,LIDA,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,Structural,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,Selector,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,Replacement,2,True,True
+qwen_local_27b,viseval_2027_0,insurance_policies,Permutation,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Initial,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Typed,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Result type,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,nvAgent,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,LIDA,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Structural,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Selector,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Replacement,2,True,True
+qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,Permutation,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Initial,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Typed,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Result type,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,nvAgent,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,LIDA,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Structural,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Selector,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Replacement,2,True,True
+qwen_local_27b,viseval_2110_0,local_govt_and_lot,Permutation,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Initial,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Typed,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Result type,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,nvAgent,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,LIDA,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Structural,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Selector,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Replacement,2,True,True
+qwen_local_27b,viseval_2110_1,local_govt_and_lot,Permutation,2,True,True
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Initial,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Typed,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Result type,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,nvAgent,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,LIDA,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Structural,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Selector,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Replacement,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,Permutation,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Initial,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Typed,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Result type,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,nvAgent,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,LIDA,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Structural,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Selector,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Replacement,0,False,False
+qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,Permutation,0,False,False
+qwen_local_27b,viseval_2646_0,race_track,Initial,0,False,False
+qwen_local_27b,viseval_2646_0,race_track,Typed,0,False,False
+qwen_local_27b,viseval_2646_0,race_track,Result type,2,True,True
+qwen_local_27b,viseval_2646_0,race_track,nvAgent,2,True,True
+qwen_local_27b,viseval_2646_0,race_track,LIDA,2,True,True
+qwen_local_27b,viseval_2646_0,race_track,Structural,2,True,True
+qwen_local_27b,viseval_2646_0,race_track,Selector,2,True,True
+qwen_local_27b,viseval_2646_0,race_track,Replacement,2,True,True
+qwen_local_27b,viseval_2646_0,race_track,Permutation,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,Initial,0,False,False
+qwen_local_27b,viseval_2646_1,race_track,Typed,0,False,False
+qwen_local_27b,viseval_2646_1,race_track,Result type,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,nvAgent,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,LIDA,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,Structural,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,Selector,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,Replacement,2,True,True
+qwen_local_27b,viseval_2646_1,race_track,Permutation,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,Initial,0,False,False
+qwen_local_27b,viseval_2646_2,race_track,Typed,0,False,False
+qwen_local_27b,viseval_2646_2,race_track,Result type,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,nvAgent,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,LIDA,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,Structural,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,Selector,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,Replacement,2,True,True
+qwen_local_27b,viseval_2646_2,race_track,Permutation,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,Initial,0,False,False
+qwen_local_27b,viseval_2646_3,race_track,Typed,0,False,False
+qwen_local_27b,viseval_2646_3,race_track,Result type,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,nvAgent,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,LIDA,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,Structural,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,Selector,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,Replacement,2,True,True
+qwen_local_27b,viseval_2646_3,race_track,Permutation,2,True,True
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Initial,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Typed,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Result type,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,nvAgent,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,LIDA,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Structural,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Selector,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Replacement,0,False,False
+qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,Permutation,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Initial,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Typed,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Result type,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,nvAgent,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,LIDA,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Structural,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Selector,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Replacement,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,Permutation,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Initial,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Typed,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Result type,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,nvAgent,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,LIDA,0,False,False
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Structural,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Selector,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Replacement,2,True,True
+qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,Permutation,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3229_0,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3229_1,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3229_2,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3230_0,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3230_1,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3240_0,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Initial,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Typed,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Result type,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,nvAgent,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,LIDA,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Structural,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Selector,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Replacement,2,True,True
+qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,Permutation,2,True,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Initial,2,True,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Typed,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Result type,2,True,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,nvAgent,1,False,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,LIDA,1,False,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Structural,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Selector,1,False,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Replacement,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,Permutation,2,True,True
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Initial,1,False,True
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Typed,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Result type,2,True,True
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,nvAgent,1,False,True
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,LIDA,1,False,True
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Structural,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Selector,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Replacement,0,False,False
+qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,Permutation,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Initial,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Typed,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Result type,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,nvAgent,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,LIDA,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Structural,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Selector,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Replacement,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,Permutation,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Initial,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Typed,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Result type,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,nvAgent,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,LIDA,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Structural,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Selector,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Replacement,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,Permutation,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Initial,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Typed,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Result type,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,nvAgent,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,LIDA,0,False,False
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Structural,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Selector,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Replacement,2,True,True
+qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,Permutation,2,True,True
+qwen_local_27b,viseval_3291_0,wta_1,Initial,0,False,False
+qwen_local_27b,viseval_3291_0,wta_1,Typed,2,True,True
+qwen_local_27b,viseval_3291_0,wta_1,Result type,0,False,False
+qwen_local_27b,viseval_3291_0,wta_1,nvAgent,0,False,False
+qwen_local_27b,viseval_3291_0,wta_1,LIDA,0,False,False
+qwen_local_27b,viseval_3291_0,wta_1,Structural,2,True,True
+qwen_local_27b,viseval_3291_0,wta_1,Selector,0,False,False
+qwen_local_27b,viseval_3291_0,wta_1,Replacement,0,False,False
+qwen_local_27b,viseval_3291_0,wta_1,Permutation,0,False,False

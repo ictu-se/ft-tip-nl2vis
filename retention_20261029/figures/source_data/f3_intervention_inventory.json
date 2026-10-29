@@ -1,0 +1,122 @@
+[
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3290@y_name@ASC_0",
+    "Selector_data_correct": false,
+    "Replacement_data_correct": true,
+    "Permutation_data_correct": false,
+    "Selector_common_success": false,
+    "Replacement_common_success": true,
+    "Permutation_common_success": false,
+    "pairs": 3,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3290@y_name@ASC_2",
+    "Selector_data_correct": false,
+    "Replacement_data_correct": true,
+    "Permutation_data_correct": false,
+    "Selector_common_success": false,
+    "Replacement_common_success": true,
+    "Permutation_common_success": false,
+    "pairs": 3,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_465@y_name@ASC_1",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": false,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": false,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_468@y_name@DESC_1",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": true,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": true,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_469@y_name@DESC_0",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": true,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": true,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3288@x_name@DESC_0",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": false,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": false,
+    "Permutation_common_success": true,
+    "pairs": 3,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_465@y_name@ASC_0",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": false,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": false,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_465@y_name@ASC_1",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": false,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": false,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_468@y_name@DESC_0",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": true,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": true,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_469@y_name@DESC_0",
+    "Selector_data_correct": true,
+    "Replacement_data_correct": true,
+    "Permutation_data_correct": true,
+    "Selector_common_success": false,
+    "Replacement_common_success": true,
+    "Permutation_common_success": true,
+    "pairs": 6,
+    "same_pair_multiset": true
+  }
+]

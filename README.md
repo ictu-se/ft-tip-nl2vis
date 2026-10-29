@@ -1,3 +1,7 @@
+## Current retention analysis (2026-10-29)
+
+The portable [saved-output evidence package](retention_20261029/README.md) reproduces the current retention study's counts, intervals, numerical tables and eight empirical figures. Its scope is saved-output reconciliation; full fresh-inference replication remains incomplete. The historical material below concerns earlier experiments.
+
 # FT-TIP NL2Vis Reproducibility Package
 
 This repository contains the code, benchmark splits, and experimental artifacts for:

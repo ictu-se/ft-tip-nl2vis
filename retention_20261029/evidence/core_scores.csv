@@ -1,0 +1,1549 @@
+configuration,family,sample_id,db_id,flagged,common_success,data_correct,mark_correct,order_correct,selected_visibility_pass,official_data_component,model_calls,input_tokens,output_tokens
+Initial,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,4148,298
+Initial,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,4148,336
+Initial,gemma4_26b,viseval_246_0,behavior_monitoring,False,False,False,False,False,False,False,2,4865,348
+Initial,gemma4_26b,viseval_246_1,behavior_monitoring,False,False,False,False,False,False,False,2,4865,381
+Initial,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,4162,344
+Initial,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,4160,377
+Initial,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,4175,363
+Initial,gemma4_26b,viseval_247_1,behavior_monitoring,False,False,False,False,False,False,False,2,4865,337
+Initial,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,4173,375
+Initial,gemma4_26b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,2,4177,359
+Initial,gemma4_26b,viseval_297_0,bike_1,True,False,False,False,False,False,False,1,4953,174
+Initial,gemma4_26b,viseval_297_1,bike_1,True,False,False,False,False,False,False,1,4959,136
+Initial,gemma4_26b,viseval_340_0,bike_1,True,False,False,False,False,False,False,1,4955,202
+Initial,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,3470,349
+Initial,gemma4_26b,viseval_470_0,cinema,False,False,False,False,False,False,False,2,2926,322
+Initial,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,2850,371
+Initial,gemma4_26b,viseval_1460_0,formula_1,False,False,False,False,False,False,False,1,2531,125
+Initial,gemma4_26b,viseval_1460_1,formula_1,False,False,False,False,False,False,False,1,2530,116
+Initial,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,2,4380,400
+Initial,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,2,4382,405
+Initial,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,3795,353
+Initial,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,3137,408
+Initial,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,3113,377
+Initial,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,3137,285
+Initial,gemma4_26b,viseval_2646_0,race_track,False,False,False,False,False,False,False,1,2078,138
+Initial,gemma4_26b,viseval_2646_1,race_track,False,False,False,False,False,False,False,1,2080,164
+Initial,gemma4_26b,viseval_2646_2,race_track,False,False,False,False,False,False,False,1,2081,164
+Initial,gemma4_26b,viseval_2646_3,race_track,False,False,False,False,False,False,False,1,2081,164
+Initial,gemma4_26b,viseval_3229_0,wine_1,False,False,False,False,False,False,False,1,2786,176
+Initial,gemma4_26b,viseval_3229_1,wine_1,False,False,False,False,False,False,False,1,2791,149
+Initial,gemma4_26b,viseval_3229_2,wine_1,False,False,False,False,False,False,False,1,2785,143
+Initial,gemma4_26b,viseval_3230_0,wine_1,False,False,False,False,False,False,False,1,2800,149
+Initial,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,3770,334
+Initial,gemma4_26b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,2,6784,279
+Initial,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,3531,337
+Initial,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,False,False,False,False,False,False,2,3556,322
+Initial,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,False,False,False,False,False,False,2,3550,334
+Initial,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,3284,346
+Initial,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,False,False,False,False,False,False,1,2415,156
+Initial,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,1,4971,194
+Initial,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,False,False,False,False,1,4973,298
+Initial,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,1,4969,221
+Initial,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,False,False,False,False,1,4968,809
+Initial,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,False,False,False,False,1,2138,214
+Initial,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,False,False,False,False,1,2131,187
+Initial,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,5563,360
+Initial,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,5567,366
+Initial,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,True,True,True,True,True,True,2,6794,321
+Initial,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,True,True,True,2,6796,334
+Initial,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,2,6798,341
+Initial,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,True,True,True,2,6792,343
+Initial,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,True,True,False,True,True,2,2852,342
+Initial,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,False,False,False,False,False,2,2876,389
+Initial,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,2880,319
+Initial,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,False,False,False,False,False,False,2,2894,310
+Initial,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,2896,368
+Initial,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,3719,376
+Initial,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,3715,361
+Initial,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,3725,343
+Initial,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,3189,355
+Initial,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,3199,317
+Initial,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,2,3188,311
+Initial,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,False,False,True,True,True,False,2,3187,305
+Initial,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,False,False,True,True,True,False,2,3189,310
+Initial,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,False,False,False,False,False,False,2,2946,358
+Initial,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,3484,334
+Initial,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,3482,325
+Initial,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,3476,355
+Initial,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,3484,354
+Initial,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,False,False,False,False,False,False,2,3151,329
+Initial,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,3153,361
+Initial,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3170,363
+Initial,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,False,False,False,False,False,False,1,2453,181
+Initial,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,False,False,False,False,1,2452,279
+Initial,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,False,True,True,False,True,True,2,3751,382
+Initial,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,3755,369
+Initial,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,False,False,False,False,2,2660,358
+Initial,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,True,True,2,2645,350
+Initial,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,2,2639,370
+Initial,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,2,2651,358
+Initial,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,4146,324
+Initial,gemma4_26b,viseval_471_0,cinema,False,False,False,False,False,False,False,2,2924,344
+Initial,gemma4_26b,viseval_3230_1,wine_1,False,False,False,False,False,False,False,1,2791,143
+Initial,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,True,True,True,True,True,True,2,6790,316
+Initial,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,False,False,True,True,True,True,2,2932,370
+Initial,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,False,False,False,False,1,1929,162
+Initial,qwen_local_27b,viseval_233_1,behavior_monitoring,False,False,False,False,False,False,False,2,4500,305
+Initial,qwen_local_27b,viseval_233_2,behavior_monitoring,False,False,False,False,False,False,False,2,4104,299
+Initial,qwen_local_27b,viseval_246_0,behavior_monitoring,False,False,False,False,False,False,False,2,4610,308
+Initial,qwen_local_27b,viseval_246_1,behavior_monitoring,False,False,False,False,False,False,False,2,4610,302
+Initial,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,3907,282
+Initial,qwen_local_27b,viseval_246_3,behavior_monitoring,False,False,False,True,True,True,False,2,4612,287
+Initial,qwen_local_27b,viseval_247_0,behavior_monitoring,False,False,False,True,True,True,False,2,4612,299
+Initial,qwen_local_27b,viseval_247_1,behavior_monitoring,False,False,False,True,True,True,False,2,4610,303
+Initial,qwen_local_27b,viseval_247_2,behavior_monitoring,False,False,False,True,True,True,False,2,4208,300
+Initial,qwen_local_27b,viseval_247_3,behavior_monitoring,False,False,False,False,False,False,False,2,4212,300
+Initial,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,5137,385
+Initial,qwen_local_27b,viseval_297_1,bike_1,True,False,False,False,False,False,False,1,4328,240
+Initial,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,5139,468
+Initial,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,3213,303
+Initial,qwen_local_27b,viseval_470_0,cinema,False,False,False,False,False,False,False,2,2729,315
+Initial,qwen_local_27b,viseval_470_1,cinema,False,False,False,False,False,False,False,2,2717,296
+Initial,qwen_local_27b,viseval_1460_0,formula_1,False,False,False,False,False,False,False,1,2310,156
+Initial,qwen_local_27b,viseval_1460_1,formula_1,False,False,False,False,False,False,False,1,2309,157
+Initial,qwen_local_27b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,2,4106,390
+Initial,qwen_local_27b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,2,4102,348
+Initial,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,3544,262
+Initial,qwen_local_27b,viseval_2027_0,insurance_policies,False,False,False,False,False,False,False,1,2117,242
+Initial,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,2863,357
+Initial,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,2879,330
+Initial,qwen_local_27b,viseval_2646_0,race_track,False,False,False,False,False,False,False,2,2890,959
+Initial,qwen_local_27b,viseval_2646_1,race_track,False,False,False,False,False,False,False,1,1934,271
+Initial,qwen_local_27b,viseval_2646_2,race_track,False,False,False,False,False,False,False,1,1935,301
+Initial,qwen_local_27b,viseval_2646_3,race_track,False,False,False,False,False,False,False,1,1936,249
+Initial,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,3340,361
+Initial,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,3352,363
+Initial,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,3338,373
+Initial,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,3370,361
+Initial,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,3465,295
+Initial,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,2,5967,286
+Initial,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,3266,295
+Initial,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,2,3270,293
+Initial,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,2,3264,295
+Initial,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,3033,302
+Initial,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,3025,304
+Initial,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,1,4340,209
+Initial,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,False,False,False,False,1,4342,252
+Initial,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,2,5426,524
+Initial,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,False,False,False,False,1,4337,298
+Initial,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,False,False,False,False,1,1964,4096
+Initial,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,False,2,2844,882
+Initial,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,5199,308
+Initial,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,5199,307
+Initial,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,True,True,True,True,True,True,2,5975,286
+Initial,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,True,True,True,2,5979,291
+Initial,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,2,5981,286
+Initial,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,True,True,True,2,5975,301
+Initial,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,True,True,False,True,True,2,2655,562
+Initial,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,False,False,False,False,False,2,2679,277
+Initial,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,False,False,False,False,False,False,2,2747,303
+Initial,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,False,False,False,False,False,False,2,2697,258
+Initial,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,False,False,False,False,False,False,2,2760,329
+Initial,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,3414,382
+Initial,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,3410,304
+Initial,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,3420,272
+Initial,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,2934,304
+Initial,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,2944,329
+Initial,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,2,2934,292
+Initial,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,2,2926,299
+Initial,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,2,2930,299
+Initial,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,False,False,True,True,True,True,2,2733,313
+Initial,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,3225,310
+Initial,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,3225,325
+Initial,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,3221,303
+Initial,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,3227,309
+Initial,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,2933,354
+Initial,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,2935,338
+Initial,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,2952,375
+Initial,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,False,False,False,False,False,False,1,2209,3010
+Initial,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,2,3272,943
+Initial,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,False,True,True,False,True,True,2,3494,319
+Initial,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,3498,301
+Initial,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,True,True,True,True,2,2431,586
+Initial,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,False,False,False,False,2,2454,554
+Initial,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,2,2429,609
+Initial,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,False,False,False,False,2,2460,314
+Initial,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,3887,2489
+Initial,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,2685,654
+Initial,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,3350,670
+Initial,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,2,5973,301
+Initial,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,False,False,False,False,False,False,2,2721,368
+Initial,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,False,False,False,False,2,2589,298
+nvAgent,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,5174,571
+nvAgent,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,5174,504
+nvAgent,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,2,5166,533
+nvAgent,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,2,5166,551
+nvAgent,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,5170,560
+nvAgent,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,5168,525
+nvAgent,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,5168,556
+nvAgent,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,2,5166,535
+nvAgent,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,5166,584
+nvAgent,gemma4_26b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,2,5170,547
+nvAgent,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,7600,542
+nvAgent,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,2,7612,564
+nvAgent,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,7604,586
+nvAgent,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,5494,857
+nvAgent,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,2,5174,548
+nvAgent,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,5160,650
+nvAgent,gemma4_26b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,2,5326,565
+nvAgent,gemma4_26b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,2,5324,545
+nvAgent,gemma4_26b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,2,5324,558
+nvAgent,gemma4_26b,viseval_1460_3,formula_1,False,True,True,True,True,True,True,2,5326,603
+nvAgent,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,5350,766
+nvAgent,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,5110,732
+nvAgent,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,5372,453
+nvAgent,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,5396,466
+nvAgent,gemma4_26b,viseval_2646_0,race_track,False,True,True,True,True,True,True,2,5292,710
+nvAgent,gemma4_26b,viseval_2646_1,race_track,False,True,True,True,True,True,True,2,5296,708
+nvAgent,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,2,5298,726
+nvAgent,gemma4_26b,viseval_2646_3,race_track,False,True,True,True,True,True,True,2,5298,743
+nvAgent,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,5594,494
+nvAgent,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,5604,514
+nvAgent,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,5592,507
+nvAgent,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,5622,627
+nvAgent,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,5570,917
+nvAgent,gemma4_26b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,2,7805,392
+nvAgent,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,5346,473
+nvAgent,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,False,False,False,False,False,False,2,5350,820
+nvAgent,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,False,False,False,False,False,False,2,5344,828
+nvAgent,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,5542,507
+nvAgent,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,5534,549
+nvAgent,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,2,7636,1064
+nvAgent,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,2,7640,818
+nvAgent,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,False,True,False,2,7632,802
+nvAgent,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,False,True,False,2,7630,755
+nvAgent,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,2,5392,671
+nvAgent,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,2,5380,745
+nvAgent,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,5607,551
+nvAgent,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,5611,962
+nvAgent,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,False,True,True,False,True,True,2,7817,521
+nvAgent,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,False,True,True,2,7819,479
+nvAgent,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,False,True,True,2,7821,428
+nvAgent,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,False,True,True,2,7815,440
+nvAgent,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,True,True,False,True,True,2,5182,594
+nvAgent,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,True,True,False,True,True,2,5188,506
+nvAgent,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,False,True,True,False,True,True,2,5192,586
+nvAgent,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,False,True,True,False,True,True,2,5188,680
+nvAgent,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,False,True,True,False,True,True,2,5186,581
+nvAgent,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,5602,511
+nvAgent,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,5598,512
+nvAgent,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,5604,516
+nvAgent,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,5248,540
+nvAgent,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,5258,548
+nvAgent,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,False,True,True,False,True,True,2,5254,740
+nvAgent,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,False,True,True,False,True,True,2,5246,550
+nvAgent,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,False,True,True,False,True,True,2,5248,536
+nvAgent,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,False,False,True,False,True,True,2,5184,554
+nvAgent,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,5510,889
+nvAgent,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,5508,874
+nvAgent,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,5502,872
+nvAgent,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,5510,925
+nvAgent,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,5138,536
+nvAgent,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,5140,604
+nvAgent,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,5134,716
+nvAgent,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,2,5390,592
+nvAgent,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,2,5388,602
+nvAgent,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,False,True,True,False,True,True,2,5213,591
+nvAgent,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,5217,569
+nvAgent,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,True,True,True,True,2,5094,510
+nvAgent,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,True,True,2,5100,523
+nvAgent,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,2,5094,510
+nvAgent,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,2,5106,536
+nvAgent,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,5172,463
+nvAgent,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,5172,636
+nvAgent,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,5604,516
+nvAgent,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,2,7813,406
+nvAgent,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,False,False,True,False,True,True,2,5170,519
+nvAgent,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,2,5278,677
+nvAgent,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,5044,429
+nvAgent,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,5044,406
+nvAgent,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,2,5040,516
+nvAgent,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,2,5040,493
+nvAgent,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,5044,620
+nvAgent,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,5042,495
+nvAgent,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,5042,1566
+nvAgent,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,2,5040,488
+nvAgent,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,5040,507
+nvAgent,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,2,5044,492
+nvAgent,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,7286,502
+nvAgent,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,2,7298,514
+nvAgent,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,7290,554
+nvAgent,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,5346,459
+nvAgent,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,2,5065,713
+nvAgent,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,5051,1067
+nvAgent,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,2,5214,632
+nvAgent,qwen_local_27b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,2,5212,637
+nvAgent,qwen_local_27b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,2,5212,630
+nvAgent,qwen_local_27b,viseval_1460_3,formula_1,False,True,True,True,True,True,True,2,5214,1162
+nvAgent,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,5224,395
+nvAgent,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,4994,580
+nvAgent,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,5223,591
+nvAgent,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,5239,483
+nvAgent,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,2,5181,656
+nvAgent,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,2,5185,670
+nvAgent,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,2,5187,672
+nvAgent,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,2,5189,670
+nvAgent,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,5484,852
+nvAgent,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,5496,583
+nvAgent,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,5482,719
+nvAgent,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,5514,580
+nvAgent,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,5460,528
+nvAgent,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,2,7557,402
+nvAgent,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,5234,417
+nvAgent,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,2,5238,478
+nvAgent,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,2,5232,516
+nvAgent,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,5420,538
+nvAgent,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,5412,517
+nvAgent,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,True,False,True,False,2,7322,1242
+nvAgent,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,2,7326,1296
+nvAgent,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,2,7322,2204
+nvAgent,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,False,True,False,2,7316,3544
+nvAgent,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,2,5269,710
+nvAgent,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,2,5257,671
+nvAgent,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,5479,1157
+nvAgent,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,5479,519
+nvAgent,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,False,True,True,False,True,True,2,7567,470
+nvAgent,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,False,True,True,2,7571,474
+nvAgent,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,False,True,True,2,7573,518
+nvAgent,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,False,True,True,2,7567,542
+nvAgent,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,True,True,False,True,True,2,5073,644
+nvAgent,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,True,True,False,True,True,2,5079,455
+nvAgent,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,False,True,True,False,True,True,2,5083,830
+nvAgent,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,False,True,True,False,True,True,2,5079,541
+nvAgent,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,False,True,True,False,True,True,2,5075,699
+nvAgent,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,5492,521
+nvAgent,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,5488,505
+nvAgent,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,5494,532
+nvAgent,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,5122,633
+nvAgent,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,False,False,True,True,True,False,2,5132,571
+nvAgent,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,False,True,True,False,True,True,2,5128,460
+nvAgent,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,False,True,True,False,True,True,2,5120,514
+nvAgent,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,False,True,True,False,True,True,2,5124,576
+nvAgent,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,False,False,True,False,True,True,2,5075,599
+nvAgent,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,5360,543
+nvAgent,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,5360,563
+nvAgent,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,5356,476
+nvAgent,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,5362,532
+nvAgent,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,5022,584
+nvAgent,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,5024,632
+nvAgent,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,5018,1731
+nvAgent,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,2,5277,616
+nvAgent,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,2,5273,692
+nvAgent,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,False,True,True,False,True,True,2,5083,1723
+nvAgent,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,5087,1732
+nvAgent,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,True,True,True,True,2,4961,473
+nvAgent,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,True,True,2,4963,453
+nvAgent,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,2,4959,472
+nvAgent,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,2,4969,550
+nvAgent,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,5042,403
+nvAgent,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,5063,794
+nvAgent,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,5494,604
+nvAgent,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,2,7565,767
+nvAgent,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,False,False,True,False,True,True,2,5063,571
+nvAgent,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,2,5147,614
+LIDA,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,1,1527,587
+LIDA,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,1,1527,590
+LIDA,gemma4_26b,viseval_246_0,behavior_monitoring,False,False,False,False,False,False,False,1,1515,740
+LIDA,gemma4_26b,viseval_246_1,behavior_monitoring,False,False,False,False,False,False,False,1,1515,835
+LIDA,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,1,1521,548
+LIDA,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,1,1518,462
+LIDA,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,1,1518,477
+LIDA,gemma4_26b,viseval_247_1,behavior_monitoring,False,False,False,False,False,False,False,1,1515,741
+LIDA,gemma4_26b,viseval_247_2,behavior_monitoring,False,False,False,False,False,False,False,1,1515,747
+LIDA,gemma4_26b,viseval_247_3,behavior_monitoring,False,False,False,False,False,False,False,1,1521,915
+LIDA,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,1,3388,554
+LIDA,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,1,3406,503
+LIDA,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,1,3394,623
+LIDA,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,1,1572,416
+LIDA,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,1,1185,421
+LIDA,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,1,1167,471
+LIDA,gemma4_26b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,1,1578,618
+LIDA,gemma4_26b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,1,1575,518
+LIDA,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,1,1572,507
+LIDA,gemma4_26b,viseval_1460_3,formula_1,False,True,True,True,True,True,True,1,1575,597
+LIDA,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,1,1509,491
+LIDA,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,1,1276,523
+LIDA,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,1,1372,602
+LIDA,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,1,1408,625
+LIDA,gemma4_26b,viseval_2646_0,race_track,False,False,True,True,False,True,True,1,1271,541
+LIDA,gemma4_26b,viseval_2646_1,race_track,False,False,True,True,False,True,True,1,1277,640
+LIDA,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,1,1280,620
+LIDA,gemma4_26b,viseval_2646_3,race_track,False,False,False,False,False,False,False,1,1280,603
+LIDA,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,1,1553,452
+LIDA,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,1,1568,481
+LIDA,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,1,1550,453
+LIDA,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,1,1595,471
+LIDA,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,1,1520,443
+LIDA,gemma4_26b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,1,2900,412
+LIDA,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,1,1406,396
+LIDA,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,1,1412,426
+LIDA,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,1,1403,478
+LIDA,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,1,1545,514
+LIDA,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,1,1533,582
+LIDA,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,True,True,True,False,1,3442,983
+LIDA,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,True,True,False,1,3448,778
+LIDA,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,1,3436,730
+LIDA,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,1,3433,762
+LIDA,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,False,False,False,False,1,1333,688
+LIDA,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,1,1315,581
+LIDA,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,1,1995,729
+LIDA,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,1,2001,714
+LIDA,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,True,True,True,True,True,True,1,2915,694
+LIDA,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,False,False,False,False,1,2918,544
+LIDA,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,1,2921,424
+LIDA,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,True,True,True,1,2912,422
+LIDA,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,True,True,True,True,True,True,1,1197,499
+LIDA,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,True,True,True,True,True,True,1,1206,531
+LIDA,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,1,1212,567
+LIDA,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,1,1206,494
+LIDA,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,1,1203,601
+LIDA,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,1,1565,454
+LIDA,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,1,1559,423
+LIDA,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,1,1568,438
+LIDA,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,1,1310,460
+LIDA,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,1,1325,460
+LIDA,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,1,1319,530
+LIDA,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,False,True,True,False,True,True,1,1307,489
+LIDA,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,False,True,True,False,True,True,1,1310,452
+LIDA,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,False,False,True,False,True,True,1,1235,442
+LIDA,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,1,1593,485
+LIDA,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,1,1590,463
+LIDA,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,1,1581,460
+LIDA,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,1,1593,468
+LIDA,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,1,1318,602
+LIDA,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,False,False,False,False,False,False,1,1321,727
+LIDA,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,1,1312,532
+LIDA,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,1,1617,473
+LIDA,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,1,1614,458
+LIDA,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,1,1435,601
+LIDA,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,1,1441,539
+LIDA,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,True,True,True,True,1,1157,473
+LIDA,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,True,True,1,1166,532
+LIDA,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,1,1157,532
+LIDA,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,1,1175,529
+LIDA,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,1,1524,533
+LIDA,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,1,1182,454
+LIDA,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,1,1568,467
+LIDA,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,True,True,True,True,True,True,1,2909,486
+LIDA,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,False,False,True,False,True,True,1,1214,471
+LIDA,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,1,1289,542
+LIDA,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,1,1452,395
+LIDA,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,1,1452,542
+LIDA,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,1,1446,594
+LIDA,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,1,1446,575
+LIDA,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,1,1452,584
+LIDA,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,1,1449,559
+LIDA,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,1,1449,599
+LIDA,qwen_local_27b,viseval_247_1,behavior_monitoring,False,False,False,False,False,False,False,1,1446,528
+LIDA,qwen_local_27b,viseval_247_2,behavior_monitoring,False,False,False,False,False,False,False,1,1446,620
+LIDA,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,1,1452,605
+LIDA,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,1,3229,478
+LIDA,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,1,3247,599
+LIDA,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,1,3235,524
+LIDA,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,1,1524,373
+LIDA,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,1,1143,386
+LIDA,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,1,1125,420
+LIDA,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,1,1521,445
+LIDA,qwen_local_27b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,1,1518,476
+LIDA,qwen_local_27b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,1,1515,443
+LIDA,qwen_local_27b,viseval_1460_3,formula_1,False,False,False,False,False,False,False,1,1518,464
+LIDA,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,1,1459,467
+LIDA,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,1,1227,540
+LIDA,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,1,1314,553
+LIDA,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,1,1338,523
+LIDA,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,1,1229,477
+LIDA,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,1,1235,456
+LIDA,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,1,1238,414
+LIDA,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,1,1241,413
+LIDA,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,1,1497,476
+LIDA,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,1,1515,398
+LIDA,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,1,1494,460
+LIDA,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,1,1542,417
+LIDA,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,1,1464,382
+LIDA,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,1,2724,588
+LIDA,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,1,1351,342
+LIDA,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,1,1357,364
+LIDA,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,1,1348,375
+LIDA,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,1,1491,595
+LIDA,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,False,False,False,False,False,False,1,1479,541
+LIDA,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,1,3283,803
+LIDA,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,1,3289,705
+LIDA,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,1,3283,794
+LIDA,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,1,3274,924
+LIDA,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,1,1280,386
+LIDA,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,1,1262,446
+LIDA,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,1,1923,537
+LIDA,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,False,True,True,False,True,True,1,1923,466
+LIDA,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,False,True,True,False,True,True,1,2736,336
+LIDA,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,False,True,True,1,2742,329
+LIDA,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,False,True,True,1,2745,559
+LIDA,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,False,True,True,1,2736,404
+LIDA,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,True,True,False,True,True,1,1155,513
+LIDA,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,True,True,False,True,True,1,1164,601
+LIDA,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,False,True,True,False,True,True,1,1170,433
+LIDA,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,False,True,True,False,True,True,1,1164,350
+LIDA,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,False,True,True,False,True,True,1,1158,357
+LIDA,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,1,1509,353
+LIDA,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,1,1503,361
+LIDA,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,1,1512,380
+LIDA,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,1,1254,386
+LIDA,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,1,1269,445
+LIDA,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,False,True,True,False,True,True,1,1263,395
+LIDA,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,False,True,True,False,True,True,1,1251,379
+LIDA,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,False,True,True,False,True,True,1,1257,405
+LIDA,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,False,False,True,False,True,True,1,1182,449
+LIDA,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,1,1542,368
+LIDA,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,1,1542,404
+LIDA,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,1,1536,394
+LIDA,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,1,1545,384
+LIDA,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,False,True,True,False,True,True,1,1269,645
+LIDA,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,1,1272,652
+LIDA,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,1,1263,604
+LIDA,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,1,1556,442
+LIDA,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,1,1550,441
+LIDA,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,1,1372,584
+LIDA,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,1,1378,578
+LIDA,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,False,False,False,False,1,1103,689
+LIDA,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,True,True,1,1106,432
+LIDA,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,1,1100,430
+LIDA,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,1,1115,444
+LIDA,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,1,1449,630
+LIDA,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,1,1140,387
+LIDA,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,1,1512,411
+LIDA,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,1,2733,322
+LIDA,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,False,False,True,False,True,True,1,1164,440
+LIDA,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,1,1242,445
+Typed,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,4781,402
+Typed,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,4783,448
+Typed,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,4783,457
+Typed,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,2,4779,445
+Typed,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,2,4779,453
+Typed,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,4783,431
+Typed,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,4781,435
+Typed,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,4781,450
+Typed,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,2,4779,442
+Typed,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,4779,445
+Typed,gemma4_26b,viseval_247_3,behavior_monitoring,False,False,False,True,True,True,False,2,4783,448
+Typed,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,6438,475
+Typed,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,2,6450,426
+Typed,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,6442,515
+Typed,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,3784,472
+Typed,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,2,3426,445
+Typed,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,3414,409
+Typed,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,3424,397
+Typed,gemma4_26b,viseval_1460_0,formula_1,False,False,False,True,True,True,False,2,4019,457
+Typed,gemma4_26b,viseval_1460_1,formula_1,False,False,False,True,True,True,False,2,4017,509
+Typed,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,2,4021,461
+Typed,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,2,4023,455
+Typed,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,4417,406
+Typed,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,3763,502
+Typed,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,3749,412
+Typed,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,3773,444
+Typed,gemma4_26b,viseval_2646_0,race_track,False,False,False,False,False,False,False,2,3608,516
+Typed,gemma4_26b,viseval_2646_1,race_track,False,False,False,False,False,False,False,2,3612,529
+Typed,gemma4_26b,viseval_2646_2,race_track,False,False,False,False,False,False,False,2,3614,517
+Typed,gemma4_26b,viseval_2646_3,race_track,False,False,False,False,False,False,False,2,3614,516
+Typed,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,4266,431
+Typed,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,4276,423
+Typed,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,4264,433
+Typed,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,4294,441
+Typed,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,4276,420
+Typed,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,4246,392
+Typed,gemma4_26b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,2,7401,379
+Typed,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,4097,407
+Typed,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,2,4101,425
+Typed,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,2,4095,388
+Typed,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,3919,459
+Typed,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,3911,446
+Typed,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,2,6506,464
+Typed,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,False,False,False,False,1,5175,196
+Typed,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,2,6470,634
+Typed,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,2,6468,825
+Typed,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,False,False,False,False,1,2340,147
+Typed,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,False,False,False,False,1,2333,83
+Typed,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,6198,427
+Typed,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,6202,420
+Typed,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,2,7411,403
+Typed,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,False,False,False,False,False,False,1,6128,161
+Typed,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,2,7413,415
+Typed,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,True,True,True,True,True,True,2,7415,390
+Typed,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,2,7409,406
+Typed,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,2,3432,393
+Typed,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,False,True,True,True,True,2,3438,454
+Typed,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3444,396
+Typed,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,2,3440,402
+Typed,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3438,396
+Typed,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,4276,383
+Typed,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,4272,392
+Typed,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,4278,412
+Typed,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,3708,399
+Typed,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,3718,411
+Typed,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,2,3706,427
+Typed,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,2,3698,399
+Typed,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,2,3700,417
+Typed,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,2,3470,424
+Typed,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,2,3484,402
+Typed,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,3798,404
+Typed,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,3796,389
+Typed,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,3790,413
+Typed,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,3798,412
+Typed,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3787,427
+Typed,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,3789,442
+Typed,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3787,436
+Typed,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,2,4495,483
+Typed,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,2,4493,595
+Typed,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,2,4386,419
+Typed,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,4390,419
+Typed,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,2,3205,424
+Typed,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,2,3211,428
+Typed,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,2,3205,406
+Typed,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,True,True,True,True,True,True,2,3217,418
+Typed,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,True,True,True,True,True,True,2,3431,437
+Typed,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,4502,368
+Typed,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,4504,338
+Typed,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,4504,363
+Typed,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,2,4505,356
+Typed,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,2,4505,356
+Typed,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,4509,349
+Typed,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,4507,365
+Typed,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,4507,354
+Typed,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,2,4505,337
+Typed,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,4505,337
+Typed,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,2,4509,366
+Typed,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,5734,426
+Typed,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,2,5746,425
+Typed,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,5738,441
+Typed,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,3508,339
+Typed,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,2,3210,353
+Typed,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,3198,340
+Typed,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,3208,330
+Typed,qwen_local_27b,viseval_1460_0,formula_1,False,False,False,False,False,False,False,2,3969,378
+Typed,qwen_local_27b,viseval_1460_1,formula_1,False,False,False,True,True,True,False,2,3723,398
+Typed,qwen_local_27b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,2,3721,346
+Typed,qwen_local_27b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,2,3723,350
+Typed,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,4146,340
+Typed,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,3526,400
+Typed,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,3479,321
+Typed,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,3495,334
+Typed,qwen_local_27b,viseval_2646_0,race_track,False,False,False,False,False,False,False,2,3398,642
+Typed,qwen_local_27b,viseval_2646_1,race_track,False,False,False,False,False,False,False,1,2142,161
+Typed,qwen_local_27b,viseval_2646_2,race_track,False,False,False,False,False,False,False,1,2143,228
+Typed,qwen_local_27b,viseval_2646_3,race_track,False,False,False,False,False,False,False,1,2144,170
+Typed,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,3941,383
+Typed,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,3953,394
+Typed,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,3939,389
+Typed,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,3971,392
+Typed,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,3951,386
+Typed,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,3922,338
+Typed,qwen_local_27b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,2,6564,322
+Typed,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,3812,328
+Typed,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,2,3816,314
+Typed,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,2,3810,330
+Typed,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,3648,345
+Typed,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,3640,347
+Typed,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,1,4548,163
+Typed,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,False,False,False,False,1,4550,201
+Typed,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,1,4548,240
+Typed,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,False,False,False,False,1,4545,310
+Typed,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,False,False,False,False,1,2172,174
+Typed,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,False,False,False,False,1,2165,165
+Typed,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,5814,348
+Typed,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,5814,347
+Typed,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,2,6572,342
+Typed,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,False,True,True,True,True,2,6570,332
+Typed,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,2,6576,336
+Typed,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,2,6578,338
+Typed,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,2,6572,349
+Typed,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,2,3215,323
+Typed,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,False,True,True,True,True,2,3221,334
+Typed,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3228,344
+Typed,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,2,3224,348
+Typed,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3220,348
+Typed,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,3952,354
+Typed,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,3948,347
+Typed,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,3954,338
+Typed,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,3434,340
+Typed,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,3444,342
+Typed,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,2,3432,327
+Typed,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,2,3424,358
+Typed,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,2,3428,346
+Typed,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,2,3239,328
+Typed,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,2,3251,343
+Typed,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,3520,317
+Typed,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,3520,332
+Typed,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,3516,350
+Typed,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,3522,346
+Typed,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3549,382
+Typed,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,3551,384
+Typed,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3550,389
+Typed,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,3,6029,809
+Typed,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,2,3637,1147
+Typed,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,2,4109,328
+Typed,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,True,True,True,True,True,True,2,4113,327
+Typed,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,2,2977,357
+Typed,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,2,2979,343
+Typed,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,2,2975,364
+Typed,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,2,2985,361
+Typed,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,2,3199,365
+Result type,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,5215,454
+Result type,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,5217,446
+Result type,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,5217,468
+Result type,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,2,5213,448
+Result type,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,2,5213,449
+Result type,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,5217,453
+Result type,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,5215,459
+Result type,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,5215,450
+Result type,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,2,5213,499
+Result type,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,5213,495
+Result type,gemma4_26b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,2,5217,485
+Result type,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,6469,502
+Result type,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,2,6481,497
+Result type,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,6473,586
+Result type,gemma4_26b,viseval_416_0,car_1,False,False,False,True,True,False,False,2,4233,467
+Result type,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,2,3928,476
+Result type,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,3915,434
+Result type,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,3926,465
+Result type,gemma4_26b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,2,3860,431
+Result type,gemma4_26b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,2,3858,397
+Result type,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,2,4472,518
+Result type,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,2,4474,490
+Result type,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,4814,420
+Result type,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,4248,513
+Result type,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,4211,415
+Result type,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,4235,410
+Result type,gemma4_26b,viseval_2646_0,race_track,False,True,True,True,True,True,True,3,4943,451
+Result type,gemma4_26b,viseval_2646_1,race_track,False,True,True,True,True,True,True,2,3267,375
+Result type,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,3,4952,485
+Result type,gemma4_26b,viseval_2646_3,race_track,False,True,True,True,True,True,True,3,4952,484
+Result type,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,4624,485
+Result type,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,4634,489
+Result type,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,4622,495
+Result type,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,4652,487
+Result type,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,4634,496
+Result type,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,4603,387
+Result type,gemma4_26b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,2,7308,445
+Result type,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,4499,400
+Result type,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,2,4503,457
+Result type,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,2,4497,443
+Result type,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,4393,444
+Result type,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,4385,443
+Result type,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,2,6540,508
+Result type,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,True,True,False,2,6509,549
+Result type,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,2,6501,536
+Result type,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,False,False,False,False,1,5165,453
+Result type,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,False,False,False,False,1,2783,326
+Result type,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,False,False,False,False,1,2776,235
+Result type,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,6426,461
+Result type,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,6430,440
+Result type,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,True,True,True,True,True,True,2,7319,419
+Result type,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,True,True,True,True,True,True,2,7315,448
+Result type,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,True,True,True,2,7321,432
+Result type,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,2,7323,412
+Result type,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,True,True,True,2,7317,448
+Result type,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,2,3934,437
+Result type,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,False,False,False,False,False,1,2620,159
+Result type,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3946,450
+Result type,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,False,False,False,False,False,False,1,2620,207
+Result type,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3940,438
+Result type,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,4634,434
+Result type,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,4630,445
+Result type,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,4636,401
+Result type,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,4159,448
+Result type,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,4169,456
+Result type,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,2,4157,438
+Result type,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,2,4149,443
+Result type,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,2,4151,460
+Result type,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,2,3981,441
+Result type,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,2,3995,464
+Result type,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,4248,445
+Result type,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,False,False,True,True,False,False,2,4246,456
+Result type,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,4240,451
+Result type,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,4248,467
+Result type,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,4272,439
+Result type,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,4274,492
+Result type,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,4272,527
+Result type,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,3,7019,617
+Result type,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,2,4947,471
+Result type,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,False,True,True,False,True,True,2,4841,463
+Result type,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,4845,472
+Result type,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,True,True,False,False,2,3751,446
+Result type,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,False,False,2,3757,408
+Result type,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,False,2,3755,469
+Result type,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,False,False,2,3763,469
+Result type,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,True,True,True,True,True,True,2,3945,479
+Result type,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,2,4899,350
+Result type,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,2,4901,301
+Result type,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,2,4901,329
+Result type,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,2,4902,330
+Result type,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,2,4902,325
+Result type,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,2,4906,334
+Result type,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,2,4904,334
+Result type,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,2,4904,336
+Result type,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,2,4902,367
+Result type,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,2,4902,370
+Result type,qwen_local_27b,viseval_247_3,behavior_monitoring,False,False,False,True,True,True,False,2,4907,306
+Result type,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,2,5728,345
+Result type,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,2,5740,336
+Result type,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,2,5732,376
+Result type,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,2,3920,325
+Result type,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,2,3674,381
+Result type,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,2,3662,340
+Result type,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,2,3672,327
+Result type,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,2,3606,318
+Result type,qwen_local_27b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,2,3604,325
+Result type,qwen_local_27b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,2,3603,333
+Result type,qwen_local_27b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,2,4143,356
+Result type,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,2,4506,310
+Result type,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,2,3974,307
+Result type,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,2,3904,386
+Result type,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,2,3920,371
+Result type,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,3,4620,497
+Result type,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,3,4626,499
+Result type,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,3,4630,452
+Result type,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,3,4632,409
+Result type,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,2,4261,376
+Result type,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,2,4273,378
+Result type,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,2,4259,359
+Result type,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,2,4291,352
+Result type,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,2,4271,358
+Result type,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,2,4242,332
+Result type,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,2,6434,332
+Result type,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,2,4175,359
+Result type,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,2,4179,301
+Result type,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,2,4172,365
+Result type,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,2,4087,333
+Result type,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,2,4080,328
+Result type,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,1,4517,169
+Result type,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,True,True,False,2,5768,391
+Result type,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,2,5764,362
+Result type,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,2,5758,367
+Result type,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,False,2,3092,288
+Result type,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,False,False,False,False,3,4652,400
+Result type,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,2,6005,336
+Result type,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,2,6005,380
+Result type,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,True,True,True,True,True,True,2,6442,353
+Result type,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,True,True,True,True,True,True,2,6440,355
+Result type,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,True,True,True,2,6446,356
+Result type,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,2,6448,309
+Result type,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,True,True,True,2,6442,310
+Result type,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,True,True,True,True,True,True,2,3679,333
+Result type,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,False,False,False,False,False,1,2456,213
+Result type,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3693,325
+Result type,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,2,3688,312
+Result type,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,2,3684,364
+Result type,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,4272,318
+Result type,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,2,4268,311
+Result type,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,2,4274,354
+Result type,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,2,3847,314
+Result type,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,2,3857,336
+Result type,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,2,3845,300
+Result type,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,2,3837,401
+Result type,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,2,3841,319
+Result type,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,2,3712,326
+Result type,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,False,False,True,True,True,True,2,3723,336
+Result type,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,2,3932,325
+Result type,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,2,3932,288
+Result type,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,2,3928,314
+Result type,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,2,3934,297
+Result type,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3997,368
+Result type,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,2,3999,358
+Result type,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,2,3999,338
+Result type,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,False,False,True,True,True,False,2,4046,424
+Result type,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,2,4052,633
+Result type,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,2,4527,336
+Result type,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,2,4532,351
+Result type,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,False,False,True,True,False,False,2,3486,328
+Result type,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,False,False,True,True,False,False,2,3489,294
+Result type,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,False,False,True,True,True,True,2,3483,295
+Result type,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,False,False,2,3495,326
+Result type,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,False,2,3676,416
+Structural,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,4,9953,865
+Structural,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,4,9957,1019
+Structural,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,4,9957,961
+Structural,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,4,9945,978
+Structural,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,4,9945,1004
+Structural,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,4,9953,991
+Structural,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,4,9949,960
+Structural,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,4,9949,1006
+Structural,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,4,9945,977
+Structural,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,4,9945,1029
+Structural,gemma4_26b,viseval_247_3,behavior_monitoring,False,False,False,True,True,True,False,4,9953,995
+Structural,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,4,14038,1017
+Structural,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,4,14062,990
+Structural,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,4,14046,1101
+Structural,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,4,9278,1329
+Structural,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,4,8600,993
+Structural,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,4,8574,1059
+Structural,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,4,8596,1033
+Structural,gemma4_26b,viseval_1460_0,formula_1,False,False,False,True,True,True,False,4,9345,1022
+Structural,gemma4_26b,viseval_1460_1,formula_1,False,False,False,True,True,True,False,4,9341,1054
+Structural,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,4,9345,1019
+Structural,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,4,9349,1058
+Structural,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,4,9767,1172
+Structural,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,4,8873,1234
+Structural,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,4,9121,865
+Structural,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,4,9169,910
+Structural,gemma4_26b,viseval_2646_0,race_track,False,True,True,True,True,True,True,4,8900,1226
+Structural,gemma4_26b,viseval_2646_1,race_track,False,True,True,True,True,True,True,4,8908,1237
+Structural,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,4,8912,1243
+Structural,gemma4_26b,viseval_2646_3,race_track,False,True,True,True,True,True,True,4,8912,1259
+Structural,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,4,9860,925
+Structural,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,4,9880,937
+Structural,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,4,9856,940
+Structural,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,4,9916,1068
+Structural,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,4,9880,936
+Structural,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,4,9816,1309
+Structural,gemma4_26b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,4,15206,771
+Structural,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,4,9443,880
+Structural,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,4,9451,1245
+Structural,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,4,9439,1216
+Structural,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,4,9461,966
+Structural,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,4,9445,995
+Structural,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,4,14142,1528
+Structural,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,3,12815,1014
+Structural,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,4,14102,1436
+Structural,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,4,14098,1580
+Structural,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,3,7732,818
+Structural,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,3,7713,828
+Structural,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,4,11805,978
+Structural,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,4,11813,1382
+Structural,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,4,15228,924
+Structural,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,3,13941,567
+Structural,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,4,15232,894
+Structural,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,True,True,True,True,True,True,4,15236,818
+Structural,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,4,15224,846
+Structural,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,4,8614,987
+Structural,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,False,True,True,True,True,4,8626,960
+Structural,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,4,8636,982
+Structural,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,4,8628,1082
+Structural,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,4,8624,977
+Structural,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,4,9878,894
+Structural,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,4,9870,904
+Structural,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,4,9882,928
+Structural,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,4,8956,939
+Structural,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,4,8976,959
+Structural,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,4,8960,1167
+Structural,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,4,8944,949
+Structural,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,4,8948,953
+Structural,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,4,8640,943
+Structural,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,4,8668,956
+Structural,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,4,9308,1293
+Structural,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,4,9304,1263
+Structural,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,4,9292,1285
+Structural,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,4,9308,1337
+Structural,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,4,8925,963
+Structural,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,4,8929,1046
+Structural,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,4,8921,1152
+Structural,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,4,9885,1075
+Structural,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,4,9881,1197
+Structural,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,4,9599,1010
+Structural,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,4,9607,988
+Structural,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,4,8299,934
+Structural,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,4,8311,951
+Structural,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,4,8299,916
+Structural,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,True,True,True,True,True,True,4,8323,954
+Structural,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,True,True,True,True,True,True,4,8709,1114
+Structural,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,4,9544,771
+Structural,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,4,9548,767
+Structural,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,4,9548,769
+Structural,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,4,9545,872
+Structural,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,4,9545,849
+Structural,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,4,9553,969
+Structural,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,4,9549,860
+Structural,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,4,9549,1920
+Structural,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,4,9545,825
+Structural,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,4,9545,844
+Structural,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,4,9553,858
+Structural,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,4,13020,928
+Structural,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,4,13044,939
+Structural,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,4,13028,995
+Structural,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,4,8854,798
+Structural,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,4,8275,1066
+Structural,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,4,8249,1407
+Structural,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,4,8271,1124
+Structural,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,4,9183,1010
+Structural,qwen_local_27b,viseval_1460_1,formula_1,False,False,False,True,True,True,False,4,8935,1035
+Structural,qwen_local_27b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,4,8933,976
+Structural,qwen_local_27b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,4,8937,1512
+Structural,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,4,9370,735
+Structural,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,4,8520,980
+Structural,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,4,8702,912
+Structural,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,4,8734,817
+Structural,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,4,8579,1298
+Structural,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,3,7327,831
+Structural,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,3,7330,900
+Structural,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,3,7333,840
+Structural,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,4,9425,1235
+Structural,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,4,9449,977
+Structural,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,4,9421,1108
+Structural,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,4,9485,972
+Structural,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,4,9445,990
+Structural,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,4,9382,866
+Structural,qwen_local_27b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,4,14121,724
+Structural,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,4,9046,745
+Structural,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,4,9054,792
+Structural,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,4,9042,846
+Structural,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,4,9068,883
+Structural,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,4,9052,864
+Structural,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,True,False,True,False,3,11870,1405
+Structural,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,3,11876,1497
+Structural,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,3,11870,2444
+Structural,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,False,True,False,3,11861,3854
+Structural,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,3,7441,884
+Structural,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,3,7422,836
+Structural,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,4,11293,1505
+Structural,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,4,11293,866
+Structural,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,4,14139,812
+Structural,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,False,True,True,True,True,4,14135,1099
+Structural,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,4,14147,810
+Structural,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,4,14151,856
+Structural,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,4,14139,891
+Structural,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,4,8288,967
+Structural,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,False,True,True,True,True,4,8300,789
+Structural,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,4,8311,1174
+Structural,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,4,8303,889
+Structural,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,4,8295,1047
+Structural,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,4,9444,875
+Structural,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,4,9436,852
+Structural,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,4,9448,870
+Structural,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,4,8556,973
+Structural,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,4,8576,913
+Structural,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,4,8560,787
+Structural,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,4,8544,872
+Structural,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,4,8552,922
+Structural,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,4,8302,899
+Structural,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,4,8326,942
+Structural,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,4,8880,860
+Structural,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,4,8880,895
+Structural,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,4,8872,826
+Structural,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,4,8884,878
+Structural,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,4,8571,966
+Structural,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,4,8575,1016
+Structural,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,4,8568,2120
+Structural,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,5,11306,1425
+Structural,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,4,8910,1839
+Structural,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,4,9192,2051
+Structural,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,True,True,True,True,True,True,4,9200,2059
+Structural,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,4,7938,830
+Structural,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,4,7942,796
+Structural,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,4,7934,836
+Structural,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,4,7954,911
+Structural,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,4,8346,979
+Selector,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,5,13667,1154
+Selector,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,5,13672,1301
+Selector,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,5,13672,1164
+Selector,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,5,13615,1272
+Selector,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,5,13615,1246
+Selector,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,5,13625,1239
+Selector,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,5,13620,1281
+Selector,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,5,13680,1274
+Selector,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,5,13675,1431
+Selector,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,5,13675,1233
+Selector,gemma4_26b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,5,13633,1183
+Selector,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,5,18992,1279
+Selector,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,5,19022,1284
+Selector,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,5,19026,1410
+Selector,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,5,12948,1455
+Selector,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,5,11089,1232
+Selector,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,5,11056,1275
+Selector,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,5,11180,1165
+Selector,gemma4_26b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,5,12388,1245
+Selector,gemma4_26b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,5,12383,1211
+Selector,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,5,12387,1255
+Selector,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,5,12392,1255
+Selector,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,5,13082,1449
+Selector,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,5,11582,1451
+Selector,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,5,11844,1070
+Selector,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,5,11904,1178
+Selector,gemma4_26b,viseval_2646_0,race_track,False,True,True,True,True,True,True,5,11114,1378
+Selector,gemma4_26b,viseval_2646_1,race_track,False,True,True,True,True,True,True,5,11063,1384
+Selector,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,5,11068,1353
+Selector,gemma4_26b,viseval_2646_3,race_track,False,True,True,True,True,True,True,5,11129,1361
+Selector,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,5,12827,1113
+Selector,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,5,13071,1218
+Selector,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,5,12822,1164
+Selector,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,5,13116,1357
+Selector,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,5,12853,1198
+Selector,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,5,13303,1473
+Selector,gemma4_26b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,5,21025,931
+Selector,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,5,12629,1082
+Selector,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,5,12462,1408
+Selector,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,5,12447,1386
+Selector,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,5,12381,1215
+Selector,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,5,12361,1223
+Selector,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,5,18909,1689
+Selector,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,4,17679,1176
+Selector,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,5,19198,1661
+Selector,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,5,19196,1871
+Selector,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,4,9912,954
+Selector,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,4,9888,984
+Selector,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,5,16823,1342
+Selector,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,5,16833,1655
+Selector,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,5,21163,1146
+Selector,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,4,19523,692
+Selector,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,False,True,True,5,21177,1176
+Selector,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,True,True,True,True,True,True,5,21182,1063
+Selector,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,False,True,True,5,21140,1140
+Selector,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,5,11267,1320
+Selector,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,True,True,False,True,True,5,11047,1163
+Selector,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,11235,1201
+Selector,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,False,True,True,False,True,True,5,11225,1298
+Selector,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,False,True,True,False,True,True,5,11316,1261
+Selector,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,13129,1110
+Selector,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,5,13119,1142
+Selector,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,13150,1169
+Selector,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,5,11924,1159
+Selector,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,5,11949,1194
+Selector,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,5,11929,1431
+Selector,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,5,11923,1270
+Selector,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,5,11928,1204
+Selector,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,5,11565,1154
+Selector,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,5,11600,1178
+Selector,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,5,13082,1522
+Selector,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,5,13077,1494
+Selector,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,5,13062,1509
+Selector,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,5,13082,1546
+Selector,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11808,1224
+Selector,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,5,11813,1338
+Selector,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11787,1425
+Selector,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,5,12899,1265
+Selector,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,5,12894,1398
+Selector,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,5,13063,1242
+Selector,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,5,13073,1247
+Selector,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,5,10874,1142
+Selector,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,5,10889,1186
+Selector,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,5,10874,1116
+Selector,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,True,True,True,True,True,True,5,10904,1233
+Selector,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,5,11217,1417
+Selector,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,5,12898,1024
+Selector,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,5,12903,919
+Selector,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,5,12903,989
+Selector,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,5,12888,1055
+Selector,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,5,12888,1027
+Selector,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,5,12898,1128
+Selector,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,5,12893,1054
+Selector,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,5,12953,2084
+Selector,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,5,12948,1045
+Selector,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,5,12948,1034
+Selector,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,5,12958,1067
+Selector,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,5,17220,1071
+Selector,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,5,17250,1079
+Selector,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,5,17255,1122
+Selector,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,5,12217,919
+Selector,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,5,10512,1219
+Selector,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,5,10480,1585
+Selector,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,5,10603,1288
+Selector,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,5,11766,1148
+Selector,qwen_local_27b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,5,11587,1151
+Selector,qwen_local_27b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,5,11585,1164
+Selector,qwen_local_27b,viseval_1460_3,formula_1,False,True,True,True,True,True,True,5,11590,1709
+Selector,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,5,12378,880
+Selector,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,5,10964,1108
+Selector,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,5,11079,1074
+Selector,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,5,11106,993
+Selector,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,5,10505,1408
+Selector,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,4,9267,946
+Selector,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,4,9308,1066
+Selector,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,4,9305,966
+Selector,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,5,12148,1422
+Selector,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,5,11992,1107
+Selector,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,5,12142,1330
+Selector,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,5,12307,1100
+Selector,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,5,11988,1123
+Selector,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,5,12512,1007
+Selector,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,5,19058,937
+Selector,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,5,11710,924
+Selector,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,5,11630,949
+Selector,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,5,11697,1025
+Selector,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,5,11647,1019
+Selector,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,5,11628,1055
+Selector,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,4,15963,1690
+Selector,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,4,16009,1629
+Selector,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,4,15940,2624
+Selector,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,False,True,False,4,16062,4029
+Selector,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,4,9441,1034
+Selector,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,4,9424,1081
+Selector,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,5,15855,1678
+Selector,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,5,15766,1024
+Selector,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,False,True,True,False,True,True,5,18980,978
+Selector,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,False,True,True,True,True,5,19161,1299
+Selector,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,5,18991,967
+Selector,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,5,18863,1083
+Selector,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,5,18981,1136
+Selector,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,True,True,False,True,True,5,10652,1070
+Selector,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,True,True,False,True,True,5,10466,947
+Selector,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,False,True,True,False,True,True,5,10650,1341
+Selector,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,5,10436,1101
+Selector,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,False,True,True,False,True,True,5,10725,1271
+Selector,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,12332,1051
+Selector,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,5,12322,987
+Selector,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,12347,1063
+Selector,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,5,11118,1141
+Selector,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,5,11230,1056
+Selector,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,5,11202,939
+Selector,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,5,11188,973
+Selector,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,5,11198,1053
+Selector,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,5,10919,1043
+Selector,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,5,10954,1106
+Selector,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,5,12334,997
+Selector,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,5,12334,993
+Selector,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,5,12324,918
+Selector,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,5,12339,1029
+Selector,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11158,1141
+Selector,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,5,11180,1188
+Selector,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11159,2307
+Selector,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,6,13955,1547
+Selector,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,5,11534,1983
+Selector,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,5,12280,2212
+Selector,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,True,True,True,True,True,True,5,12291,2224
+Selector,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,5,10204,970
+Selector,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,5,10210,959
+Selector,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,5,10199,985
+Selector,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,5,10050,1033
+Selector,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,5,10245,1345
+Replacement,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,5,13667,1154
+Replacement,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,5,13672,1301
+Replacement,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,5,13672,1164
+Replacement,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,5,13615,1272
+Replacement,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,5,13615,1246
+Replacement,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,5,13625,1239
+Replacement,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,5,13620,1281
+Replacement,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,5,13680,1274
+Replacement,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,5,13675,1431
+Replacement,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,5,13675,1233
+Replacement,gemma4_26b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,5,13633,1183
+Replacement,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,5,18992,1279
+Replacement,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,5,19022,1284
+Replacement,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,5,19026,1410
+Replacement,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,5,12948,1455
+Replacement,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,5,11089,1232
+Replacement,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,5,11056,1275
+Replacement,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,5,11180,1165
+Replacement,gemma4_26b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,5,12388,1245
+Replacement,gemma4_26b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,5,12383,1211
+Replacement,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,5,12387,1255
+Replacement,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,5,12392,1255
+Replacement,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,5,13082,1449
+Replacement,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,5,11582,1451
+Replacement,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,5,11844,1070
+Replacement,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,5,11904,1178
+Replacement,gemma4_26b,viseval_2646_0,race_track,False,True,True,True,True,True,True,5,11114,1378
+Replacement,gemma4_26b,viseval_2646_1,race_track,False,True,True,True,True,True,True,5,11063,1384
+Replacement,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,5,11068,1353
+Replacement,gemma4_26b,viseval_2646_3,race_track,False,True,True,True,True,True,True,5,11129,1361
+Replacement,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,5,12827,1113
+Replacement,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,5,13071,1218
+Replacement,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,5,12822,1164
+Replacement,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,5,13116,1357
+Replacement,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,5,12853,1198
+Replacement,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,5,13303,1473
+Replacement,gemma4_26b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,5,21025,931
+Replacement,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,5,12629,1082
+Replacement,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,5,12462,1408
+Replacement,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,5,12447,1386
+Replacement,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,5,12381,1215
+Replacement,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,5,12361,1223
+Replacement,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,5,18909,1689
+Replacement,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,4,17679,1176
+Replacement,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,5,19198,1661
+Replacement,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,5,19196,1871
+Replacement,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,4,9912,954
+Replacement,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,4,9888,984
+Replacement,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,5,16823,1342
+Replacement,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,5,16833,1655
+Replacement,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,5,21163,1146
+Replacement,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,4,19523,692
+Replacement,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,5,21177,1176
+Replacement,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,True,True,True,True,True,True,5,21182,1063
+Replacement,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,5,21140,1140
+Replacement,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,5,11267,1320
+Replacement,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,False,False,True,True,True,True,5,11047,1163
+Replacement,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,11235,1201
+Replacement,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,5,11225,1298
+Replacement,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,11316,1261
+Replacement,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,13129,1110
+Replacement,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,5,13119,1142
+Replacement,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,13150,1169
+Replacement,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,5,11924,1159
+Replacement,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,5,11949,1194
+Replacement,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,5,11929,1431
+Replacement,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,5,11923,1270
+Replacement,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,5,11928,1204
+Replacement,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,5,11565,1154
+Replacement,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,5,11600,1178
+Replacement,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,5,13082,1522
+Replacement,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,5,13077,1494
+Replacement,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,5,13062,1509
+Replacement,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,5,13082,1546
+Replacement,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11808,1224
+Replacement,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,5,11813,1338
+Replacement,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11787,1425
+Replacement,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,5,12899,1265
+Replacement,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,5,12894,1398
+Replacement,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,5,13063,1242
+Replacement,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,5,13073,1247
+Replacement,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,5,10874,1142
+Replacement,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,5,10889,1186
+Replacement,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,5,10874,1116
+Replacement,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,True,True,True,True,True,True,5,10904,1233
+Replacement,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,5,11217,1417
+Replacement,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,5,12898,1024
+Replacement,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,5,12903,919
+Replacement,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,5,12903,989
+Replacement,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,5,12888,1055
+Replacement,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,5,12888,1027
+Replacement,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,5,12898,1128
+Replacement,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,5,12893,1054
+Replacement,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,5,12953,2084
+Replacement,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,5,12948,1045
+Replacement,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,5,12948,1034
+Replacement,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,5,12958,1067
+Replacement,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,5,17220,1071
+Replacement,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,5,17250,1079
+Replacement,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,5,17255,1122
+Replacement,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,5,12217,919
+Replacement,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,5,10512,1219
+Replacement,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,5,10480,1585
+Replacement,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,5,10603,1288
+Replacement,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,5,11766,1148
+Replacement,qwen_local_27b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,5,11587,1151
+Replacement,qwen_local_27b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,5,11585,1164
+Replacement,qwen_local_27b,viseval_1460_3,formula_1,False,True,True,True,True,True,True,5,11590,1709
+Replacement,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,5,12378,880
+Replacement,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,5,10964,1108
+Replacement,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,5,11079,1074
+Replacement,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,5,11106,993
+Replacement,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,5,10505,1408
+Replacement,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,4,9267,946
+Replacement,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,4,9308,1066
+Replacement,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,4,9305,966
+Replacement,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,5,12148,1422
+Replacement,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,5,11992,1107
+Replacement,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,5,12142,1330
+Replacement,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,5,12307,1100
+Replacement,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,5,11988,1123
+Replacement,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,5,12512,1007
+Replacement,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,5,19058,937
+Replacement,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,5,11710,924
+Replacement,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,5,11630,949
+Replacement,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,5,11697,1025
+Replacement,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,5,11647,1019
+Replacement,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,5,11628,1055
+Replacement,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,4,15963,1690
+Replacement,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,4,16009,1629
+Replacement,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,4,15940,2624
+Replacement,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,False,True,False,4,16062,4029
+Replacement,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,4,9441,1034
+Replacement,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,4,9424,1081
+Replacement,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,5,15855,1678
+Replacement,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,5,15766,1024
+Replacement,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,5,18980,978
+Replacement,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,False,True,True,True,True,5,19161,1299
+Replacement,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,5,18991,967
+Replacement,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,5,18863,1083
+Replacement,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,5,18981,1136
+Replacement,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,5,10652,1070
+Replacement,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,False,False,True,True,True,True,5,10466,947
+Replacement,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,10650,1341
+Replacement,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,5,10436,1101
+Replacement,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,10725,1271
+Replacement,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,12332,1051
+Replacement,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,5,12322,987
+Replacement,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,12347,1063
+Replacement,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,5,11118,1141
+Replacement,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,5,11230,1056
+Replacement,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,5,11202,939
+Replacement,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,5,11188,973
+Replacement,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,5,11198,1053
+Replacement,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,5,10919,1043
+Replacement,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,5,10954,1106
+Replacement,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,5,12334,997
+Replacement,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,5,12334,993
+Replacement,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,5,12324,918
+Replacement,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,5,12339,1029
+Replacement,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11158,1141
+Replacement,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,5,11180,1188
+Replacement,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11159,2307
+Replacement,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,6,13955,1547
+Replacement,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,5,11534,1983
+Replacement,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,5,12280,2212
+Replacement,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,True,True,True,True,True,True,5,12291,2224
+Replacement,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,5,10204,970
+Replacement,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,5,10210,959
+Replacement,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,5,10199,985
+Replacement,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,5,10050,1033
+Replacement,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,5,10245,1345
+Permutation,gemma4_26b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,5,13667,1154
+Permutation,gemma4_26b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,5,13672,1301
+Permutation,gemma4_26b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,5,13672,1164
+Permutation,gemma4_26b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,5,13615,1272
+Permutation,gemma4_26b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,5,13615,1246
+Permutation,gemma4_26b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,5,13625,1239
+Permutation,gemma4_26b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,5,13620,1281
+Permutation,gemma4_26b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,5,13680,1274
+Permutation,gemma4_26b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,5,13675,1431
+Permutation,gemma4_26b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,5,13675,1233
+Permutation,gemma4_26b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,5,13633,1183
+Permutation,gemma4_26b,viseval_297_0,bike_1,True,False,False,True,True,True,False,5,18992,1279
+Permutation,gemma4_26b,viseval_297_1,bike_1,True,False,False,True,True,True,False,5,19022,1284
+Permutation,gemma4_26b,viseval_340_0,bike_1,True,False,False,True,True,True,False,5,19026,1410
+Permutation,gemma4_26b,viseval_416_0,car_1,False,True,True,True,True,True,True,5,12948,1455
+Permutation,gemma4_26b,viseval_470_0,cinema,False,True,True,True,True,True,True,5,11089,1232
+Permutation,gemma4_26b,viseval_470_1,cinema,False,True,True,True,True,True,True,5,11056,1275
+Permutation,gemma4_26b,viseval_471_0,cinema,False,True,True,True,True,True,True,5,11180,1165
+Permutation,gemma4_26b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,5,12388,1245
+Permutation,gemma4_26b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,5,12383,1211
+Permutation,gemma4_26b,viseval_1460_2,formula_1,False,False,False,True,True,True,False,5,12387,1255
+Permutation,gemma4_26b,viseval_1460_3,formula_1,False,False,False,True,True,True,False,5,12392,1255
+Permutation,gemma4_26b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,5,13082,1449
+Permutation,gemma4_26b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,5,11582,1451
+Permutation,gemma4_26b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,5,11844,1070
+Permutation,gemma4_26b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,5,11904,1178
+Permutation,gemma4_26b,viseval_2646_0,race_track,False,True,True,True,True,True,True,5,11114,1378
+Permutation,gemma4_26b,viseval_2646_1,race_track,False,True,True,True,True,True,True,5,11063,1384
+Permutation,gemma4_26b,viseval_2646_2,race_track,False,True,True,True,True,True,True,5,11068,1353
+Permutation,gemma4_26b,viseval_2646_3,race_track,False,True,True,True,True,True,True,5,11129,1361
+Permutation,gemma4_26b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,5,12827,1113
+Permutation,gemma4_26b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,5,13071,1218
+Permutation,gemma4_26b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,5,12822,1164
+Permutation,gemma4_26b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,5,13116,1357
+Permutation,gemma4_26b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,5,12853,1198
+Permutation,gemma4_26b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,5,13303,1473
+Permutation,gemma4_26b,viseval_3291_0,wta_1,False,True,True,True,True,True,True,5,21025,931
+Permutation,gemma4_26b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,5,12629,1082
+Permutation,gemma4_26b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,5,12462,1408
+Permutation,gemma4_26b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,5,12447,1386
+Permutation,gemma4_26b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,5,12381,1215
+Permutation,gemma4_26b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,5,12361,1223
+Permutation,gemma4_26b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,5,18909,1689
+Permutation,gemma4_26b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,4,17679,1176
+Permutation,gemma4_26b,viseval_349@y_name@DESC_0,bike_1,True,False,False,True,True,True,False,5,19198,1661
+Permutation,gemma4_26b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,True,True,False,5,19196,1871
+Permutation,gemma4_26b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,4,9912,954
+Permutation,gemma4_26b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,4,9888,984
+Permutation,gemma4_26b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,5,16823,1342
+Permutation,gemma4_26b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,5,16833,1655
+Permutation,gemma4_26b,viseval_3288@x_name@DESC_0,wta_1,False,False,False,True,True,True,True,5,21163,1146
+Permutation,gemma4_26b,viseval_3288@x_name@DESC_1,wta_1,False,False,True,True,False,True,True,4,19523,692
+Permutation,gemma4_26b,viseval_3290@y_name@ASC_0,wta_1,False,False,False,True,True,True,True,5,21177,1176
+Permutation,gemma4_26b,viseval_3290@y_name@ASC_1,wta_1,False,True,True,True,True,True,True,5,21182,1063
+Permutation,gemma4_26b,viseval_3290@y_name@ASC_2,wta_1,False,False,False,True,True,True,True,5,21140,1140
+Permutation,gemma4_26b,viseval_465@y_name@ASC_0,cinema,False,False,False,True,True,True,True,5,11267,1320
+Permutation,gemma4_26b,viseval_465@y_name@ASC_1,cinema,False,True,True,True,True,True,True,5,11047,1163
+Permutation,gemma4_26b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,11235,1201
+Permutation,gemma4_26b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,5,11225,1298
+Permutation,gemma4_26b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,11316,1261
+Permutation,gemma4_26b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,13129,1110
+Permutation,gemma4_26b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,5,13119,1142
+Permutation,gemma4_26b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,13150,1169
+Permutation,gemma4_26b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,5,11924,1159
+Permutation,gemma4_26b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,5,11949,1194
+Permutation,gemma4_26b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,5,11929,1431
+Permutation,gemma4_26b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,5,11923,1270
+Permutation,gemma4_26b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,5,11928,1204
+Permutation,gemma4_26b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,5,11565,1154
+Permutation,gemma4_26b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,5,11600,1178
+Permutation,gemma4_26b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,5,13082,1522
+Permutation,gemma4_26b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,5,13077,1494
+Permutation,gemma4_26b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,5,13062,1509
+Permutation,gemma4_26b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,5,13082,1546
+Permutation,gemma4_26b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11808,1224
+Permutation,gemma4_26b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,5,11813,1338
+Permutation,gemma4_26b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11787,1425
+Permutation,gemma4_26b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,5,12899,1265
+Permutation,gemma4_26b,viseval_171@x_name@DESC_1,baseball_1,True,True,True,True,True,True,True,5,12894,1398
+Permutation,gemma4_26b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,5,13063,1242
+Permutation,gemma4_26b,viseval_83@y_name@ASC_1,apartment_rentals,False,False,True,True,False,True,True,5,13073,1247
+Permutation,gemma4_26b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,5,10874,1142
+Permutation,gemma4_26b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,5,10889,1186
+Permutation,gemma4_26b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,5,10874,1116
+Permutation,gemma4_26b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,True,True,True,True,True,True,5,10904,1233
+Permutation,gemma4_26b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,5,11217,1417
+Permutation,qwen_local_27b,viseval_233_0,behavior_monitoring,False,True,True,True,True,True,True,5,12898,1024
+Permutation,qwen_local_27b,viseval_233_1,behavior_monitoring,False,True,True,True,True,True,True,5,12903,919
+Permutation,qwen_local_27b,viseval_233_2,behavior_monitoring,False,True,True,True,True,True,True,5,12903,989
+Permutation,qwen_local_27b,viseval_246_0,behavior_monitoring,False,True,True,True,True,True,True,5,12888,1055
+Permutation,qwen_local_27b,viseval_246_1,behavior_monitoring,False,True,True,True,True,True,True,5,12888,1027
+Permutation,qwen_local_27b,viseval_246_2,behavior_monitoring,False,True,True,True,True,True,True,5,12898,1128
+Permutation,qwen_local_27b,viseval_246_3,behavior_monitoring,False,True,True,True,True,True,True,5,12893,1054
+Permutation,qwen_local_27b,viseval_247_0,behavior_monitoring,False,True,True,True,True,True,True,5,12953,2084
+Permutation,qwen_local_27b,viseval_247_1,behavior_monitoring,False,True,True,True,True,True,True,5,12948,1045
+Permutation,qwen_local_27b,viseval_247_2,behavior_monitoring,False,True,True,True,True,True,True,5,12948,1034
+Permutation,qwen_local_27b,viseval_247_3,behavior_monitoring,False,True,True,True,True,True,True,5,12958,1067
+Permutation,qwen_local_27b,viseval_297_0,bike_1,True,False,False,True,True,True,False,5,17220,1071
+Permutation,qwen_local_27b,viseval_297_1,bike_1,True,False,False,True,True,True,False,5,17250,1079
+Permutation,qwen_local_27b,viseval_340_0,bike_1,True,False,False,True,True,True,False,5,17255,1122
+Permutation,qwen_local_27b,viseval_416_0,car_1,False,True,True,True,True,True,True,5,12217,919
+Permutation,qwen_local_27b,viseval_470_0,cinema,False,True,True,True,True,True,True,5,10512,1219
+Permutation,qwen_local_27b,viseval_470_1,cinema,False,True,True,True,True,True,True,5,10480,1585
+Permutation,qwen_local_27b,viseval_471_0,cinema,False,True,True,True,True,True,True,5,10603,1288
+Permutation,qwen_local_27b,viseval_1460_0,formula_1,False,True,True,True,True,True,True,5,11766,1148
+Permutation,qwen_local_27b,viseval_1460_1,formula_1,False,True,True,True,True,True,True,5,11587,1151
+Permutation,qwen_local_27b,viseval_1460_2,formula_1,False,True,True,True,True,True,True,5,11585,1164
+Permutation,qwen_local_27b,viseval_1460_3,formula_1,False,True,True,True,True,True,True,5,11590,1709
+Permutation,qwen_local_27b,viseval_2019_0,insurance_policies,False,True,True,True,True,True,True,5,12378,880
+Permutation,qwen_local_27b,viseval_2027_0,insurance_policies,False,True,True,True,True,True,True,5,10964,1108
+Permutation,qwen_local_27b,viseval_2110_0,local_govt_and_lot,False,True,True,True,True,True,True,5,11079,1074
+Permutation,qwen_local_27b,viseval_2110_1,local_govt_and_lot,False,True,True,True,True,True,True,5,11106,993
+Permutation,qwen_local_27b,viseval_2646_0,race_track,False,True,True,True,True,True,True,5,10505,1408
+Permutation,qwen_local_27b,viseval_2646_1,race_track,False,True,True,True,True,True,True,4,9267,946
+Permutation,qwen_local_27b,viseval_2646_2,race_track,False,True,True,True,True,True,True,4,9308,1066
+Permutation,qwen_local_27b,viseval_2646_3,race_track,False,True,True,True,True,True,True,4,9305,966
+Permutation,qwen_local_27b,viseval_3229_0,wine_1,False,True,True,True,True,True,True,5,12148,1422
+Permutation,qwen_local_27b,viseval_3229_1,wine_1,False,True,True,True,True,True,True,5,11992,1107
+Permutation,qwen_local_27b,viseval_3229_2,wine_1,False,True,True,True,True,True,True,5,12142,1330
+Permutation,qwen_local_27b,viseval_3230_0,wine_1,False,True,True,True,True,True,True,5,12307,1100
+Permutation,qwen_local_27b,viseval_3230_1,wine_1,False,True,True,True,True,True,True,5,11988,1123
+Permutation,qwen_local_27b,viseval_3240_0,wine_1,False,True,True,True,True,True,True,5,12512,1007
+Permutation,qwen_local_27b,viseval_3291_0,wta_1,False,False,False,True,True,True,True,5,19058,937
+Permutation,qwen_local_27b,viseval_1495@x_name@ASC_0,game_injury,False,True,True,True,True,True,True,5,11710,924
+Permutation,qwen_local_27b,viseval_1495@x_name@ASC_1,game_injury,False,True,True,True,True,True,True,5,11630,949
+Permutation,qwen_local_27b,viseval_1495@x_name@ASC_2,game_injury,False,True,True,True,True,True,True,5,11697,1025
+Permutation,qwen_local_27b,viseval_317@y_name@DESC_0,bike_1,False,True,True,True,True,True,True,5,11647,1019
+Permutation,qwen_local_27b,viseval_317@y_name@DESC_1,bike_1,False,True,True,True,True,True,True,5,11628,1055
+Permutation,qwen_local_27b,viseval_330@y_name@ASC_0,bike_1,True,False,False,False,False,False,False,4,15963,1690
+Permutation,qwen_local_27b,viseval_330@y_name@ASC_1,bike_1,True,False,False,True,False,True,False,4,16009,1629
+Permutation,qwen_local_27b,viseval_349@y_name@DESC_0,bike_1,True,False,False,False,False,False,False,4,15940,2624
+Permutation,qwen_local_27b,viseval_349@y_name@DESC_1,bike_1,True,False,False,True,False,True,False,4,16062,4029
+Permutation,qwen_local_27b,viseval_2497@y_name@DESC_0,party_host,False,False,False,True,True,True,True,4,9441,1034
+Permutation,qwen_local_27b,viseval_2497@y_name@DESC_1,party_host,False,False,False,True,True,True,True,4,9424,1081
+Permutation,qwen_local_27b,viseval_1181@y_name@DESC_0,dog_kennels,False,True,True,True,True,True,True,5,15855,1678
+Permutation,qwen_local_27b,viseval_1181@y_name@DESC_1,dog_kennels,False,True,True,True,True,True,True,5,15766,1024
+Permutation,qwen_local_27b,viseval_3288@x_name@DESC_0,wta_1,False,True,True,True,True,True,True,5,18980,978
+Permutation,qwen_local_27b,viseval_3288@x_name@DESC_1,wta_1,False,False,False,True,True,True,True,5,19161,1299
+Permutation,qwen_local_27b,viseval_3290@y_name@ASC_0,wta_1,False,True,True,True,True,True,True,5,18991,967
+Permutation,qwen_local_27b,viseval_3290@y_name@ASC_1,wta_1,False,False,False,True,True,True,True,5,18863,1083
+Permutation,qwen_local_27b,viseval_3290@y_name@ASC_2,wta_1,False,True,True,True,True,True,True,5,18981,1136
+Permutation,qwen_local_27b,viseval_465@y_name@ASC_0,cinema,False,True,True,True,True,True,True,5,10652,1070
+Permutation,qwen_local_27b,viseval_465@y_name@ASC_1,cinema,False,True,True,True,True,True,True,5,10466,947
+Permutation,qwen_local_27b,viseval_468@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,10650,1341
+Permutation,qwen_local_27b,viseval_468@y_name@DESC_1,cinema,False,True,True,True,True,True,True,5,10436,1101
+Permutation,qwen_local_27b,viseval_469@y_name@DESC_0,cinema,False,True,True,True,True,True,True,5,10725,1271
+Permutation,qwen_local_27b,viseval_3247@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,12332,1051
+Permutation,qwen_local_27b,viseval_3247@x_name@ASC_1,wine_1,False,True,True,True,True,True,True,5,12322,987
+Permutation,qwen_local_27b,viseval_3256@x_name@ASC_0,wine_1,False,True,True,True,True,True,True,5,12347,1063
+Permutation,qwen_local_27b,viseval_640@x_name@ASC_0,college_2,False,True,True,True,True,True,True,5,11118,1141
+Permutation,qwen_local_27b,viseval_640@x_name@ASC_1,college_2,False,True,True,True,True,True,True,5,11230,1056
+Permutation,qwen_local_27b,viseval_642@x_name@DESC_0,college_2,False,True,True,True,True,True,True,5,11202,939
+Permutation,qwen_local_27b,viseval_642@x_name@DESC_1,college_2,False,True,True,True,True,True,True,5,11188,973
+Permutation,qwen_local_27b,viseval_642@x_name@DESC_2,college_2,False,True,True,True,True,True,True,5,11198,1053
+Permutation,qwen_local_27b,viseval_3218@x_name@DESC_0,wedding,False,True,True,True,True,True,True,5,10919,1043
+Permutation,qwen_local_27b,viseval_3218@x_name@DESC_1,wedding,False,True,True,True,True,True,True,5,10954,1106
+Permutation,qwen_local_27b,viseval_415@x_name@DESC_0,car_1,True,True,True,True,True,True,True,5,12334,997
+Permutation,qwen_local_27b,viseval_415@x_name@DESC_1,car_1,True,True,True,True,True,True,True,5,12334,993
+Permutation,qwen_local_27b,viseval_415@x_name@DESC_2,car_1,True,True,True,True,True,True,True,5,12324,918
+Permutation,qwen_local_27b,viseval_415@x_name@DESC_3,car_1,True,True,True,True,True,True,True,5,12339,1029
+Permutation,qwen_local_27b,viseval_2024@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11158,1141
+Permutation,qwen_local_27b,viseval_2024@y_name@DESC_1,insurance_policies,False,True,True,True,True,True,True,5,11180,1188
+Permutation,qwen_local_27b,viseval_2028@y_name@DESC_0,insurance_policies,False,True,True,True,True,True,True,5,11159,2307
+Permutation,qwen_local_27b,viseval_171@x_name@DESC_0,baseball_1,True,True,True,True,True,True,True,6,13955,1547
+Permutation,qwen_local_27b,viseval_171@x_name@DESC_1,baseball_1,True,False,False,True,True,True,False,5,11534,1983
+Permutation,qwen_local_27b,viseval_83@y_name@ASC_0,apartment_rentals,False,True,True,True,True,True,True,5,12280,2212
+Permutation,qwen_local_27b,viseval_83@y_name@ASC_1,apartment_rentals,False,True,True,True,True,True,True,5,12291,2224
+Permutation,qwen_local_27b,viseval_1356@x_name@ASC_0,employee_hire_evaluation,False,True,True,True,True,True,True,5,10204,970
+Permutation,qwen_local_27b,viseval_1356@x_name@ASC_1,employee_hire_evaluation,False,True,True,True,True,True,True,5,10210,959
+Permutation,qwen_local_27b,viseval_1356@x_name@ASC_2,employee_hire_evaluation,False,True,True,True,True,True,True,5,10199,985
+Permutation,qwen_local_27b,viseval_1356@x_name@ASC_3,employee_hire_evaluation,False,False,False,True,True,True,True,5,10050,1033
+Permutation,qwen_local_27b,viseval_2950@y_name@ASC_0,theme_gallery,False,False,False,True,True,True,True,5,10245,1345

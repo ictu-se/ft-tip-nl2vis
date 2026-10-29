@@ -1,0 +1,211 @@
+[
+  {
+    "database": "behavior_monitoring",
+    "n": 11,
+    "unflagged": 11,
+    "flagged": 0,
+    "bar": 11,
+    "line": 0,
+    "no_sort": 11,
+    "x_sort": 0,
+    "y_sort": 0
+  },
+  {
+    "database": "bike_1",
+    "n": 9,
+    "unflagged": 2,
+    "flagged": 7,
+    "bar": 9,
+    "line": 0,
+    "no_sort": 3,
+    "x_sort": 0,
+    "y_sort": 6
+  },
+  {
+    "database": "wine_1",
+    "n": 9,
+    "unflagged": 9,
+    "flagged": 0,
+    "bar": 5,
+    "line": 4,
+    "no_sort": 1,
+    "x_sort": 8,
+    "y_sort": 0
+  },
+  {
+    "database": "cinema",
+    "n": 8,
+    "unflagged": 8,
+    "flagged": 0,
+    "bar": 5,
+    "line": 3,
+    "no_sort": 3,
+    "x_sort": 0,
+    "y_sort": 5
+  },
+  {
+    "database": "wta_1",
+    "n": 6,
+    "unflagged": 6,
+    "flagged": 0,
+    "bar": 6,
+    "line": 0,
+    "no_sort": 1,
+    "x_sort": 2,
+    "y_sort": 3
+  },
+  {
+    "database": "car_1",
+    "n": 5,
+    "unflagged": 1,
+    "flagged": 4,
+    "bar": 0,
+    "line": 5,
+    "no_sort": 1,
+    "x_sort": 4,
+    "y_sort": 0
+  },
+  {
+    "database": "college_2",
+    "n": 5,
+    "unflagged": 5,
+    "flagged": 0,
+    "bar": 0,
+    "line": 5,
+    "no_sort": 0,
+    "x_sort": 5,
+    "y_sort": 0
+  },
+  {
+    "database": "insurance_policies",
+    "n": 5,
+    "unflagged": 5,
+    "flagged": 0,
+    "bar": 5,
+    "line": 0,
+    "no_sort": 2,
+    "x_sort": 0,
+    "y_sort": 3
+  },
+  {
+    "database": "employee_hire_evaluation",
+    "n": 4,
+    "unflagged": 4,
+    "flagged": 0,
+    "bar": 0,
+    "line": 4,
+    "no_sort": 0,
+    "x_sort": 4,
+    "y_sort": 0
+  },
+  {
+    "database": "formula_1",
+    "n": 4,
+    "unflagged": 4,
+    "flagged": 0,
+    "bar": 4,
+    "line": 0,
+    "no_sort": 4,
+    "x_sort": 0,
+    "y_sort": 0
+  },
+  {
+    "database": "race_track",
+    "n": 4,
+    "unflagged": 4,
+    "flagged": 0,
+    "bar": 4,
+    "line": 0,
+    "no_sort": 0,
+    "x_sort": 0,
+    "y_sort": 4
+  },
+  {
+    "database": "game_injury",
+    "n": 3,
+    "unflagged": 3,
+    "flagged": 0,
+    "bar": 0,
+    "line": 3,
+    "no_sort": 0,
+    "x_sort": 3,
+    "y_sort": 0
+  },
+  {
+    "database": "apartment_rentals",
+    "n": 2,
+    "unflagged": 2,
+    "flagged": 0,
+    "bar": 2,
+    "line": 0,
+    "no_sort": 0,
+    "x_sort": 0,
+    "y_sort": 2
+  },
+  {
+    "database": "baseball_1",
+    "n": 2,
+    "unflagged": 0,
+    "flagged": 2,
+    "bar": 0,
+    "line": 2,
+    "no_sort": 0,
+    "x_sort": 2,
+    "y_sort": 0
+  },
+  {
+    "database": "dog_kennels",
+    "n": 2,
+    "unflagged": 2,
+    "flagged": 0,
+    "bar": 2,
+    "line": 0,
+    "no_sort": 0,
+    "x_sort": 0,
+    "y_sort": 2
+  },
+  {
+    "database": "local_govt_and_lot",
+    "n": 2,
+    "unflagged": 2,
+    "flagged": 0,
+    "bar": 2,
+    "line": 0,
+    "no_sort": 2,
+    "x_sort": 0,
+    "y_sort": 0
+  },
+  {
+    "database": "party_host",
+    "n": 2,
+    "unflagged": 2,
+    "flagged": 0,
+    "bar": 2,
+    "line": 0,
+    "no_sort": 0,
+    "x_sort": 0,
+    "y_sort": 2
+  },
+  {
+    "database": "wedding",
+    "n": 2,
+    "unflagged": 2,
+    "flagged": 0,
+    "bar": 0,
+    "line": 2,
+    "no_sort": 0,
+    "x_sort": 2,
+    "y_sort": 0
+  },
+  {
+    "database": "theme_gallery",
+    "n": 1,
+    "unflagged": 1,
+    "flagged": 0,
+    "bar": 1,
+    "line": 0,
+    "no_sort": 0,
+    "x_sort": 0,
+    "y_sort": 1
+  }
+]

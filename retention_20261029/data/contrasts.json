@@ -1,0 +1,1086 @@
+{
+  "contrasts": [
+    {
+      "family": "gemma4_26b",
+      "against": "planner",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 35,
+      "loss": 2,
+      "difference_pp": 38.372093023255815,
+      "database_cluster_ci95_pp": [
+        25.0,
+        53.75
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "planner",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 33,
+      "loss": 2,
+      "difference_pp": 42.465753424657535,
+      "database_cluster_ci95_pp": [
+        28.766695205479454,
+        57.377049180327866
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 8,
+      "loss": 3,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        -5.0,
+        19.402985074626866
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 8,
+      "loss": 3,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        -5.970149253731343,
+        22.07792207792208
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "output_unit_record_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 10,
+      "loss": 3,
+      "difference_pp": 8.13953488372093,
+      "database_cluster_ci95_pp": [
+        -1.694915254237288,
+        21.62162162162162
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "output_unit_record_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 9,
+      "loss": 3,
+      "difference_pp": 8.219178082191782,
+      "database_cluster_ci95_pp": [
+        -2.857142857142857,
+        22.89219377510039
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 18.6046511627907,
+      "database_cluster_ci95_pp": [
+        4.053712803712804,
+        36.36363636363637
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 21.91780821917808,
+      "database_cluster_ci95_pp": [
+        4.938271604938271,
+        41.07204011741682
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 18.6046511627907,
+      "database_cluster_ci95_pp": [
+        4.053712803712804,
+        36.36363636363637
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 21.91780821917808,
+      "database_cluster_ci95_pp": [
+        4.938271604938271,
+        41.07204011741682
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "lida",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 19,
+      "loss": 4,
+      "difference_pp": 17.441860465116278,
+      "database_cluster_ci95_pp": [
+        2.5974025974025974,
+        33.85858521717043
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "lida",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 19,
+      "loss": 4,
+      "difference_pp": 20.54794520547945,
+      "database_cluster_ci95_pp": [
+        3.8461538461538463,
+        39.02534298780487
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "structural_fallback",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 4,
+      "loss": 3,
+      "difference_pp": 1.1627906976744187,
+      "database_cluster_ci95_pp": [
+        -7.018161601186063,
+        8.333333333333332
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "structural_fallback",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 4,
+      "loss": 3,
+      "difference_pp": 1.36986301369863,
+      "database_cluster_ci95_pp": [
+        -8.19672131147541,
+        9.639525845316738
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 3.488372093023256,
+      "database_cluster_ci95_pp": [
+        0.0,
+        10.975609756097562
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 4.109589041095891,
+      "database_cluster_ci95_pp": [
+        0.0,
+        12.5
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 1,
+      "loss": 2,
+      "difference_pp": -1.1627906976744187,
+      "database_cluster_ci95_pp": [
+        -7.000438596491228,
+        3.125
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 1,
+      "loss": 2,
+      "difference_pp": -1.36986301369863,
+      "database_cluster_ci95_pp": [
+        -8.140128144280968,
+        3.614457831325301
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "planner",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 35,
+      "loss": 0,
+      "difference_pp": 40.69767441860465,
+      "database_cluster_ci95_pp": [
+        19.51219512195122,
+        62.5
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "planner",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 34,
+      "loss": 0,
+      "difference_pp": 46.57534246575342,
+      "database_cluster_ci95_pp": [
+        23.213638716356108,
+        67.96213592233009
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 11.627906976744185,
+      "database_cluster_ci95_pp": [
+        0.0,
+        27.397260273972602
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 13.698630136986301,
+      "database_cluster_ci95_pp": [
+        0.0,
+        31.57894736842105
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "output_unit_record_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 11.627906976744185,
+      "database_cluster_ci95_pp": [
+        4.761904761904762,
+        21.333707865168535
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "output_unit_record_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 10,
+      "loss": 1,
+      "difference_pp": 12.32876712328767,
+      "database_cluster_ci95_pp": [
+        4.761904761904762,
+        22.808270676691713
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 19,
+      "loss": 1,
+      "difference_pp": 20.930232558139537,
+      "database_cluster_ci95_pp": [
+        5.747126436781609,
+        38.88888888888889
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 19,
+      "loss": 0,
+      "difference_pp": 26.027397260273972,
+      "database_cluster_ci95_pp": [
+        9.090909090909092,
+        45.09803921568628
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 19,
+      "loss": 1,
+      "difference_pp": 20.930232558139537,
+      "database_cluster_ci95_pp": [
+        5.747126436781609,
+        38.88888888888889
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 19,
+      "loss": 0,
+      "difference_pp": 26.027397260273972,
+      "database_cluster_ci95_pp": [
+        9.090909090909092,
+        45.09803921568628
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "lida",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 23,
+      "loss": 1,
+      "difference_pp": 25.58139534883721,
+      "database_cluster_ci95_pp": [
+        12.698412698412698,
+        39.77272727272727
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "lida",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 23,
+      "loss": 0,
+      "difference_pp": 31.506849315068493,
+      "database_cluster_ci95_pp": [
+        17.647058823529413,
+        46.666666666666664
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "structural_fallback",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 6,
+      "loss": 1,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        0.0,
+        14.864864864864865
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "structural_fallback",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 6,
+      "loss": 1,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        0.0,
+        17.33367346938775
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 5,
+      "loss": 0,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        0.0,
+        15.841584158415841
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 5,
+      "loss": 0,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        0.0,
+        18.000819672131136
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 3.488372093023256,
+      "database_cluster_ci95_pp": [
+        0.0,
+        8.641975308641975
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 4.109589041095891,
+      "database_cluster_ci95_pp": [
+        0.0,
+        9.859154929577464
+      ],
+      "exploratory_adaptive_public_development": true
+    }
+  ],
+  "component_contrasts": [
+    {
+      "family": "gemma4_26b",
+      "against": "planner",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 34,
+      "loss": 2,
+      "difference_pp": 37.2093023255814,
+      "database_cluster_ci95_pp": [
+        24.76166902404526,
+        52.0
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "planner",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 32,
+      "loss": 2,
+      "difference_pp": 41.0958904109589,
+      "database_cluster_ci95_pp": [
+        28.57142857142857,
+        55.35714285714286
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 9,
+      "loss": 3,
+      "difference_pp": 6.976744186046512,
+      "database_cluster_ci95_pp": [
+        -2.5,
+        19.753086419753085
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 9,
+      "loss": 3,
+      "difference_pp": 8.219178082191782,
+      "database_cluster_ci95_pp": [
+        -2.9850746268656714,
+        22.666666666666664
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "output_unit_record_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 9,
+      "loss": 2,
+      "difference_pp": 8.13953488372093,
+      "database_cluster_ci95_pp": [
+        -1.2195121951219512,
+        20.588235294117645
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "output_unit_record_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 8,
+      "loss": 2,
+      "difference_pp": 8.219178082191782,
+      "database_cluster_ci95_pp": [
+        -1.639344262295082,
+        22.058823529411764
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 10,
+      "loss": 4,
+      "difference_pp": 6.976744186046512,
+      "database_cluster_ci95_pp": [
+        -4.040745290745291,
+        22.10818713450288
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 10,
+      "loss": 4,
+      "difference_pp": 8.219178082191782,
+      "database_cluster_ci95_pp": [
+        -4.819277108433735,
+        26.08862876254178
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 10,
+      "loss": 4,
+      "difference_pp": 6.976744186046512,
+      "database_cluster_ci95_pp": [
+        -4.040745290745291,
+        22.10818713450288
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 10,
+      "loss": 4,
+      "difference_pp": 8.219178082191782,
+      "database_cluster_ci95_pp": [
+        -4.819277108433735,
+        26.08862876254178
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "lida",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 15,
+      "loss": 3,
+      "difference_pp": 13.953488372093023,
+      "database_cluster_ci95_pp": [
+        1.0752688172043012,
+        28.947368421052634
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "lida",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 15,
+      "loss": 3,
+      "difference_pp": 16.438356164383563,
+      "database_cluster_ci95_pp": [
+        1.3333333333333335,
+        33.69628412537916
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "structural_fallback",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 4,
+      "loss": 3,
+      "difference_pp": 1.1627906976744187,
+      "database_cluster_ci95_pp": [
+        -7.018161601186063,
+        8.333333333333332
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "structural_fallback",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 4,
+      "loss": 3,
+      "difference_pp": 1.36986301369863,
+      "database_cluster_ci95_pp": [
+        -8.19672131147541,
+        9.639525845316738
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 0,
+      "loss": 0,
+      "difference_pp": 0.0,
+      "database_cluster_ci95_pp": [
+        0.0,
+        0.0
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 0,
+      "loss": 0,
+      "difference_pp": 0.0,
+      "database_cluster_ci95_pp": [
+        0.0,
+        0.0
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 1,
+      "loss": 2,
+      "difference_pp": -1.1627906976744187,
+      "database_cluster_ci95_pp": [
+        -7.000438596491228,
+        3.125
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 1,
+      "loss": 2,
+      "difference_pp": -1.36986301369863,
+      "database_cluster_ci95_pp": [
+        -8.140128144280968,
+        3.614457831325301
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "planner",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 32,
+      "loss": 1,
+      "difference_pp": 36.04651162790697,
+      "database_cluster_ci95_pp": [
+        15.583694083694082,
+        56.52283706631531
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "planner",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 31,
+      "loss": 1,
+      "difference_pp": 41.0958904109589,
+      "database_cluster_ci95_pp": [
+        18.181818181818183,
+        62.06896551724138
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 11.627906976744185,
+      "database_cluster_ci95_pp": [
+        0.0,
+        27.397260273972602
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 13.698630136986301,
+      "database_cluster_ci95_pp": [
+        0.0,
+        31.57894736842105
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "output_unit_record_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 10,
+      "loss": 1,
+      "difference_pp": 10.465116279069768,
+      "database_cluster_ci95_pp": [
+        3.9603960396039604,
+        20.0
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "output_unit_record_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 9,
+      "loss": 1,
+      "difference_pp": 10.95890410958904,
+      "database_cluster_ci95_pp": [
+        3.749707943925234,
+        21.052631578947366
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 8,
+      "loss": 2,
+      "difference_pp": 6.976744186046512,
+      "database_cluster_ci95_pp": [
+        0.0,
+        17.91140451588211
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 8,
+      "loss": 1,
+      "difference_pp": 9.58904109589041,
+      "database_cluster_ci95_pp": [
+        1.4084507042253522,
+        21.918643501503496
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 8,
+      "loss": 2,
+      "difference_pp": 6.976744186046512,
+      "database_cluster_ci95_pp": [
+        0.0,
+        17.91140451588211
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 8,
+      "loss": 1,
+      "difference_pp": 9.58904109589041,
+      "database_cluster_ci95_pp": [
+        1.4084507042253522,
+        21.918643501503496
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "lida",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 11,
+      "loss": 2,
+      "difference_pp": 10.465116279069768,
+      "database_cluster_ci95_pp": [
+        2.1972049689441002,
+        20.454545454545457
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "lida",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 13.698630136986301,
+      "database_cluster_ci95_pp": [
+        4.761904761904762,
+        25.862068965517242
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "structural_fallback",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 6,
+      "loss": 1,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        0.0,
+        14.864864864864865
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "structural_fallback",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 6,
+      "loss": 1,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        0.0,
+        17.33367346938775
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 0,
+      "loss": 0,
+      "difference_pp": 0.0,
+      "database_cluster_ci95_pp": [
+        0.0,
+        0.0
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 0,
+      "loss": 0,
+      "difference_pp": 0.0,
+      "database_cluster_ci95_pp": [
+        0.0,
+        0.0
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 3.488372093023256,
+      "database_cluster_ci95_pp": [
+        0.0,
+        8.641975308641975
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 4.109589041095891,
+      "database_cluster_ci95_pp": [
+        0.0,
+        9.859154929577464
+      ],
+      "exploratory_adaptive_public_development": true
+    }
+  ]
+}

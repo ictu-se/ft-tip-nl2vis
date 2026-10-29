@@ -1,0 +1,8 @@
+{
+  "version": "2026-10-29-retention",
+  "saved_output_replication": true,
+  "fresh_inference_replication": false,
+  "raw_campaign_logs_included": false,
+  "model_blobs_included": false,
+  "manuscripts_included": false
+}

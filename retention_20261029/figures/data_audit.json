@@ -1,0 +1,18 @@
+{
+  "atlas_cells_checked": 1548,
+  "transition_rows_checked": 20,
+  "database_distributions_checked": 19,
+  "intervention_rows_checked": 10,
+  "numerical_regressions_replacement": 4,
+  "numerical_regressions_permutation": 0,
+  "coverage_totals": {
+    "n": 86,
+    "bar": 58,
+    "line": 28,
+    "flagged": 13,
+    "no_sort": 28,
+    "x_sort": 30,
+    "y_sort": 28
+  },
+  "all_checks_pass": true
+}

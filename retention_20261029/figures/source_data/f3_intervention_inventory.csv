@@ -1,0 +1,11 @@
+family,sample_id,Selector_data_correct,Replacement_data_correct,Permutation_data_correct,Selector_common_success,Replacement_common_success,Permutation_common_success,pairs,same_pair_multiset
+gemma4_26b,viseval_3290@y_name@ASC_0,False,True,False,False,True,False,3,True
+gemma4_26b,viseval_3290@y_name@ASC_2,False,True,False,False,True,False,3,True
+gemma4_26b,viseval_465@y_name@ASC_1,True,False,True,False,False,True,6,True
+gemma4_26b,viseval_468@y_name@DESC_1,True,True,True,False,True,True,6,True
+gemma4_26b,viseval_469@y_name@DESC_0,True,True,True,False,True,True,6,True
+qwen_local_27b,viseval_3288@x_name@DESC_0,True,False,True,False,False,True,3,True
+qwen_local_27b,viseval_465@y_name@ASC_0,True,False,True,False,False,True,6,True
+qwen_local_27b,viseval_465@y_name@ASC_1,True,False,True,False,False,True,6,True
+qwen_local_27b,viseval_468@y_name@DESC_0,True,True,True,False,True,True,6,True
+qwen_local_27b,viseval_469@y_name@DESC_0,True,True,True,False,True,True,6,True

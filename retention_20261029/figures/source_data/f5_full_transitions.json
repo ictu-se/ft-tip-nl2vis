@@ -1,0 +1,182 @@
+[
+  {
+    "family": "gemma4_26b",
+    "policy": "Replacement",
+    "component": "Numeric",
+    "retained_correct": 69,
+    "gain": 2,
+    "loss": 1,
+    "retained_failure": 14
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Replacement",
+    "component": "Mark",
+    "retained_correct": 85,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 1
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Replacement",
+    "component": "Order",
+    "retained_correct": 77,
+    "gain": 5,
+    "loss": 0,
+    "retained_failure": 4
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Replacement",
+    "component": "Visibility",
+    "retained_correct": 85,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 1
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Replacement",
+    "component": "Complete",
+    "retained_correct": 65,
+    "gain": 4,
+    "loss": 0,
+    "retained_failure": 17
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Permutation",
+    "component": "Numeric",
+    "retained_correct": 70,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 16
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Permutation",
+    "component": "Mark",
+    "retained_correct": 85,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 1
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Permutation",
+    "component": "Order",
+    "retained_correct": 77,
+    "gain": 5,
+    "loss": 0,
+    "retained_failure": 4
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Permutation",
+    "component": "Visibility",
+    "retained_correct": 85,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 1
+  },
+  {
+    "family": "gemma4_26b",
+    "policy": "Permutation",
+    "component": "Complete",
+    "retained_correct": 65,
+    "gain": 3,
+    "loss": 0,
+    "retained_failure": 18
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Replacement",
+    "component": "Numeric",
+    "retained_correct": 68,
+    "gain": 0,
+    "loss": 3,
+    "retained_failure": 15
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Replacement",
+    "component": "Mark",
+    "retained_correct": 84,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 2
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Replacement",
+    "component": "Order",
+    "retained_correct": 77,
+    "gain": 5,
+    "loss": 0,
+    "retained_failure": 4
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Replacement",
+    "component": "Visibility",
+    "retained_correct": 84,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 2
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Replacement",
+    "component": "Complete",
+    "retained_correct": 66,
+    "gain": 2,
+    "loss": 0,
+    "retained_failure": 18
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Permutation",
+    "component": "Numeric",
+    "retained_correct": 71,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 15
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Permutation",
+    "component": "Mark",
+    "retained_correct": 84,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 2
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Permutation",
+    "component": "Order",
+    "retained_correct": 77,
+    "gain": 5,
+    "loss": 0,
+    "retained_failure": 4
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Permutation",
+    "component": "Visibility",
+    "retained_correct": 84,
+    "gain": 0,
+    "loss": 0,
+    "retained_failure": 2
+  },
+  {
+    "family": "qwen_local_27b",
+    "policy": "Permutation",
+    "component": "Complete",
+    "retained_correct": 66,
+    "gain": 5,
+    "loss": 0,
+    "retained_failure": 15
+  }
+]

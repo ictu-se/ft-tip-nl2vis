@@ -1,0 +1,334 @@
+{
+  "status": "passed",
+  "contrasts_recomputed": 36,
+  "resamples": 10000,
+  "seed": 20261028,
+  "numpy": "2.4.6",
+  "scope": "Exploratory adaptive public development; not selection-corrected",
+  "checks": [
+    {
+      "family": "gemma4_26b",
+      "against": "Initial",
+      "subset": "all",
+      "ci95_pp": [
+        25.0,
+        53.75
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Initial",
+      "subset": "unflagged",
+      "ci95_pp": [
+        28.766695205479454,
+        57.377049180327866
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Typed",
+      "subset": "all",
+      "ci95_pp": [
+        -5.0,
+        19.402985074626866
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Typed",
+      "subset": "unflagged",
+      "ci95_pp": [
+        -5.970149253731343,
+        22.07792207792208
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Result type",
+      "subset": "all",
+      "ci95_pp": [
+        -1.694915254237288,
+        21.62162162162162
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Result type",
+      "subset": "unflagged",
+      "ci95_pp": [
+        -2.857142857142857,
+        22.89219377510039
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvAgent",
+      "subset": "all",
+      "ci95_pp": [
+        4.053712803712804,
+        36.36363636363637
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvAgent",
+      "subset": "unflagged",
+      "ci95_pp": [
+        4.938271604938271,
+        41.07204011741682
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvAgent",
+      "subset": "all",
+      "ci95_pp": [
+        4.053712803712804,
+        36.36363636363637
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvAgent",
+      "subset": "unflagged",
+      "ci95_pp": [
+        4.938271604938271,
+        41.07204011741682
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "LIDA",
+      "subset": "all",
+      "ci95_pp": [
+        2.5974025974025974,
+        33.85858521717043
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "LIDA",
+      "subset": "unflagged",
+      "ci95_pp": [
+        3.8461538461538463,
+        39.02534298780487
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Structural",
+      "subset": "all",
+      "ci95_pp": [
+        -7.018161601186063,
+        8.333333333333332
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Structural",
+      "subset": "unflagged",
+      "ci95_pp": [
+        -8.19672131147541,
+        9.639525845316738
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Selector",
+      "subset": "all",
+      "ci95_pp": [
+        0.0,
+        10.975609756097562
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Selector",
+      "subset": "unflagged",
+      "ci95_pp": [
+        0.0,
+        12.5
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Replacement",
+      "subset": "all",
+      "ci95_pp": [
+        -7.000438596491228,
+        3.125
+      ]
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "Replacement",
+      "subset": "unflagged",
+      "ci95_pp": [
+        -8.140128144280968,
+        3.614457831325301
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Initial",
+      "subset": "all",
+      "ci95_pp": [
+        19.51219512195122,
+        62.5
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Initial",
+      "subset": "unflagged",
+      "ci95_pp": [
+        23.213638716356108,
+        67.96213592233009
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Typed",
+      "subset": "all",
+      "ci95_pp": [
+        0.0,
+        27.397260273972602
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Typed",
+      "subset": "unflagged",
+      "ci95_pp": [
+        0.0,
+        31.57894736842105
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Result type",
+      "subset": "all",
+      "ci95_pp": [
+        4.761904761904762,
+        21.333707865168535
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Result type",
+      "subset": "unflagged",
+      "ci95_pp": [
+        4.761904761904762,
+        22.808270676691713
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvAgent",
+      "subset": "all",
+      "ci95_pp": [
+        5.747126436781609,
+        38.88888888888889
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvAgent",
+      "subset": "unflagged",
+      "ci95_pp": [
+        9.090909090909092,
+        45.09803921568628
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvAgent",
+      "subset": "all",
+      "ci95_pp": [
+        5.747126436781609,
+        38.88888888888889
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvAgent",
+      "subset": "unflagged",
+      "ci95_pp": [
+        9.090909090909092,
+        45.09803921568628
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "LIDA",
+      "subset": "all",
+      "ci95_pp": [
+        12.698412698412698,
+        39.77272727272727
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "LIDA",
+      "subset": "unflagged",
+      "ci95_pp": [
+        17.647058823529413,
+        46.666666666666664
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Structural",
+      "subset": "all",
+      "ci95_pp": [
+        0.0,
+        14.864864864864865
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Structural",
+      "subset": "unflagged",
+      "ci95_pp": [
+        0.0,
+        17.33367346938775
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Selector",
+      "subset": "all",
+      "ci95_pp": [
+        0.0,
+        15.841584158415841
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Selector",
+      "subset": "unflagged",
+      "ci95_pp": [
+        0.0,
+        18.000819672131136
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Replacement",
+      "subset": "all",
+      "ci95_pp": [
+        0.0,
+        8.641975308641975
+      ]
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "Replacement",
+      "subset": "unflagged",
+      "ci95_pp": [
+        0.0,
+        9.859154929577464
+      ]
+    }
+  ]
+}

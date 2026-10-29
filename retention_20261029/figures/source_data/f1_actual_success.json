@@ -1,0 +1,126 @@
+{
+  "family": "gemma4_26b",
+  "sample_id": "viseval_468@y_name@DESC_1",
+  "query": "Give me a bar chart for total number of capacity of each openning year, order by the Y from high to low.",
+  "native_png": "raw_schema_frontend_20261028/public_benchmark_20261028/runs/nvagent/gemma4_26b/remaining/viseval_468@y_name@DESC_1/execution/chart_0.png",
+  "native_sha256": "14467fa8beb04e2d0c1ab0239e24a6e3d6c7f8485c9f37f140ff9e892ff01bfb",
+  "repair_svg": "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_468@y_name@DESC_1/chart/chart.svg",
+  "repair_sha256": "c223753ad64018be2efcf834474878f9ff36d0d88655447dd1af1e413a6e9fb3",
+  "before": [
+    [
+      2009.0,
+      305.0
+    ],
+    [
+      2010.0,
+      1633.0
+    ],
+    [
+      2011.0,
+      1336.0
+    ],
+    [
+      2012.0,
+      368.0
+    ],
+    [
+      2013.0,
+      330.0
+    ],
+    [
+      2015.0,
+      364.0
+    ]
+  ],
+  "after": [
+    [
+      "2010",
+      1633
+    ],
+    [
+      "2011",
+      1336
+    ],
+    [
+      "2012",
+      368
+    ],
+    [
+      "2015",
+      364
+    ],
+    [
+      "2013",
+      330
+    ],
+    [
+      "2009",
+      305
+    ]
+  ],
+  "reference": {
+    "chart": "bar",
+    "x_name": "Openning_year",
+    "y_name": "SUM(Capacity)",
+    "x_data": [
+      [
+        "2010",
+        "2011",
+        "2012",
+        "2015",
+        "2013",
+        "2009"
+      ]
+    ],
+    "y_data": [
+      [
+        1633,
+        1336,
+        368,
+        364,
+        330,
+        305
+      ]
+    ],
+    "classify": [],
+    "describe": "GROUP BY Openning_year",
+    "sort": {
+      "channel": "y",
+      "order": "descending"
+    }
+  },
+  "displayed_table": {
+    "Native year": [
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2015"
+    ],
+    "Native value": [
+      "305.0",
+      "1633.0",
+      "1336.0",
+      "368.0",
+      "330.0",
+      "364.0"
+    ],
+    "Repair year": [
+      "2010",
+      "2011",
+      "2012",
+      "2015",
+      "2013",
+      "2009"
+    ],
+    "Repair value": [
+      "1633",
+      "1336",
+      "368",
+      "364",
+      "330",
+      "305"
+    ]
+  }
+}

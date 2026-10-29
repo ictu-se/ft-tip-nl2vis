@@ -1,0 +1,2138 @@
+{
+  "scope": "Retained adaptive public development outputs; no new predictions",
+  "summary": [
+    {
+      "method": "Initial",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 35,
+      "data_correct": 38,
+      "mark_correct": 50,
+      "order_correct": 47,
+      "selected_visibility_pass": 50,
+      "official_data_component": 46,
+      "unflagged_success": 31,
+      "model_calls": 148,
+      "input_tokens": 316061,
+      "output_tokens": 26375
+    },
+    {
+      "method": "Initial",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 36,
+      "data_correct": 40,
+      "mark_correct": 58,
+      "order_correct": 54,
+      "selected_visibility_pass": 58,
+      "official_data_component": 47,
+      "unflagged_success": 32,
+      "model_calls": 160,
+      "input_tokens": 302777,
+      "output_tokens": 38835
+    },
+    {
+      "method": "nvAgent",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 52,
+      "data_correct": 64,
+      "mark_correct": 83,
+      "order_correct": 63,
+      "selected_visibility_pass": 83,
+      "official_data_component": 77,
+      "unflagged_success": 46,
+      "model_calls": 172,
+      "input_tokens": 488178,
+      "output_tokens": 52672
+    },
+    {
+      "method": "nvAgent",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 53,
+      "data_correct": 65,
+      "mark_correct": 85,
+      "order_correct": 65,
+      "selected_visibility_pass": 85,
+      "official_data_component": 78,
+      "unflagged_success": 47,
+      "model_calls": 172,
+      "input_tokens": 475619,
+      "output_tokens": 60681
+    },
+    {
+      "method": "LIDA",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 53,
+      "data_correct": 58,
+      "mark_correct": 77,
+      "order_correct": 70,
+      "selected_visibility_pass": 77,
+      "official_data_component": 69,
+      "unflagged_success": 47,
+      "model_calls": 86,
+      "input_tokens": 145609,
+      "output_tokens": 47339
+    },
+    {
+      "method": "LIDA",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 49,
+      "data_correct": 62,
+      "mark_correct": 80,
+      "order_correct": 61,
+      "selected_visibility_pass": 80,
+      "official_data_component": 74,
+      "unflagged_success": 43,
+      "model_calls": 86,
+      "input_tokens": 139384,
+      "output_tokens": 41612
+    },
+    {
+      "method": "Typed",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 63,
+      "data_correct": 64,
+      "mark_correct": 77,
+      "order_correct": 76,
+      "selected_visibility_pass": 77,
+      "official_data_component": 67,
+      "unflagged_success": 57,
+      "model_calls": 168,
+      "input_tokens": 378893,
+      "output_tokens": 36793
+    },
+    {
+      "method": "Typed",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 61,
+      "data_correct": 61,
+      "mark_correct": 75,
+      "order_correct": 75,
+      "selected_visibility_pass": 75,
+      "official_data_component": 68,
+      "unflagged_success": 56,
+      "model_calls": 164,
+      "input_tokens": 344849,
+      "output_tokens": 30545
+    },
+    {
+      "method": "Result type",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 61,
+      "data_correct": 63,
+      "mark_correct": 80,
+      "order_correct": 78,
+      "selected_visibility_pass": 75,
+      "official_data_component": 67,
+      "unflagged_success": 56,
+      "model_calls": 171,
+      "input_tokens": 412299,
+      "output_tokens": 38752
+    },
+    {
+      "method": "Result type",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 61,
+      "data_correct": 62,
+      "mark_correct": 83,
+      "order_correct": 82,
+      "selected_visibility_pass": 80,
+      "official_data_component": 68,
+      "unflagged_success": 57,
+      "model_calls": 175,
+      "input_tokens": 381512,
+      "output_tokens": 29777
+    },
+    {
+      "method": "Structural",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 67,
+      "data_correct": 69,
+      "mark_correct": 85,
+      "order_correct": 82,
+      "selected_visibility_pass": 85,
+      "official_data_component": 74,
+      "unflagged_success": 61,
+      "model_calls": 340,
+      "input_tokens": 867071,
+      "output_tokens": 89465
+    },
+    {
+      "method": "Structural",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 66,
+      "data_correct": 66,
+      "mark_correct": 85,
+      "order_correct": 82,
+      "selected_visibility_pass": 85,
+      "official_data_component": 75,
+      "unflagged_success": 61,
+      "model_calls": 336,
+      "input_tokens": 820468,
+      "output_tokens": 91226
+    },
+    {
+      "method": "Selector",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 65,
+      "data_correct": 70,
+      "mark_correct": 85,
+      "order_correct": 77,
+      "selected_visibility_pass": 85,
+      "official_data_component": 77,
+      "unflagged_success": 59,
+      "model_calls": 426,
+      "input_tokens": 1162422,
+      "output_tokens": 109343
+    },
+    {
+      "method": "Selector",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 66,
+      "data_correct": 71,
+      "mark_correct": 84,
+      "order_correct": 77,
+      "selected_visibility_pass": 84,
+      "official_data_component": 78,
+      "unflagged_success": 61,
+      "model_calls": 422,
+      "input_tokens": 1079485,
+      "output_tokens": 105545
+    },
+    {
+      "method": "Replacement",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 69,
+      "data_correct": 71,
+      "mark_correct": 85,
+      "order_correct": 82,
+      "selected_visibility_pass": 85,
+      "official_data_component": 77,
+      "unflagged_success": 63,
+      "model_calls": 426,
+      "input_tokens": 1162422,
+      "output_tokens": 109343
+    },
+    {
+      "method": "Replacement",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 68,
+      "data_correct": 68,
+      "mark_correct": 84,
+      "order_correct": 82,
+      "selected_visibility_pass": 84,
+      "official_data_component": 78,
+      "unflagged_success": 63,
+      "model_calls": 422,
+      "input_tokens": 1079485,
+      "output_tokens": 105545
+    },
+    {
+      "method": "Permutation",
+      "family": "gemma4_26b",
+      "n": 86,
+      "common_success": 68,
+      "data_correct": 70,
+      "mark_correct": 85,
+      "order_correct": 82,
+      "selected_visibility_pass": 85,
+      "official_data_component": 77,
+      "unflagged_success": 62,
+      "model_calls": 426,
+      "input_tokens": 1162422,
+      "output_tokens": 109343
+    },
+    {
+      "method": "Permutation",
+      "family": "qwen_local_27b",
+      "n": 86,
+      "common_success": 71,
+      "data_correct": 71,
+      "mark_correct": 84,
+      "order_correct": 82,
+      "selected_visibility_pass": 84,
+      "official_data_component": 78,
+      "unflagged_success": 66,
+      "model_calls": 422,
+      "input_tokens": 1079485,
+      "output_tokens": 105545
+    }
+  ],
+  "transitions": [
+    {
+      "method": "Replacement",
+      "family": "gemma4_26b",
+      "endpoint": "common_success",
+      "gains": 4,
+      "losses": 0
+    },
+    {
+      "method": "Replacement",
+      "family": "gemma4_26b",
+      "endpoint": "data_correct",
+      "gains": 2,
+      "losses": 1
+    },
+    {
+      "method": "Replacement",
+      "family": "gemma4_26b",
+      "endpoint": "mark_correct",
+      "gains": 0,
+      "losses": 0
+    },
+    {
+      "method": "Replacement",
+      "family": "qwen_local_27b",
+      "endpoint": "common_success",
+      "gains": 2,
+      "losses": 0
+    },
+    {
+      "method": "Replacement",
+      "family": "qwen_local_27b",
+      "endpoint": "data_correct",
+      "gains": 0,
+      "losses": 3
+    },
+    {
+      "method": "Replacement",
+      "family": "qwen_local_27b",
+      "endpoint": "mark_correct",
+      "gains": 0,
+      "losses": 0
+    },
+    {
+      "method": "Permutation",
+      "family": "gemma4_26b",
+      "endpoint": "common_success",
+      "gains": 3,
+      "losses": 0
+    },
+    {
+      "method": "Permutation",
+      "family": "gemma4_26b",
+      "endpoint": "data_correct",
+      "gains": 0,
+      "losses": 0
+    },
+    {
+      "method": "Permutation",
+      "family": "gemma4_26b",
+      "endpoint": "mark_correct",
+      "gains": 0,
+      "losses": 0
+    },
+    {
+      "method": "Permutation",
+      "family": "qwen_local_27b",
+      "endpoint": "common_success",
+      "gains": 5,
+      "losses": 0
+    },
+    {
+      "method": "Permutation",
+      "family": "qwen_local_27b",
+      "endpoint": "data_correct",
+      "gains": 0,
+      "losses": 0
+    },
+    {
+      "method": "Permutation",
+      "family": "qwen_local_27b",
+      "endpoint": "mark_correct",
+      "gains": 0,
+      "losses": 0
+    }
+  ],
+  "repair_checks": [
+    {
+      "family": "gemma4_26b",
+      "sample_id": "viseval_3290@y_name@ASC_0",
+      "query": "Show me a bar chart for how many matches were played each year?, and order from low to high by the y axis.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2013.0,
+                12
+              ],
+              [
+                2016.0,
+                158
+              ],
+              [
+                2017.0,
+                108
+              ]
+            ],
+            "path_order": [
+              [
+                2013.0,
+                12
+              ],
+              [
+                2017.0,
+                108
+              ],
+              [
+                2016.0,
+                158
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2013",
+                12
+              ],
+              [
+                "2017",
+                108
+              ],
+              [
+                "2016",
+                158
+              ]
+            ],
+            "screen_order": [
+              [
+                "2013",
+                12
+              ],
+              [
+                "2017",
+                108
+              ],
+              [
+                "2016",
+                158
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": false,
+      "complete_before": false,
+      "complete_after": false
+    },
+    {
+      "family": "gemma4_26b",
+      "sample_id": "viseval_3290@y_name@ASC_2",
+      "query": "Return a histogram on how many matches were played in each year, order from low to high by the y axis.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2013.0,
+                12
+              ],
+              [
+                2016.0,
+                158
+              ],
+              [
+                2017.0,
+                108
+              ]
+            ],
+            "path_order": [
+              [
+                2013.0,
+                12
+              ],
+              [
+                2017.0,
+                108
+              ],
+              [
+                2016.0,
+                158
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2013",
+                12
+              ],
+              [
+                "2017",
+                108
+              ],
+              [
+                "2016",
+                158
+              ]
+            ],
+            "screen_order": [
+              [
+                "2013",
+                12
+              ],
+              [
+                "2017",
+                108
+              ],
+              [
+                "2016",
+                158
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": false,
+      "complete_before": false,
+      "complete_after": false
+    },
+    {
+      "family": "gemma4_26b",
+      "sample_id": "viseval_465@y_name@ASC_1",
+      "query": "Bar chart of how many openning year from each openning year, list from low to high by the y axis please.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                1
+              ],
+              [
+                2010.0,
+                3
+              ],
+              [
+                2011.0,
+                3
+              ],
+              [
+                2012.0,
+                1
+              ],
+              [
+                2013.0,
+                1
+              ],
+              [
+                2015.0,
+                1
+              ]
+            ],
+            "path_order": [
+              [
+                2009.0,
+                1
+              ],
+              [
+                2015.0,
+                1
+              ],
+              [
+                2013.0,
+                1
+              ],
+              [
+                2012.0,
+                1
+              ],
+              [
+                2010.0,
+                3
+              ],
+              [
+                2011.0,
+                3
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2009",
+                1
+              ],
+              [
+                "2012",
+                1
+              ],
+              [
+                "2013",
+                1
+              ],
+              [
+                "2015",
+                1
+              ],
+              [
+                "2010",
+                3
+              ],
+              [
+                "2011",
+                3
+              ]
+            ],
+            "screen_order": [
+              [
+                "2009",
+                1
+              ],
+              [
+                "2012",
+                1
+              ],
+              [
+                "2013",
+                1
+              ],
+              [
+                "2015",
+                1
+              ],
+              [
+                "2010",
+                3
+              ],
+              [
+                "2011",
+                3
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "gemma4_26b",
+      "sample_id": "viseval_468@y_name@DESC_1",
+      "query": "Give me a bar chart for total number of capacity of each openning year, order by the Y from high to low.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                305.0
+              ],
+              [
+                2010.0,
+                1633.0
+              ],
+              [
+                2011.0,
+                1336.0
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2015.0,
+                364.0
+              ]
+            ],
+            "path_order": [
+              [
+                2010.0,
+                1633.0
+              ],
+              [
+                2011.0,
+                1336.0
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2015.0,
+                364.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2009.0,
+                305.0
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2010",
+                1633
+              ],
+              [
+                "2011",
+                1336
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "screen_order": [
+              [
+                "2010",
+                1633
+              ],
+              [
+                "2011",
+                1336
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "gemma4_26b",
+      "sample_id": "viseval_469@y_name@DESC_0",
+      "query": "A bar chart showing the average of capacity of cinemas open for each year, order by the y-axis in descending.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                305.0
+              ],
+              [
+                2010.0,
+                544.3333333333334
+              ],
+              [
+                2011.0,
+                445.3333333333333
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2015.0,
+                364.0
+              ]
+            ],
+            "path_order": [
+              [
+                2010.0,
+                544.3333333333334
+              ],
+              [
+                2011.0,
+                445.3333333333333
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2015.0,
+                364.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2009.0,
+                305.0
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2010",
+                544.3333333333334
+              ],
+              [
+                "2011",
+                445.3333333333333
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "screen_order": [
+              [
+                "2010",
+                544.3333333333334
+              ],
+              [
+                "2011",
+                445.3333333333333
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "sample_id": "viseval_3288@x_name@DESC_0",
+      "query": "Show me a bar chart for how many matches were played in each year?, rank by the x-axis in desc.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2013.0,
+                12
+              ],
+              [
+                2016.0,
+                158
+              ],
+              [
+                2017.0,
+                108
+              ]
+            ],
+            "path_order": [
+              [
+                2017.0,
+                108
+              ],
+              [
+                2016.0,
+                158
+              ],
+              [
+                2013.0,
+                12
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2017",
+                108
+              ],
+              [
+                "2016",
+                158
+              ],
+              [
+                "2013",
+                12
+              ]
+            ],
+            "screen_order": [
+              [
+                "2017",
+                108
+              ],
+              [
+                "2016",
+                158
+              ],
+              [
+                "2013",
+                12
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "sample_id": "viseval_465@y_name@ASC_0",
+      "query": "Tell me how many cinemas open for each year in a bar chart, and sort Y in ascending order please.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                1
+              ],
+              [
+                2010.0,
+                3
+              ],
+              [
+                2011.0,
+                3
+              ],
+              [
+                2012.0,
+                1
+              ],
+              [
+                2013.0,
+                1
+              ],
+              [
+                2015.0,
+                1
+              ]
+            ],
+            "path_order": [
+              [
+                2012.0,
+                1
+              ],
+              [
+                2013.0,
+                1
+              ],
+              [
+                2009.0,
+                1
+              ],
+              [
+                2015.0,
+                1
+              ],
+              [
+                2010.0,
+                3
+              ],
+              [
+                2011.0,
+                3
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2009",
+                1
+              ],
+              [
+                "2012",
+                1
+              ],
+              [
+                "2013",
+                1
+              ],
+              [
+                "2015",
+                1
+              ],
+              [
+                "2010",
+                3
+              ],
+              [
+                "2011",
+                3
+              ]
+            ],
+            "screen_order": [
+              [
+                "2009",
+                1
+              ],
+              [
+                "2012",
+                1
+              ],
+              [
+                "2013",
+                1
+              ],
+              [
+                "2015",
+                1
+              ],
+              [
+                "2010",
+                3
+              ],
+              [
+                "2011",
+                3
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "sample_id": "viseval_465@y_name@ASC_1",
+      "query": "Bar chart of how many openning year from each openning year, list from low to high by the y axis please.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                1
+              ],
+              [
+                2010.0,
+                3
+              ],
+              [
+                2011.0,
+                3
+              ],
+              [
+                2012.0,
+                1
+              ],
+              [
+                2013.0,
+                1
+              ],
+              [
+                2015.0,
+                1
+              ]
+            ],
+            "path_order": [
+              [
+                2013.0,
+                1
+              ],
+              [
+                2015.0,
+                1
+              ],
+              [
+                2009.0,
+                1
+              ],
+              [
+                2012.0,
+                1
+              ],
+              [
+                2011.0,
+                3
+              ],
+              [
+                2010.0,
+                3
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2009",
+                1
+              ],
+              [
+                "2012",
+                1
+              ],
+              [
+                "2013",
+                1
+              ],
+              [
+                "2015",
+                1
+              ],
+              [
+                "2010",
+                3
+              ],
+              [
+                "2011",
+                3
+              ]
+            ],
+            "screen_order": [
+              [
+                "2009",
+                1
+              ],
+              [
+                "2012",
+                1
+              ],
+              [
+                "2013",
+                1
+              ],
+              [
+                "2015",
+                1
+              ],
+              [
+                "2010",
+                3
+              ],
+              [
+                "2011",
+                3
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "sample_id": "viseval_468@y_name@DESC_0",
+      "query": "A bar chart showing the sum of capacity of cinemas open for each year, and could you show y axis from high to low order?",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                305.0
+              ],
+              [
+                2010.0,
+                1633.0
+              ],
+              [
+                2011.0,
+                1336.0
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2015.0,
+                364.0
+              ]
+            ],
+            "path_order": [
+              [
+                2010.0,
+                1633.0
+              ],
+              [
+                2011.0,
+                1336.0
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2015.0,
+                364.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2009.0,
+                305.0
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2010",
+                1633
+              ],
+              [
+                "2011",
+                1336
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "screen_order": [
+              [
+                "2010",
+                1633
+              ],
+              [
+                "2011",
+                1336
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "sample_id": "viseval_469@y_name@DESC_0",
+      "query": "A bar chart showing the average of capacity of cinemas open for each year, order by the y-axis in descending.",
+      "before": {
+        "status": "captured_screen_order",
+        "visibility_issues": [],
+        "traces": [
+          {
+            "mark": "bar",
+            "label": "_container0",
+            "screen_order": [
+              [
+                2009.0,
+                305.0
+              ],
+              [
+                2010.0,
+                544.3333333333334
+              ],
+              [
+                2011.0,
+                445.3333333333333
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2015.0,
+                364.0
+              ]
+            ],
+            "path_order": [
+              [
+                2010.0,
+                544.3333333333334
+              ],
+              [
+                2011.0,
+                445.3333333333333
+              ],
+              [
+                2012.0,
+                368.0
+              ],
+              [
+                2015.0,
+                364.0
+              ],
+              [
+                2013.0,
+                330.0
+              ],
+              [
+                2009.0,
+                305.0
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ]
+      },
+      "after": {
+        "status": "captured_screen_order",
+        "traces": [
+          {
+            "mark": "bar",
+            "label": null,
+            "path_order": [
+              [
+                "2010",
+                544.3333333333334
+              ],
+              [
+                "2011",
+                445.3333333333333
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "screen_order": [
+              [
+                "2010",
+                544.3333333333334
+              ],
+              [
+                "2011",
+                445.3333333333333
+              ],
+              [
+                "2012",
+                368
+              ],
+              [
+                "2015",
+                364
+              ],
+              [
+                "2013",
+                330
+              ],
+              [
+                "2009",
+                305
+              ]
+            ],
+            "direction": "left_to_right"
+          }
+        ],
+        "visibility_issues": [],
+        "full_chart_correct": null
+      },
+      "numerical": true,
+      "complete_before": false,
+      "complete_after": true
+    }
+  ],
+  "source_hashes": {
+    "raw_schema_frontend_20261028/public_benchmark_20261028/analysis/case_scores.json": "2cb3c97377464e9ccbc905524c346ed122c3e78f8740d03c7d2431ed3b3033e7",
+    "raw_schema_frontend_20261028/constructor_calendar_public_20261028/experiment/analysis/case_scores.json": "bc0ac4a1e43f90dc6eee035342227bc33d75af50cd32afcf901cce58731c691a",
+    "raw_schema_frontend_20261028/output_unit_contract_candidate_20261028/public/experiment/analysis/case_scores.json": "11e53b81cb7f64ab5ad0a77aa1052a79412552a6a246b5d274752a661c73fa43",
+    "raw_schema_frontend_20261028/hybrid_selector_candidate_20261028/public_experiment/analysis/structural_fallback_scores.json": "407d9a659055bfd0ec256524e4850e413f18988eda0cab44ce169a0d3ef1a4b5",
+    "raw_schema_frontend_20261028/hybrid_selector_candidate_20261028/public_experiment/analysis/case_scores.json": "3472b4ca52769522fb7cad944bce78ab3393128cf3508aaefcd9bed54aa61b21",
+    "raw_schema_frontend_20261028/hybrid_display_guard_candidate_20261028/analysis/case_scores.json": "53098524ed056c2a7c932b506ff5574083391cc2baced46c4a71c7793fa92cba",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/analysis/case_scores.json": "3da0ea11c2049633b2da5a51b33cf9b1a7c72878da98298962f43e92a8a61b3b",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/decisions.json": "2f0d18bd621f2f78f04db55cb6d2c9d98e5aceff4ee9ddeb2c3600999f77963f",
+    "raw_schema_frontend_20261028/hybrid_selector_candidate_20261028/public_experiment/results.jsonl": "8c63bb5336d0c38b15d2dec4098930d91e3923df0304fe06538903f2c9dec634",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_3290@y_name@ASC_0/physical.json": "d1d4ba3fd19b198b85740fefefe107aed7da42c3c0e7c7bdd66629cfd377d0c6",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_3290@y_name@ASC_2/physical.json": "d1d4ba3fd19b198b85740fefefe107aed7da42c3c0e7c7bdd66629cfd377d0c6",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_465@y_name@ASC_1/physical.json": "4b27d171b125cfefd1c2e21db2764a4303b07c2ba21357da911fcc1c07cc27ef",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_468@y_name@DESC_1/physical.json": "3f183288849ae7399580577820273c02e21c3e89930649a97935700e51476680",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_469@y_name@DESC_0/physical.json": "d8c6190aa3714ec90f40ad50bd255033b44e4904b09abded04b7bada7308578e",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/qwen_local_27b/viseval_3288@x_name@DESC_0/physical.json": "5d6634d8fdbf559f753057de92cda2fa68a5699a438ce4c95c2999e8cb02c824",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/qwen_local_27b/viseval_465@y_name@ASC_0/physical.json": "4b27d171b125cfefd1c2e21db2764a4303b07c2ba21357da911fcc1c07cc27ef",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/qwen_local_27b/viseval_465@y_name@ASC_1/physical.json": "4b27d171b125cfefd1c2e21db2764a4303b07c2ba21357da911fcc1c07cc27ef",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/qwen_local_27b/viseval_468@y_name@DESC_0/physical.json": "3f183288849ae7399580577820273c02e21c3e89930649a97935700e51476680",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/qwen_local_27b/viseval_469@y_name@DESC_0/physical.json": "d8c6190aa3714ec90f40ad50bd255033b44e4904b09abded04b7bada7308578e",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/analysis/report.json": "d620f148b9c09155b1dc65e7dd2f03054495138a9dd2c67bed1d17e69b489a90"
+  },
+  "contrasts": [
+    {
+      "family": "gemma4_26b",
+      "against": "planner",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 35,
+      "loss": 2,
+      "difference_pp": 38.372093023255815,
+      "database_cluster_ci95_pp": [
+        25.0,
+        53.75
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "planner",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 33,
+      "loss": 2,
+      "difference_pp": 42.465753424657535,
+      "database_cluster_ci95_pp": [
+        28.766695205479454,
+        57.377049180327866
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 8,
+      "loss": 3,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        -5.0,
+        19.402985074626866
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 8,
+      "loss": 3,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        -5.970149253731343,
+        22.07792207792208
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "output_unit_record_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 10,
+      "loss": 3,
+      "difference_pp": 8.13953488372093,
+      "database_cluster_ci95_pp": [
+        -1.694915254237288,
+        21.62162162162162
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "output_unit_record_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 9,
+      "loss": 3,
+      "difference_pp": 8.219178082191782,
+      "database_cluster_ci95_pp": [
+        -2.857142857142857,
+        22.89219377510039
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 18.6046511627907,
+      "database_cluster_ci95_pp": [
+        4.053712803712804,
+        36.36363636363637
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 21.91780821917808,
+      "database_cluster_ci95_pp": [
+        4.938271604938271,
+        41.07204011741682
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 18.6046511627907,
+      "database_cluster_ci95_pp": [
+        4.053712803712804,
+        36.36363636363637
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 18,
+      "loss": 2,
+      "difference_pp": 21.91780821917808,
+      "database_cluster_ci95_pp": [
+        4.938271604938271,
+        41.07204011741682
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "lida",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 19,
+      "loss": 4,
+      "difference_pp": 17.441860465116278,
+      "database_cluster_ci95_pp": [
+        2.5974025974025974,
+        33.85858521717043
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "lida",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 19,
+      "loss": 4,
+      "difference_pp": 20.54794520547945,
+      "database_cluster_ci95_pp": [
+        3.8461538461538463,
+        39.02534298780487
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "structural_fallback",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 4,
+      "loss": 3,
+      "difference_pp": 1.1627906976744187,
+      "database_cluster_ci95_pp": [
+        -7.018161601186063,
+        8.333333333333332
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "structural_fallback",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 4,
+      "loss": 3,
+      "difference_pp": 1.36986301369863,
+      "database_cluster_ci95_pp": [
+        -8.19672131147541,
+        9.639525845316738
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 3.488372093023256,
+      "database_cluster_ci95_pp": [
+        0.0,
+        10.975609756097562
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 4.109589041095891,
+      "database_cluster_ci95_pp": [
+        0.0,
+        12.5
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 1,
+      "loss": 2,
+      "difference_pp": -1.1627906976744187,
+      "database_cluster_ci95_pp": [
+        -7.000438596491228,
+        3.125
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "gemma4_26b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 1,
+      "loss": 2,
+      "difference_pp": -1.36986301369863,
+      "database_cluster_ci95_pp": [
+        -8.140128144280968,
+        3.614457831325301
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "planner",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 35,
+      "loss": 0,
+      "difference_pp": 40.69767441860465,
+      "database_cluster_ci95_pp": [
+        19.51219512195122,
+        62.5
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "planner",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 34,
+      "loss": 0,
+      "difference_pp": 46.57534246575342,
+      "database_cluster_ci95_pp": [
+        23.213638716356108,
+        67.96213592233009
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 11.627906976744185,
+      "database_cluster_ci95_pp": [
+        0.0,
+        27.397260273972602
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "source_boundary_repair_plus_calendar_domain",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 13.698630136986301,
+      "database_cluster_ci95_pp": [
+        0.0,
+        31.57894736842105
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "output_unit_record_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 11,
+      "loss": 1,
+      "difference_pp": 11.627906976744185,
+      "database_cluster_ci95_pp": [
+        4.761904761904762,
+        21.333707865168535
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "output_unit_record_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 10,
+      "loss": 1,
+      "difference_pp": 12.32876712328767,
+      "database_cluster_ci95_pp": [
+        4.761904761904762,
+        22.808270676691713
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 19,
+      "loss": 1,
+      "difference_pp": 20.930232558139537,
+      "database_cluster_ci95_pp": [
+        5.747126436781609,
+        38.88888888888889
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 19,
+      "loss": 0,
+      "difference_pp": 26.027397260273972,
+      "database_cluster_ci95_pp": [
+        9.090909090909092,
+        45.09803921568628
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 19,
+      "loss": 1,
+      "difference_pp": 20.930232558139537,
+      "database_cluster_ci95_pp": [
+        5.747126436781609,
+        38.88888888888889
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "nvagent_casefold_artifact",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 19,
+      "loss": 0,
+      "difference_pp": 26.027397260273972,
+      "database_cluster_ci95_pp": [
+        9.090909090909092,
+        45.09803921568628
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "lida",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 23,
+      "loss": 1,
+      "difference_pp": 25.58139534883721,
+      "database_cluster_ci95_pp": [
+        12.698412698412698,
+        39.77272727272727
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "lida",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 23,
+      "loss": 0,
+      "difference_pp": 31.506849315068493,
+      "database_cluster_ci95_pp": [
+        17.647058823529413,
+        46.666666666666664
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "structural_fallback",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 6,
+      "loss": 1,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        0.0,
+        14.864864864864865
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "structural_fallback",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 6,
+      "loss": 1,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        0.0,
+        17.33367346938775
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 5,
+      "loss": 0,
+      "difference_pp": 5.813953488372093,
+      "database_cluster_ci95_pp": [
+        0.0,
+        15.841584158415841
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_reference_blind_selection",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 5,
+      "loss": 0,
+      "difference_pp": 6.8493150684931505,
+      "database_cluster_ci95_pp": [
+        0.0,
+        18.000819672131136
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "all",
+      "n": 86,
+      "database_clusters": 19,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 3.488372093023256,
+      "database_cluster_ci95_pp": [
+        0.0,
+        8.641975308641975
+      ],
+      "exploratory_adaptive_public_development": true
+    },
+    {
+      "family": "qwen_local_27b",
+      "against": "hybrid_display_contract_guard",
+      "subset": "unflagged",
+      "n": 73,
+      "database_clusters": 18,
+      "gain": 3,
+      "loss": 0,
+      "difference_pp": 4.109589041095891,
+      "database_cluster_ci95_pp": [
+        0.0,
+        9.859154929577464
+      ],
+      "exploratory_adaptive_public_development": true
+    }
+  ],
+  "negative_example_rule": "Lexicographically first (family, sample_id) among repaired numerical failures",
+  "negative_example": [
+    "gemma4_26b",
+    "viseval_3290@y_name@ASC_0"
+  ]
+}

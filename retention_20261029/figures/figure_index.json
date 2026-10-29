@@ -1,0 +1,14 @@
+{
+  "assets": [
+    "f1_actual_success",
+    "f2_case_atlas",
+    "f3_intervention_inventory",
+    "f4_benchmark_coverage",
+    "f5_full_transitions",
+    "f7_actual_failure",
+    "f6_joint_numeric_contrasts",
+    "f8_input_cost"
+  ],
+  "note": "List order is manuscript figure number, 1 through 8. Source data filenames have the same stem; f7_actual_failure is manuscript Figure 6 and f6_joint_numeric_contrasts is Figure 7.",
+  "image_generation_used": false
+}

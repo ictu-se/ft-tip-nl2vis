@@ -1,0 +1,14 @@
+{
+  "all_eight_pngs_byte_identical": true,
+  "checks": {
+    "f1_actual_success": true,
+    "f2_case_atlas": true,
+    "f3_intervention_inventory": true,
+    "f4_benchmark_coverage": true,
+    "f5_full_transitions": true,
+    "f7_actual_failure": true,
+    "f6_joint_numeric_contrasts": true,
+    "f8_input_cost": true
+  },
+  "new_model_calls": 0
+}
