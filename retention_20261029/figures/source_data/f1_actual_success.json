@@ -2,9 +2,9 @@
   "family": "gemma4_26b",
   "sample_id": "viseval_468@y_name@DESC_1",
   "query": "Give me a bar chart for total number of capacity of each openning year, order by the Y from high to low.",
-  "native_png": "raw_schema_frontend_20261028/public_benchmark_20261028/runs/nvagent/gemma4_26b/remaining/viseval_468@y_name@DESC_1/execution/chart_0.png",
+  "native_png": "data/cases/viseval_468@y_name@DESC_1/native.png",
   "native_sha256": "14467fa8beb04e2d0c1ab0239e24a6e3d6c7f8485c9f37f140ff9e892ff01bfb",
-  "repair_svg": "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_468@y_name@DESC_1/chart/chart.svg",
+  "repair_svg": "data/cases/viseval_468@y_name@DESC_1/repair.svg",
   "repair_sha256": "c223753ad64018be2efcf834474878f9ff36d0d88655447dd1af1e413a6e9fb3",
   "before": [
     [

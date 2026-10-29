@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "fresh_venv": "Python 3.11.15, macOS ARM64",
+  "saved_count_audit": 1548,
+  "bootstrap_contrasts": 36,
+  "figures_png_byte_identical": {
+    "f8_input_cost.png": true,
+    "f6_joint_numeric_contrasts.png": true,
+    "f2_case_atlas.png": true,
+    "f3_intervention_inventory.png": true,
+    "f5_full_transitions.png": true,
+    "f4_benchmark_coverage.png": true,
+    "f1_actual_success.png": true,
+    "f7_actual_failure.png": true
+  },
+  "fresh_inference_executed": false
+}

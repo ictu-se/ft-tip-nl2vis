@@ -2,9 +2,9 @@
   "family": "gemma4_26b",
   "sample_id": "viseval_3290@y_name@ASC_0",
   "query": "Show me a bar chart for how many matches were played each year?, and order from low to high by the y axis.",
-  "native_png": "raw_schema_frontend_20261028/public_benchmark_20261028/runs/nvagent/gemma4_26b/remaining/viseval_3290@y_name@ASC_0/execution/chart_0.png",
+  "native_png": "data/cases/viseval_3290@y_name@ASC_0/native.png",
   "native_sha256": "42f2f00f10231b924f796d3430906b6f59cdada25d69e3a8d1ec93d291d1366b",
-  "repair_svg": "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/renders/gemma4_26b/viseval_3290@y_name@ASC_0/chart/chart.svg",
+  "repair_svg": "data/cases/viseval_3290@y_name@ASC_0/repair.svg",
   "repair_sha256": "2793932bab70461780b49ef05c38703a26a387484c7ec7565ccbdd2a2c65186f",
   "before": [
     [

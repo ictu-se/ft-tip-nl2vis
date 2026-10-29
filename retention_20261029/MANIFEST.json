@@ -7,6 +7,11 @@
       "sha256": "a9b23753adbd2367350b63cd657f33d1e8f58108bb68d381c75a58ffbb08f961"
     },
     {
+      "path": "CLEAN_REPLAY_VERIFICATION.json",
+      "bytes": 499,
+      "sha256": "57c858e5ade61b47db1c8c52bff8e07096d348720032796462e84f596bbb6676"
+    },
+    {
       "path": "README.md",
       "bytes": 2408,
       "sha256": "13f90afc0e1cac41c0fa21eeb8cb63c30768190ee7fd7020c051fcf2fad90b6c"
@@ -128,8 +133,8 @@
     },
     {
       "path": "figures/figure_provenance.json",
-      "bytes": 785,
-      "sha256": "551afdd23007458305b115ff71613c9241268636c856496ee5c26862d214f894"
+      "bytes": 712,
+      "sha256": "e63d20531042179e7ff810f3ef5ce2936b1654a15f1e99b322a6647618a0d0fe"
     },
     {
       "path": "figures/portable_figure_reproduction.json",
@@ -138,8 +143,8 @@
     },
     {
       "path": "figures/source_data/f1_actual_success.json",
-      "bytes": 2141,
-      "sha256": "457a72d30c2c13dc61e6306e1e081954868b90dc48acb0c35d71574305b99392"
+      "bytes": 1959,
+      "sha256": "95e73fd0cb43a93685c0a457e5d614d3c7f34595b8683bb92d5b94805270bded"
     },
     {
       "path": "figures/source_data/f2_case_atlas.csv",
@@ -193,8 +198,8 @@
     },
     {
       "path": "figures/source_data/f7_actual_failure.json",
-      "bytes": 1671,
-      "sha256": "16b91e582820afab3e852bfb80cf63b7e1ec8e2f151871e2463bc3b2457fc902"
+      "bytes": 1489,
+      "sha256": "3e56e8741be587ffd498e9dbf7300012652c9607d4d9d7df4a470701638ad597"
     },
     {
       "path": "figures/source_data/f8_input_cost.csv",

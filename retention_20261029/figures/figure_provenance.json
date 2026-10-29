@@ -3,14 +3,14 @@
   "image_generation_used": false,
   "new_model_calls": 0,
   "source_hashes": {
-    "verification/core_scores.json": "e942fdaa60dc6819f4b5f579d8447f69d01c1b1e8732ee8a57c3c19498d11e6a",
-    "verification/evidence_summary.json": "d333e900c6ce6ba53a43450fa85d1ac7d15a574289ddeb06c47e52a1f2960246",
-    "raw_schema_frontend_20261028/viseval_reference_audit/published_reference_objects.jsonl": "04f4da6483db540137e9ed917ea39197b3df97f5507830ca2b8927bee62d120f"
+    "evidence/core_scores.json": "e942fdaa60dc6819f4b5f579d8447f69d01c1b1e8732ee8a57c3c19498d11e6a",
+    "evidence/evidence_summary.json": "d333e900c6ce6ba53a43450fa85d1ac7d15a574289ddeb06c47e52a1f2960246",
+    "data/references.jsonl": "04f4da6483db540137e9ed917ea39197b3df97f5507830ca2b8927bee62d120f"
   },
   "case_atlas_cells": 1548,
   "interventions": 10,
   "benchmark_queries": 86,
   "full_transition_rows": 20,
   "paired_contrasts": 20,
-  "script_sha256": "fe0da32e22b1e9f258fae2388b471544cbf2eb42effd73178816e7b7c3f9f6a9"
+  "script_sha256": "a5e7ab59cdc26246f9cbd148351e0044861b44283014e0842e312901fe834c95"
 }
