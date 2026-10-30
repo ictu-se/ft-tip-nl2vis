@@ -1,0 +1,2055 @@
+[
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_233_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_233_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_233_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_246_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_246_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_246_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_246_3",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_247_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_247_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_247_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_247_3",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_297_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_297_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_340_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_416_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_470_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_470_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_471_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1460_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1460_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1460_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1460_3",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2019_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2027_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2110_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2110_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2646_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2646_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2646_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2646_3",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3229_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3229_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3229_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3230_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3230_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3240_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3291_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1495@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1495@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1495@x_name@ASC_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_317@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_317@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_330@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_330@y_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_349@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_349@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2497@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2497@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1181@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1181@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3288@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3288@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3290@y_name@ASC_0",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2013",
+            "value": 12.0
+          },
+          {
+            "year": "2017",
+            "value": 108.0
+          },
+          {
+            "year": "2016",
+            "value": 158.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2013",
+            "2017",
+            "2016"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2013",
+              12
+            ],
+            [
+              "2017",
+              108
+            ],
+            [
+              "2016",
+              158
+            ]
+          ],
+          "screen_order": [
+            [
+              "2013",
+              12
+            ],
+            [
+              "2017",
+              108
+            ],
+            [
+              "2016",
+              158
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "2793932bab70461780b49ef05c38703a26a387484c7ec7565ccbdd2a2c65186f"
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3290@y_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3290@y_name@ASC_2",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2013",
+            "value": 12.0
+          },
+          {
+            "year": "2017",
+            "value": 108.0
+          },
+          {
+            "year": "2016",
+            "value": 158.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2013",
+            "2017",
+            "2016"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2013",
+              12
+            ],
+            [
+              "2017",
+              108
+            ],
+            [
+              "2016",
+              158
+            ]
+          ],
+          "screen_order": [
+            [
+              "2013",
+              12
+            ],
+            [
+              "2017",
+              108
+            ],
+            [
+              "2016",
+              158
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "2793932bab70461780b49ef05c38703a26a387484c7ec7565ccbdd2a2c65186f"
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_465@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_465@y_name@ASC_1",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2009",
+            "value": 1.0
+          },
+          {
+            "year": "2012",
+            "value": 1.0
+          },
+          {
+            "year": "2013",
+            "value": 1.0
+          },
+          {
+            "year": "2015",
+            "value": 1.0
+          },
+          {
+            "year": "2010",
+            "value": 3.0
+          },
+          {
+            "year": "2011",
+            "value": 3.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2009",
+            "2012",
+            "2013",
+            "2015",
+            "2010",
+            "2011"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2009",
+              1
+            ],
+            [
+              "2012",
+              1
+            ],
+            [
+              "2013",
+              1
+            ],
+            [
+              "2015",
+              1
+            ],
+            [
+              "2010",
+              3
+            ],
+            [
+              "2011",
+              3
+            ]
+          ],
+          "screen_order": [
+            [
+              "2009",
+              1
+            ],
+            [
+              "2012",
+              1
+            ],
+            [
+              "2013",
+              1
+            ],
+            [
+              "2015",
+              1
+            ],
+            [
+              "2010",
+              3
+            ],
+            [
+              "2011",
+              3
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "2976921935f5270ff55880c7695ce830aa4262c5f46b9642550cb9d23a93951e"
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_468@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_468@y_name@DESC_1",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2010",
+            "value": 1633.0
+          },
+          {
+            "year": "2011",
+            "value": 1336.0
+          },
+          {
+            "year": "2012",
+            "value": 368.0
+          },
+          {
+            "year": "2015",
+            "value": 364.0
+          },
+          {
+            "year": "2013",
+            "value": 330.0
+          },
+          {
+            "year": "2009",
+            "value": 305.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2010",
+            "2011",
+            "2012",
+            "2015",
+            "2013",
+            "2009"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2010",
+              1633
+            ],
+            [
+              "2011",
+              1336
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "screen_order": [
+            [
+              "2010",
+              1633
+            ],
+            [
+              "2011",
+              1336
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "c223753ad64018be2efcf834474878f9ff36d0d88655447dd1af1e413a6e9fb3"
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_469@y_name@DESC_0",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2010",
+            "value": 544.3333333333334
+          },
+          {
+            "year": "2011",
+            "value": 445.3333333333333
+          },
+          {
+            "year": "2012",
+            "value": 368.0
+          },
+          {
+            "year": "2015",
+            "value": 364.0
+          },
+          {
+            "year": "2013",
+            "value": 330.0
+          },
+          {
+            "year": "2009",
+            "value": 305.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2010",
+            "2011",
+            "2012",
+            "2015",
+            "2013",
+            "2009"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2010",
+              544.3333333333334
+            ],
+            [
+              "2011",
+              445.3333333333333
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "screen_order": [
+            [
+              "2010",
+              544.3333333333334
+            ],
+            [
+              "2011",
+              445.3333333333333
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "579ae119783a7a4afc56a39b68ba04bfa23d4d74c421403f66521d702d1e7fbf"
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3247@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3247@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3256@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_640@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_640@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_642@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_642@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_642@x_name@DESC_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3218@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_3218@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_415@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_415@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_415@x_name@DESC_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_415@x_name@DESC_3",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2024@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2024@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2028@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_171@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_171@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_83@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_83@y_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1356@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1356@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1356@x_name@ASC_2",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_1356@x_name@ASC_3",
+    "repaired": false
+  },
+  {
+    "family": "gemma4_26b",
+    "sample_id": "viseval_2950@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_233_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_233_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_233_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_246_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_246_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_246_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_246_3",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_247_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_247_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_247_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_247_3",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_297_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_297_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_340_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_416_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_470_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_470_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_471_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1460_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1460_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1460_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1460_3",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2019_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2027_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2110_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2110_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2646_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2646_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2646_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2646_3",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3229_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3229_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3229_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3230_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3230_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3240_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3291_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1495@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1495@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1495@x_name@ASC_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_317@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_317@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_330@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_330@y_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_349@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_349@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2497@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2497@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1181@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1181@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3288@x_name@DESC_0",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2017",
+            "value": 108.0
+          },
+          {
+            "year": "2016",
+            "value": 158.0
+          },
+          {
+            "year": "2013",
+            "value": 12.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2017",
+            "2016",
+            "2013"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2017",
+              108
+            ],
+            [
+              "2016",
+              158
+            ],
+            [
+              "2013",
+              12
+            ]
+          ],
+          "screen_order": [
+            [
+              "2017",
+              108
+            ],
+            [
+              "2016",
+              158
+            ],
+            [
+              "2013",
+              12
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "cdd15afbb11df0d1f5b09ded7659b3fc56c28639e13af7496ca5977ec01178f3"
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3288@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3290@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3290@y_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3290@y_name@ASC_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_465@y_name@ASC_0",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2009",
+            "value": 1.0
+          },
+          {
+            "year": "2012",
+            "value": 1.0
+          },
+          {
+            "year": "2013",
+            "value": 1.0
+          },
+          {
+            "year": "2015",
+            "value": 1.0
+          },
+          {
+            "year": "2010",
+            "value": 3.0
+          },
+          {
+            "year": "2011",
+            "value": 3.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2009",
+            "2012",
+            "2013",
+            "2015",
+            "2010",
+            "2011"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2009",
+              1
+            ],
+            [
+              "2012",
+              1
+            ],
+            [
+              "2013",
+              1
+            ],
+            [
+              "2015",
+              1
+            ],
+            [
+              "2010",
+              3
+            ],
+            [
+              "2011",
+              3
+            ]
+          ],
+          "screen_order": [
+            [
+              "2009",
+              1
+            ],
+            [
+              "2012",
+              1
+            ],
+            [
+              "2013",
+              1
+            ],
+            [
+              "2015",
+              1
+            ],
+            [
+              "2010",
+              3
+            ],
+            [
+              "2011",
+              3
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "2976921935f5270ff55880c7695ce830aa4262c5f46b9642550cb9d23a93951e"
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_465@y_name@ASC_1",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2009",
+            "value": 1.0
+          },
+          {
+            "year": "2012",
+            "value": 1.0
+          },
+          {
+            "year": "2013",
+            "value": 1.0
+          },
+          {
+            "year": "2015",
+            "value": 1.0
+          },
+          {
+            "year": "2010",
+            "value": 3.0
+          },
+          {
+            "year": "2011",
+            "value": 3.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2009",
+            "2012",
+            "2013",
+            "2015",
+            "2010",
+            "2011"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2009",
+              1
+            ],
+            [
+              "2012",
+              1
+            ],
+            [
+              "2013",
+              1
+            ],
+            [
+              "2015",
+              1
+            ],
+            [
+              "2010",
+              3
+            ],
+            [
+              "2011",
+              3
+            ]
+          ],
+          "screen_order": [
+            [
+              "2009",
+              1
+            ],
+            [
+              "2012",
+              1
+            ],
+            [
+              "2013",
+              1
+            ],
+            [
+              "2015",
+              1
+            ],
+            [
+              "2010",
+              3
+            ],
+            [
+              "2011",
+              3
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "2976921935f5270ff55880c7695ce830aa4262c5f46b9642550cb9d23a93951e"
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_468@y_name@DESC_0",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2010",
+            "value": 1633.0
+          },
+          {
+            "year": "2011",
+            "value": 1336.0
+          },
+          {
+            "year": "2012",
+            "value": 368.0
+          },
+          {
+            "year": "2015",
+            "value": 364.0
+          },
+          {
+            "year": "2013",
+            "value": 330.0
+          },
+          {
+            "year": "2009",
+            "value": 305.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2010",
+            "2011",
+            "2012",
+            "2015",
+            "2013",
+            "2009"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2010",
+              1633
+            ],
+            [
+              "2011",
+              1336
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "screen_order": [
+            [
+              "2010",
+              1633
+            ],
+            [
+              "2011",
+              1336
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "c223753ad64018be2efcf834474878f9ff36d0d88655447dd1af1e413a6e9fb3"
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_468@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_469@y_name@DESC_0",
+    "repaired": true,
+    "specification": {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 600,
+      "height": 310,
+      "data": {
+        "values": [
+          {
+            "year": "2010",
+            "value": 544.3333333333334
+          },
+          {
+            "year": "2011",
+            "value": 445.3333333333333
+          },
+          {
+            "year": "2012",
+            "value": 368.0
+          },
+          {
+            "year": "2015",
+            "value": 364.0
+          },
+          {
+            "year": "2013",
+            "value": 330.0
+          },
+          {
+            "year": "2009",
+            "value": 305.0
+          }
+        ]
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#4c78a8"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "sort": [
+            "2010",
+            "2011",
+            "2012",
+            "2015",
+            "2013",
+            "2009"
+          ],
+          "title": "Year (ordered categories)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Plotted value"
+        }
+      },
+      "config": {
+        "axis": {
+          "labelFontSize": 12,
+          "titleFontSize": 13
+        },
+        "view": {
+          "stroke": null
+        }
+      }
+    },
+    "physical": {
+      "status": "captured_screen_order",
+      "traces": [
+        {
+          "mark": "bar",
+          "label": null,
+          "path_order": [
+            [
+              "2010",
+              544.3333333333334
+            ],
+            [
+              "2011",
+              445.3333333333333
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "screen_order": [
+            [
+              "2010",
+              544.3333333333334
+            ],
+            [
+              "2011",
+              445.3333333333333
+            ],
+            [
+              "2012",
+              368
+            ],
+            [
+              "2015",
+              364
+            ],
+            [
+              "2013",
+              330
+            ],
+            [
+              "2009",
+              305
+            ]
+          ],
+          "direction": "left_to_right"
+        }
+      ],
+      "visibility_issues": [],
+      "full_chart_correct": null
+    },
+    "svg_sha256": "579ae119783a7a4afc56a39b68ba04bfa23d4d74c421403f66521d702d1e7fbf"
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3247@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3247@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3256@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_640@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_640@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_642@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_642@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_642@x_name@DESC_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3218@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_3218@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_415@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_415@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_415@x_name@DESC_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_415@x_name@DESC_3",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2024@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2024@y_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2028@y_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_171@x_name@DESC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_171@x_name@DESC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_83@y_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_83@y_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1356@x_name@ASC_0",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1356@x_name@ASC_1",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1356@x_name@ASC_2",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_1356@x_name@ASC_3",
+    "repaired": false
+  },
+  {
+    "family": "qwen_local_27b",
+    "sample_id": "viseval_2950@y_name@ASC_0",
+    "repaired": false
+  }
+]

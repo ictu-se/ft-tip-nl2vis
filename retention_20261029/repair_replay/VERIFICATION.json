@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "saved_decisions": 172,
+  "decisions_matching_archive": 172,
+  "rendered_interventions": 10,
+  "specifications_matching_archive": 10,
+  "physical_captures_matching_archive": 10,
+  "svg_bytes_matching_archive": 10,
+  "exact_pair_and_mark_invariants_passed": 10,
+  "python": "3.11.15",
+  "new_model_calls": 0,
+  "independent_validation": false,
+  "scope": "Actual rendering replay from saved choices; not fresh model inference or new accuracy evidence.",
+  "node": "v26.0.0",
+  "vega": "6.2.0"
+}

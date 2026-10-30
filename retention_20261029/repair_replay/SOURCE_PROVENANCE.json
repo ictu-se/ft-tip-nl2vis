@@ -1,0 +1,15 @@
+{
+  "scope": "Extraction of frozen display functions; runtime path made portable. No fresh model inference.",
+  "sources": {
+    "raw_schema_frontend_20261028/hybrid_display_guard_candidate_20261028/display_guard.py": "afc785f916a179cbc4ecff3ca36118dacf04b549cb6177f47ac735a072b176cb",
+    "raw_schema_frontend_20261028/public_benchmark_20261028/analysis_calendar_compat/metric_compat.py": "72210d4a0086222c941b26722c80e403830dae1c9a94710f3d1ca58648a5ae56",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/campaign.py": "647a472e93c3701a67ab2f103b22ab5fcc7d60f739986029d3f28d2acbf91429",
+    "raw_schema_frontend_20261028/physical_capture_experimental/screen_order.py": "d2bcaa471cda7b1e45505f4dd839ceb6520c16c492595afe31408286524f94ec",
+    "research_notes/vrecs_prior_art_20261028/vega_capture.py": "ba0daea0951708b03e56ab1890ac1da120b9a56f64160ab966090c9085dbe3b4",
+    "research_notes/vrecs_prior_art_20261028/vega_runtime/capture.mjs": "72f7b06fc17c22a23acb0142837c95d184c595e00704710b84688b7465a78b70",
+    "raw_schema_frontend_20261028/hybrid_selector_candidate_20261028/public_experiment/results.jsonl": "8c63bb5336d0c38b15d2dec4098930d91e3923df0304fe06538903f2c9dec634",
+    "raw_schema_frontend_20261028/hybrid_value_preserving_display_candidate_20261028/decisions.json": "2f0d18bd621f2f78f04db55cb6d2c9d98e5aceff4ee9ddeb2c3600999f77963f"
+  },
+  "inputs": 172,
+  "rules": "Only display-rule inputs retained; no benchmark references, correctness scores, raw Python code or model rationales in inputs.json."
+}

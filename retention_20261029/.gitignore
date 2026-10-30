@@ -2,3 +2,5 @@
 __pycache__/
 regenerated_figures/
 regenerated_tables/
+repair_replay/vega_runtime/node_modules/
+repair_replay/regenerated/

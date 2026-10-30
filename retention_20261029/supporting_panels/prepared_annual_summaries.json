@@ -1,0 +1,598 @@
+{
+  "summaries": [
+    {
+      "family": "gemma4_26b",
+      "condition": "direct_equal_caps",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 187,
+          "execution_error": 12
+        },
+        "unsupported": {
+          "no_chart": 21
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 147,
+          "failure": 40,
+          "unknown": 12,
+          "denominator": 199,
+          "success_rate": 0.7386934673366834
+        },
+        "mark_correct": {
+          "success": 181,
+          "failure": 6,
+          "unknown": 12,
+          "denominator": 199,
+          "success_rate": 0.9095477386934674
+        },
+        "artist_group_labels_match": {
+          "success": 187,
+          "failure": 0,
+          "unknown": 12,
+          "denominator": 199,
+          "success_rate": 0.9396984924623115
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 141,
+          "failure": 46,
+          "unknown": 12,
+          "denominator": 199,
+          "success_rate": 0.7085427135678392
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 141
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "direct_equal_caps",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 199
+        },
+        "unsupported": {
+          "no_chart": 21
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 194,
+          "failure": 5,
+          "unknown": 0,
+          "denominator": 199,
+          "success_rate": 0.9748743718592965
+        },
+        "mark_correct": {
+          "success": 190,
+          "failure": 9,
+          "unknown": 0,
+          "denominator": 199,
+          "success_rate": 0.9547738693467337
+        },
+        "artist_group_labels_match": {
+          "success": 197,
+          "failure": 2,
+          "unknown": 0,
+          "denominator": 199,
+          "success_rate": 0.9899497487437185
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 186,
+          "failure": 13,
+          "unknown": 0,
+          "denominator": 199,
+          "success_rate": 0.9346733668341709
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 186
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "reasoned_equal_caps",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 193,
+          "execution_error": 6
+        },
+        "unsupported": {
+          "no_chart": 21
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 173,
+          "failure": 20,
+          "unknown": 6,
+          "denominator": 199,
+          "success_rate": 0.8693467336683417
+        },
+        "mark_correct": {
+          "success": 192,
+          "failure": 1,
+          "unknown": 6,
+          "denominator": 199,
+          "success_rate": 0.964824120603015
+        },
+        "artist_group_labels_match": {
+          "success": 191,
+          "failure": 2,
+          "unknown": 6,
+          "denominator": 199,
+          "success_rate": 0.9597989949748744
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 172,
+          "failure": 21,
+          "unknown": 6,
+          "denominator": 199,
+          "success_rate": 0.864321608040201
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 172
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "native_original",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "unscorable": 30,
+          "observed": 167,
+          "execution_error": 2
+        },
+        "unsupported": {
+          "observed": 17,
+          "unscorable": 4
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 116,
+          "failure": 51,
+          "unknown": 32,
+          "denominator": 199,
+          "success_rate": 0.5829145728643216
+        },
+        "mark_correct": {
+          "success": 164,
+          "failure": 3,
+          "unknown": 32,
+          "denominator": 199,
+          "success_rate": 0.8241206030150754
+        },
+        "artist_group_labels_match": {
+          "success": 97,
+          "failure": 70,
+          "unknown": 32,
+          "denominator": 199,
+          "success_rate": 0.48743718592964824
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 116,
+          "failure": 51,
+          "unknown": 32,
+          "denominator": 199,
+          "success_rate": 0.5829145728643216
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 87
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "native_casefold",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 197,
+          "execution_error": 2
+        },
+        "unsupported": {
+          "observed": 18,
+          "unscorable": 3
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 129,
+          "failure": 68,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.6482412060301508
+        },
+        "mark_correct": {
+          "success": 194,
+          "failure": 3,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.9748743718592965
+        },
+        "artist_group_labels_match": {
+          "success": 103,
+          "failure": 94,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.5175879396984925
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 129,
+          "failure": 68,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.6482412060301508
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 93
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "lida_default",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 194,
+          "execution_error": 5
+        },
+        "unsupported": {
+          "observed": 17,
+          "unscorable": 3,
+          "no_chart": 1
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 57,
+          "failure": 137,
+          "unknown": 5,
+          "denominator": 199,
+          "success_rate": 0.2864321608040201
+        },
+        "mark_correct": {
+          "success": 191,
+          "failure": 3,
+          "unknown": 5,
+          "denominator": 199,
+          "success_rate": 0.9597989949748744
+        },
+        "artist_group_labels_match": {
+          "success": 56,
+          "failure": 138,
+          "unknown": 5,
+          "denominator": 199,
+          "success_rate": 0.2814070351758794
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 57,
+          "failure": 137,
+          "unknown": 5,
+          "denominator": 199,
+          "success_rate": 0.2864321608040201
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 56
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "reasoned_equal_caps",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 198,
+          "execution_error": 1
+        },
+        "unsupported": {
+          "no_chart": 21
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 191,
+          "failure": 7,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.9597989949748744
+        },
+        "mark_correct": {
+          "success": 193,
+          "failure": 5,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.9698492462311558
+        },
+        "artist_group_labels_match": {
+          "success": 197,
+          "failure": 1,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.9899497487437185
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 187,
+          "failure": 11,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.9396984924623115
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 187
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "native_original",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 197,
+          "unscorable": 1,
+          "execution_error": 1
+        },
+        "unsupported": {
+          "unscorable": 4,
+          "observed": 17
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 163,
+          "failure": 34,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.8190954773869347
+        },
+        "mark_correct": {
+          "success": 197,
+          "failure": 0,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.9899497487437185
+        },
+        "artist_group_labels_match": {
+          "success": 125,
+          "failure": 72,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.628140703517588
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 163,
+          "failure": 34,
+          "unknown": 2,
+          "denominator": 199,
+          "success_rate": 0.8190954773869347
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 124
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "native_casefold",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 198,
+          "execution_error": 1
+        },
+        "unsupported": {
+          "unscorable": 4,
+          "observed": 17
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 163,
+          "failure": 35,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.8190954773869347
+        },
+        "mark_correct": {
+          "success": 198,
+          "failure": 0,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.9949748743718593
+        },
+        "artist_group_labels_match": {
+          "success": 125,
+          "failure": 73,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.628140703517588
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 163,
+          "failure": 35,
+          "unknown": 1,
+          "denominator": 199,
+          "success_rate": 0.8190954773869347
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 124
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "lida_default",
+      "status": "complete_component_summary",
+      "total_requests": 220,
+      "answerable_requests": 199,
+      "unsupported_requests": 21,
+      "observation_counts": {
+        "answerable": {
+          "observed": 191,
+          "execution_error": 2,
+          "unscorable": 6
+        },
+        "unsupported": {
+          "unscorable": 7,
+          "observed": 14
+        }
+      },
+      "endpoints": {
+        "values_correct": {
+          "success": 79,
+          "failure": 112,
+          "unknown": 8,
+          "denominator": 199,
+          "success_rate": 0.3969849246231156
+        },
+        "mark_correct": {
+          "success": 185,
+          "failure": 6,
+          "unknown": 8,
+          "denominator": 199,
+          "success_rate": 0.9296482412060302
+        },
+        "artist_group_labels_match": {
+          "success": 70,
+          "failure": 121,
+          "unknown": 8,
+          "denominator": 199,
+          "success_rate": 0.35175879396984927
+        },
+        "captured_data_numeric_mark_correct": {
+          "success": 79,
+          "failure": 112,
+          "unknown": 8,
+          "denominator": 199,
+          "success_rate": 0.3969849246231156
+        }
+      },
+      "unsupported_action_accuracy": null,
+      "annotation_validity": "not_evaluated",
+      "full_chart_accuracy": null,
+      "labeled_numeric_mark_success": 70
+    }
+  ],
+  "costs": [
+    {
+      "family": "gemma4_26b",
+      "condition": "direct_equal_caps",
+      "unique_inputs": 220,
+      "model_calls": 220,
+      "input_tokens": 160090,
+      "output_tokens": 15963,
+      "length_terminated": 0
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "direct_equal_caps",
+      "unique_inputs": 220,
+      "model_calls": 220,
+      "input_tokens": 156283,
+      "output_tokens": 22635,
+      "length_terminated": 0
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "reasoned_equal_caps",
+      "unique_inputs": 220,
+      "model_calls": 220,
+      "input_tokens": 172630,
+      "output_tokens": 44657,
+      "length_terminated": 0
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "reasoned_equal_caps",
+      "unique_inputs": 220,
+      "model_calls": 220,
+      "input_tokens": 168823,
+      "output_tokens": 50238,
+      "length_terminated": 0
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "native_original_and_casefold_shared_generation",
+      "unique_inputs": 220,
+      "model_calls": 509,
+      "input_tokens": 1436293,
+      "output_tokens": 220857,
+      "length_terminated": 0
+    },
+    {
+      "family": "gemma4_26b",
+      "condition": "lida_default",
+      "unique_inputs": 220,
+      "model_calls": 220,
+      "input_tokens": 361639,
+      "output_tokens": 169192,
+      "length_terminated": 1
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "native_original_and_casefold_shared_generation",
+      "unique_inputs": 220,
+      "model_calls": 473,
+      "input_tokens": 1340916,
+      "output_tokens": 342444,
+      "length_terminated": 5
+    },
+    {
+      "family": "qwen_local_27b",
+      "condition": "lida_default",
+      "unique_inputs": 220,
+      "model_calls": 220,
+      "input_tokens": 351323,
+      "output_tokens": 187876,
+      "length_terminated": 0
+    }
+  ],
+  "scope": "Previously inspected prepared-annual development inputs. Same model weights and per-call caps; context representation and total calls differ. Not final repair validation."
+}

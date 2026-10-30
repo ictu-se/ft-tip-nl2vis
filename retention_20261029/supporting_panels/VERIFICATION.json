@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "prepared_saved_case_scores": 2200,
+  "prepared_config_family_groups": 10,
+  "mark_base_requests": 128,
+  "mark_retention": [
+    {
+      "family": "gemma4_e4b",
+      "n": 57,
+      "before": 53,
+      "after": 45,
+      "gains": 1,
+      "losses": 9
+    },
+    {
+      "family": "qwen35_4b",
+      "n": 57,
+      "before": 34,
+      "after": 34,
+      "gains": 1,
+      "losses": 1
+    }
+  ],
+  "new_model_calls": 0,
+  "scope": "Counts reconciled from saved per-case scores, not fresh inference, new annotation or independent final-method validation."
+}

@@ -1,0 +1,11 @@
+{
+  "sources": {
+    "research_notes/direct_nl2vis_comparison_20261026/development_comparison_inputs/references.jsonl": "18faf72734db4f03cd10ef7f4005daeffd0d28282c838659745202576afefca1",
+    "same_backbone_planner_20261027/matched_direct_20261028/full/analysis/case_outcomes.jsonl": "91d5bb36ed7c024d308707b2ec20832a83f8cf3e190d964e8a4531b15f527a81",
+    "same_backbone_planner_20261027/matched_direct_20261028/full/analysis/report.json": "d85bf1d27352c9d1a72b8ee362e23fc2230616e21cd254881936f7faab2777ae",
+    "mark_factorial_20261025/verification/completed_arms/gemma4_e4b_combined/relation_audit_generic.json": "c2751d127c88a1dece0770b98cd38523494d253e8cf090be94291b027769260e",
+    "mark_factorial_20261025/verification/completed_arms/qwen35_4b_combined/relation_audit_generic.json": "f3de0b6161d3b221e0bafcf5c0e9283740a5300df6a54728d185366f0120188e",
+    "mark_factorial_20261025/verification/full_campaign_assessment/report.json": "53d2e4b30f1bea5eab133afb80eb33ae5755a95ae087ae2e25043cea83ebe351"
+  },
+  "scope": "Earlier supporting panels. Saved per-case measurements, not independent tests of the final raw-table repair. Prepared annual and mark-augmentation panels overlap; do not pool them or add them to the public 86-query denominator."
+}

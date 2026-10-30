@@ -27,3 +27,18 @@ The data show that replacement can improve complete-output counts while causing 
 ## Provenance
 
 The scores and before/after captures are unchanged from the retained experiments. Only file organization and the plotting script's input paths were refactored for portability. The two reproduced chart pairs are original experimental artifacts. VisEval reference objects and their MIT license are attributed in `THIRD_PARTY_NOTICES.txt`. This package includes no manuscript source, manuscript PDF, editorial correspondence, secrets or model weights.
+
+## Additional executable evidence (2026-10-30)
+
+`repair_replay/` now executes the frozen display rule on all 172 saved choices
+and renders the ten eligible charts. A clean-directory run reproduced every
+decision, specification, physical capture and SVG byte for byte. See its README
+for the Node/Vega setup and command. This is deterministic repair replay, not
+fresh upstream model inference.
+
+`supporting_panels/` restores earlier prepared-annual and mark-retention evidence
+already described in the manuscript. Run `python scripts/reproduce_supporting_panels.py`
+to reconcile the 2,200 saved prepared-panel scores and 128 original mark-panel
+records. These overlapping development panels are never pooled with the public
+86-query slice. Full historical training and model-inference replay remain out
+of scope for this portable release.

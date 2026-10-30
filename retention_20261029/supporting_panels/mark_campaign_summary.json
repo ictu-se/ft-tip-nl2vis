@@ -1,0 +1,158 @@
+{
+  "status": "full_factorial_review_complete_joint_gate_failed",
+  "gates": {
+    "gemma4_e4b": {
+      "triplet_counts": {
+        "original": 12,
+        "omission": 48,
+        "override": 12,
+        "combined": 53,
+        "fewshot_forward": 17,
+        "fewshot_reverse": 17
+      },
+      "gain_over_all_existing_baseline_orders": 36,
+      "original_dev_change": {
+        "free": {
+          "intent_correct": 18,
+          "temporal_correct": -8
+        },
+        "schema": {
+          "intent_correct": 18,
+          "temporal_correct": -8
+        }
+      },
+      "pass_count_and_preservation_gate": false,
+      "combined_triplet_valid": 192,
+      "combined_triplet_n": 192,
+      "pass_gate": false
+    },
+    "qwen35_4b": {
+      "triplet_counts": {
+        "original": 5,
+        "omission": 37,
+        "override": 5,
+        "combined": 37,
+        "fewshot_forward": 24,
+        "fewshot_reverse": 11
+      },
+      "gain_over_all_existing_baseline_orders": 13,
+      "original_dev_change": {
+        "free": {
+          "intent_correct": 20,
+          "temporal_correct": 0
+        },
+        "schema": {
+          "intent_correct": 20,
+          "temporal_correct": 0
+        }
+      },
+      "pass_count_and_preservation_gate": true,
+      "combined_triplet_valid": 191,
+      "combined_triplet_n": 192,
+      "pass_gate": true
+    }
+  },
+  "replication_allocation_gate": false,
+  "interactions": [
+    {
+      "family": "gemma4_e4b",
+      "metric": "triplet_intent",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 7.8125,
+      "conditional_dataset_cluster_95": [
+        -7.317969870875178,
+        23.809523809523807
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "gemma4_e4b",
+      "metric": "triplet_mark",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 0.0,
+      "conditional_dataset_cluster_95": [
+        0.0,
+        0.0
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "gemma4_e4b",
+      "metric": "triplet_analytic_correct",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 7.8125,
+      "conditional_dataset_cluster_95": [
+        -4.6875,
+        21.314402810304404
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "gemma4_e4b",
+      "metric": "triplet_analytic_invariant",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 9.375,
+      "conditional_dataset_cluster_95": [
+        0.0,
+        19.672131147540984
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "qwen35_4b",
+      "metric": "triplet_intent",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 0.0,
+      "conditional_dataset_cluster_95": [
+        -4.761904761904762,
+        4.285714285714286
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "qwen35_4b",
+      "metric": "triplet_mark",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 0.0,
+      "conditional_dataset_cluster_95": [
+        -4.411764705882353,
+        4.615384615384616
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "qwen35_4b",
+      "metric": "triplet_analytic_correct",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 3.125,
+      "conditional_dataset_cluster_95": [
+        0.0,
+        7.8125
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    },
+    {
+      "family": "qwen35_4b",
+      "metric": "triplet_analytic_invariant",
+      "contrast": "combined-omission-override+original",
+      "effect_pp": 10.9375,
+      "conditional_dataset_cluster_95": [
+        -1.5873015873015872,
+        21.73913043478261
+      ],
+      "clusters": 15,
+      "resamples": 10000
+    }
+  ],
+  "new_dev_predictions": 3072,
+  "smoke_predictions": 36,
+  "training_runs": 6,
+  "independent_confirmation": false
+}

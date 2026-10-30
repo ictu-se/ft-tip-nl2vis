@@ -4,5 +4,8 @@
   "fresh_inference_replication": false,
   "raw_campaign_logs_included": false,
   "model_blobs_included": false,
-  "manuscripts_included": false
+  "manuscripts_included": false,
+  "actual_repair_execution": true,
+  "earlier_supporting_panels_included": true,
+  "update_date": "2026-10-30"
 }
